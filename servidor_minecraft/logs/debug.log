@@ -8374,3 +8374,148 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 23:04:29.787] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=7, z=260}
 [20Apr2025 23:04:29.787] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=261}
 [20Apr2025 23:05:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[20Apr2025 23:06:12.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:06:12.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:07:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
+[20Apr2025 23:07:28.554] [Worker-Main-17/DEBUG] [ModernFix/]: Structure watching:logless_tree/oak/logless_tree3 is being run through DFU (hash 011f1cbbad0f3064b53677c996b5197c6b03a08e4bc7424a47eb5bc6517b7beb), this will cause launch time delays
+[20Apr2025 23:07:28.621] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[20Apr2025 23:07:28.629] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[20Apr2025 23:07:29.895] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=261}
+[20Apr2025 23:07:29.897] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=114, y=5, z=260}
+[20Apr2025 23:07:29.899] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=7, z=285}
+[20Apr2025 23:07:29.899] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=268}
+[20Apr2025 23:07:29.900] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=7, z=278}
+[20Apr2025 23:07:29.905] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=114, y=5, z=260}
+[20Apr2025 23:07:29.912] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=7, z=285}
+[20Apr2025 23:07:29.912] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=268}
+[20Apr2025 23:07:29.913] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=7, z=303}
+[20Apr2025 23:07:29.913] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=7, z=278}
+[20Apr2025 23:07:29.913] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=7, z=296}
+[20Apr2025 23:07:29.913] [Worker-Main-26/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=286}
+[20Apr2025 23:07:30.010] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=126, y=7, z=303}
+[20Apr2025 23:07:30.011] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=7, z=296}
+[20Apr2025 23:07:30.011] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=286}
+[20Apr2025 23:07:30.179] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=129, y=7, z=304}
+[20Apr2025 23:07:58.866] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[20Apr2025 23:10:24.588] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_03 is being run through DFU (hash 2585f9ec808368943a97ce36435db7a7e588f6c0aa7d59f983b3828260f6ec2e), this will cause launch time delays
+[20Apr2025 23:10:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Overkill]
+[20Apr2025 23:10:26.442] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@72e7f601 for service interface com.blamejared.clumps.platform.IEventHelper
+[20Apr2025 23:10:26.443] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@1aba2a2e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[20Apr2025 23:11:12.084] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=114, y=5, z=260}
+[20Apr2025 23:11:12.213] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=114, y=5, z=260}
+[20Apr2025 23:11:12.214] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=268}
+[20Apr2025 23:11:12.219] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=7, z=268}
+[20Apr2025 23:11:12.233] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=129, y=7, z=304}
+[20Apr2025 23:11:12.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:11:12.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:16:04.045] [Worker-Main-19/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house is being run through DFU (hash d76810475d0e95759e3aba14294cb4faa0f372ebdd371e669f8740fcad373d48), this will cause launch time delays
+[20Apr2025 23:16:04.136] [Worker-Main-19/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[20Apr2025 23:16:05.696] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1724 ms
+[20Apr2025 23:16:12.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:16:12.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:16:19.033] [Worker-Main-26/DEBUG] [ModernFix/]: Structure watching:logless_tree/acacia/logless_tree2 is being run through DFU (hash 5182f0f5ddb778043f673e9179387339e7cb40e576c487bf37c706447ed9fb71), this will cause launch time delays
+[20Apr2025 23:16:21.054] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_01 is being run through DFU (hash d938264cbdbe6c3fbc712b9138dad69981ed85b1cb37cdd3c3ddbac6d821b63b), this will cause launch time delays
+[20Apr2025 23:16:21.120] [Worker-Main-18/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail2 is being run through DFU (hash 70f145f792102dd3bdc69bd1a19c30374e481b0aa00615cc68a17b72a990442b), this will cause launch time delays
+[20Apr2025 23:16:24.782] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[20Apr2025 23:16:24.923] [Worker-Main-18/DEBUG] [ModernFix/]: Structure watching:leafless_grove/oak_birch/grove1 is being run through DFU (hash 14611ca03b12e2ea8afd41f60f56485f5a4d1cf5c7d57478ff4ae7a59f2739e9), this will cause launch time delays
+[20Apr2025 23:16:25.010] [Worker-Main-18/DEBUG] [ModernFix/]: Structure watching:leafless_grove/oak_birch/grove2 is being run through DFU (hash d97dcab539cb7e2452b022816a681589b91bce34a056d00da37d714dcd211581), this will cause launch time delays
+[20Apr2025 23:16:25.350] [Worker-Main-26/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:lich_tower/bottom is being run through DFU (hash b5a5d1188127a6180019fab0bb4eec7da2f58f822cf7df839925e65dd4b77108), this will cause launch time delays
+[20Apr2025 23:16:32.276] [Worker-Main-17/DEBUG] [ModernFix/]: Structure watching:logless_tree/acacia/logless_tree4 is being run through DFU (hash e58854ba7348f8aa2bdf726bc0b6111b189f3e18d3ef09ecc2ad4d8bfd711f28), this will cause launch time delays
+[20Apr2025 23:16:32.280] [Worker-Main-17/DEBUG] [ModernFix/]: Structure watching:logless_tree/oak/logless_tree1 is being run through DFU (hash 2ed9557e6de4eb760b4ba2a409aac37ba54a5315b3d53a386ba791db4a4b3fef), this will cause launch time delays
+[20Apr2025 23:16:32.285] [Worker-Main-17/DEBUG] [ModernFix/]: Structure watching:logless_tree/spruce/logless_tree1 is being run through DFU (hash f267da65b549df9c29871c07178c35a4e1d56e1f8eabf94da425dbf12c680b65), this will cause launch time delays
+[20Apr2025 23:16:32.433] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[20Apr2025 23:16:32.783] [Worker-Main-26/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:mini_ferma is being run through DFU (hash 0350148f30ba94735785682d784747320ea39a7eafb1bde83add94e83e68a5b5), this will cause launch time delays
+[20Apr2025 23:16:33.604] [Worker-Main-18/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_07 is being run through DFU (hash 042aead2a5019deacd4a39966d7feff4af55d050552da627c9d3b7635b8b2c0f), this will cause launch time delays
+[20Apr2025 23:16:35.477] [Worker-Main-18/DEBUG] [ModernFix/]: Structure watching:logless_tree/acacia/logless_tree3 is being run through DFU (hash 357646c9d7acb87f020746aaf0c324fe695b11f0e81b193cd1498db4c86ae61a), this will cause launch time delays
+[20Apr2025 23:16:36.143] [Worker-Main-18/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_16 is being run through DFU (hash 43ec059b7f0af0bf95c5db235b76d6428f93eb84ccf6c61d9417bf960dccab28), this will cause launch time delays
+[20Apr2025 23:16:41.535] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_08
+[20Apr2025 23:16:42.398] [Worker-Main-17/DEBUG] [mixin/]: Mixing ai.task.memory_change_counting.MultiTickTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.Behavior
+[20Apr2025 23:16:42.398] [Worker-Main-17/DEBUG] [mixin/]: lithium.mixins.json:ai.task.memory_change_counting.MultiTickTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Apr2025 23:16:42.413] [Worker-Main-17/DEBUG] [mixin/]: Mixing ai.task.replace_streams.CompositeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[20Apr2025 23:16:42.414] [Worker-Main-17/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.CompositeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Apr2025 23:16:42.422] [Worker-Main-17/DEBUG] [mixin/]: Mixing ai.task.replace_streams.WeightedListMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[20Apr2025 23:16:42.422] [Worker-Main-17/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.WeightedListMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Apr2025 23:16:46.293] [Worker-Main-17/DEBUG] [ModernFix/]: Structure graveyard:memorial_tree/memorial_tree_01 is being run through DFU (hash 311ffe6c0ec2444b7bfe08d21d04de6afb3b7d12fa370f2e2246b10bd5072ba0), this will cause launch time delays
+[20Apr2025 23:16:47.969] [Worker-Main-19/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[20Apr2025 23:16:47.974] [Worker-Main-19/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[20Apr2025 23:16:47.974] [Worker-Main-19/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$8892b9$0 in kiwi.mixins.json:WorkAtComposterAccess
+[20Apr2025 23:16:47.974] [Worker-Main-19/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$8892b9$1 in kiwi.mixins.json:WorkAtComposterAccess
+[20Apr2025 23:16:47.982] [Worker-Main-19/DEBUG] [mixin/]: Mixing VillagerGoalHackMixin from sawmill-common.mixins.json into net.minecraft.world.entity.ai.behavior.StrollToPoi
+[20Apr2025 23:16:48.030] [Worker-Main-19/DEBUG] [mixin/]: Mixing ai.poi.tasks.HideInHomeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[20Apr2025 23:16:48.030] [Worker-Main-19/DEBUG] [mixin/]: lithium.mixins.json:ai.poi.tasks.HideInHomeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Apr2025 23:16:48.457] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[20Apr2025 23:16:48.466] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:lighthouse/lighthouse_part_2 is being run through DFU (hash 72a6a69c4455c2899ed255d2e47c06e16586e99461fdc851d097d0e1833fb76d), this will cause launch time delays
+[20Apr2025 23:16:49.474] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[20Apr2025 23:16:49.474] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[20Apr2025 23:16:49.476] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[20Apr2025 23:16:49.476] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[20Apr2025 23:16:49.580] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[20Apr2025 23:16:51.595] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[20Apr2025 23:16:52.332] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[20Apr2025 23:16:52.332] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[20Apr2025 23:16:52.333] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[20Apr2025 23:16:52.333] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[20Apr2025 23:16:52.333] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[20Apr2025 23:16:52.334] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[20Apr2025 23:16:56.791] [Worker-Main-17/DEBUG] [ModernFix/]: Structure watching:logless_tree/spruce/logless_tree2 is being run through DFU (hash d124e5c7752d944fe4b7a8ecd607fedc6e1f44747b70b030e3efaab7e13d66c3), this will cause launch time delays
+[20Apr2025 23:16:56.851] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$023294075a104c48b447d1d7ddaecdd1 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[20Apr2025 23:17:01.148] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[20Apr2025 23:17:03.927] [Worker-Main-18/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_04 is being run through DFU (hash 905a57ec840629a1c816db6c1afcf5f3a3481bec7d3e7e2630c4ba5aee5de0b7), this will cause launch time delays
+[20Apr2025 23:17:03.940] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_02 is being run through DFU (hash 98cb9c5de7ecf1ff4c79da97f8d6b0881fa20f5c8f68035e23253b86bfd60a45), this will cause launch time delays
+[20Apr2025 23:17:03.947] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_09 is being run through DFU (hash 02636b9bcb6f16e733d4df6837b1b747731c97464bb8ac69e921dcf2a14efe85), this will cause launch time delays
+[20Apr2025 23:17:03.955] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_05 is being run through DFU (hash f28e040f80cf3eac890eb3ba259b687a2d5cb8c860f8087eafd723942d9e1b88), this will cause launch time delays
+[20Apr2025 23:17:03.959] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_06 is being run through DFU (hash e9a91954b91a3a036a1df22475c2c78cf48b640e849d7b457ed188e9f227b128), this will cause launch time delays
+[20Apr2025 23:17:03.985] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_01 is being run through DFU (hash c8c683eb9d07d2be83a151244a07ee3f7acfaea84474a2718e3ed2023f06b1a9), this will cause launch time delays
+[20Apr2025 23:17:03.997] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/trap_01 is being run through DFU (hash 91bb14226bb9d1d1132da4e1a6f1f8b99b505f8911334bf6095881138878f8f8), this will cause launch time delays
+[20Apr2025 23:17:04.017] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/trap_02 is being run through DFU (hash 1ecfacf3cb3adac792561531eee9472f89c6bf715c81dfad8e314dd42cc66243), this will cause launch time delays
+[20Apr2025 23:17:04.041] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_03 is being run through DFU (hash 5863cca14595378676a09a97076db01e490c3a86a7685a63811cf54ccb721e1b), this will cause launch time delays
+[20Apr2025 23:17:04.052] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/room_04 is being run through DFU (hash b6c1cbf77ad67e767672cf5df88272e4d7e2bc9cf39f77c932feeb4c784ec833), this will cause launch time delays
+[20Apr2025 23:17:04.168] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_11 is being run through DFU (hash 1573c89f2d8f624626032b85c521379a4fadf7f16feacf1985f0bc3da616d11d), this will cause launch time delays
+[20Apr2025 23:17:04.173] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_05 is being run through DFU (hash 72707ebf6587a512df16828eea4b559daec55f98951577ec2b38e185d4fb892f), this will cause launch time delays
+[20Apr2025 23:17:04.184] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/trap_03 is being run through DFU (hash 598869416159e956dd8856fbc8d23db6fb1cb843c9fd4946e24f4763e2082f63), this will cause launch time delays
+[20Apr2025 23:17:04.204] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/library_01 is being run through DFU (hash 4efb44b2b6e0b57f7d7d857b48457e9a4d06d8acadbaedb2056282afee43ea54), this will cause launch time delays
+[20Apr2025 23:17:04.263] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corner_03 is being run through DFU (hash 15a355af23ccc0b6eb990ce37fe7a8f28ad7f37866afea18c852b2b00242ba4b), this will cause launch time delays
+[20Apr2025 23:17:04.274] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_01 is being run through DFU (hash 8b895c59367930ea3ac919d289c9166bac8c9dd635eb2717c80c71291a87a0de), this will cause launch time delays
+[20Apr2025 23:17:04.279] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_04 is being run through DFU (hash baa2e12e45eeabc38db945cb7067cd1dd2a816fdbbba3bc129be5404f4809c62), this will cause launch time delays
+[20Apr2025 23:17:04.288] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/room_02 is being run through DFU (hash eccad23be21833f5e0fa97b90d769a24b61e773294c124dcc428bc6d9996e996), this will cause launch time delays
+[20Apr2025 23:17:04.341] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_06 is being run through DFU (hash 6bd0833ad848fdb87d815a897efd8bf18051301d4fb9824fd7def7db5108c0e2), this will cause launch time delays
+[20Apr2025 23:17:04.346] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/room_01 is being run through DFU (hash 31c3522596ba929655d0c83477bed9c6cc46a8ad6002c4cb437e7793236fb52e), this will cause launch time delays
+[20Apr2025 23:17:04.356] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_03 is being run through DFU (hash 49b19255aa5a3b05353a2708b2e437554f5f60981ada0ddd1f9f376f328b2bae), this will cause launch time delays
+[20Apr2025 23:17:04.362] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_12 is being run through DFU (hash 02dd429f8d832993ef0b149d79f61a49bdc186911a2a5a90e7979b06a6e14986), this will cause launch time delays
+[20Apr2025 23:17:04.365] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corner_01 is being run through DFU (hash 88b64c09fdd1a1650cb54ac15d3204de4ce61445def9bdfba8e9a864021d94bd), this will cause launch time delays
+[20Apr2025 23:17:04.379] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_08 is being run through DFU (hash ff452b7fec06a38338805846e5922e1d33773641f4298a26552429bab6a21121), this will cause launch time delays
+[20Apr2025 23:17:04.385] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_13 is being run through DFU (hash d3877bfb7d837ac19e518f90ceb8e521424550ca542050e009333ef9659a0c91), this will cause launch time delays
+[20Apr2025 23:17:04.388] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_10 is being run through DFU (hash a6c4efb3eea373df75ed56b064a075bf242b07863eaa6d0d93aea4d657c22b6e), this will cause launch time delays
+[20Apr2025 23:17:04.398] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/library_02 is being run through DFU (hash 649a1786b2b857c2b1dd8fc2d2d9e9a1c53a171102bd9dcac33f9862b719af79), this will cause launch time delays
+[20Apr2025 23:17:04.417] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_04 is being run through DFU (hash 4c826fb7560afd749c232dcabb7663114ea496f67dc15f812a85d69cfdc9e4c1), this will cause launch time delays
+[20Apr2025 23:17:04.421] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corner_02 is being run through DFU (hash 3dba341d161634343fb6a943bd7b9bb90f3175cf4ee04ece7bfb81bfa164beee), this will cause launch time delays
+[20Apr2025 23:17:04.429] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_07 is being run through DFU (hash 13a47308a635b7e67b6177b204a2ae327acd2124920cbe72d5f52517685e6208), this will cause launch time delays
+[20Apr2025 23:17:05.158] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[20Apr2025 23:17:06.045] [Worker-Main-19/DEBUG] [ModernFix/]: Structure watching:torch_tunnel/2x2/tunnel is being run through DFU (hash 0e53cbc1eb5dd0e345664796a1079053ae3fba52a126b8d81c3150122048082a), this will cause launch time delays
+[20Apr2025 23:17:06.548] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[20Apr2025 23:17:08.783] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[20Apr2025 23:17:08.808] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[20Apr2025 23:17:10.302] [Worker-Main-26/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_03 is being run through DFU (hash 9c672064577c8faaa52d9dcc7b4a0dc2c4c4b3b63c415c1bf325003143735632), this will cause launch time delays
+[20Apr2025 23:17:10.526] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[20Apr2025 23:17:29.938] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_02 is being run through DFU (hash 3ebfdf2002a8616f946b612714ca2aaef948e21fc0586aefefad13f6a5d00e89), this will cause launch time delays
+[20Apr2025 23:17:33.082] [Worker-Main-26/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_01 is being run through DFU (hash e174e253dc9ebfecc92a85e194a8cda7121592ed4303f47201d0cae4e948b6e7), this will cause launch time delays
+[20Apr2025 23:17:33.455] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[20Apr2025 23:17:34.548] [Worker-Main-18/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_05 is being run through DFU (hash 0bbf75482ba9bbec44f53d5f1fd980c71152ea7e9d5e4913027f5aaf841ff972), this will cause launch time delays
+[20Apr2025 23:17:34.819] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[20Apr2025 23:17:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the time to 1000]
+[20Apr2025 23:21:12.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:21:12.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:23:12.610] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Apr2025 23:23:12.611] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 54
+}
+[20Apr2025 23:23:12.611] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[20Apr2025 23:23:12.611] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "u _R#^0k0\\K320V=M%"
+]

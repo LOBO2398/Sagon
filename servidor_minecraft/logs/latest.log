@@ -2635,3 +2635,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Apr2025 23:04:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
 [20Apr2025 23:04:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the time to 1000]
 [20Apr2025 23:05:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[20Apr2025 23:07:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
+[20Apr2025 23:10:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Overkill]
+[20Apr2025 23:16:05.696] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1724 ms
+[20Apr2025 23:16:49.474] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[20Apr2025 23:16:49.474] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[20Apr2025 23:16:49.475] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[20Apr2025 23:16:49.476] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[20Apr2025 23:16:49.476] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[20Apr2025 23:16:49.580] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[20Apr2025 23:16:52.332] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[20Apr2025 23:16:52.332] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[20Apr2025 23:16:52.333] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[20Apr2025 23:16:52.333] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[20Apr2025 23:16:52.333] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[20Apr2025 23:16:52.334] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[20Apr2025 23:17:33.455] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[20Apr2025 23:17:34.819] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[20Apr2025 23:17:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the time to 1000]
+[20Apr2025 23:23:12.610] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Apr2025 23:23:12.611] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 54
+}
+[20Apr2025 23:23:12.611] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[20Apr2025 23:23:12.611] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "u _R#^0k0\\K320V=M%"
+]
