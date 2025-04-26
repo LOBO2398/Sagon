@@ -1311,3 +1311,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 20:28:25.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
 [26Apr2025 20:28:33.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=42} BlockPos{x=-11, y=69, z=47}
 [26Apr2025 20:29:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Stone Age]
+[26Apr2025 20:29:46.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[26Apr2025 20:29:57.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Healing Power]
+[26Apr2025 20:30:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[26Apr2025 20:30:54.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=42} BlockPos{x=-16, y=69, z=39}
+[26Apr2025 20:30:54.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=42} BlockPos{x=-16, y=69, z=40}
+[26Apr2025 20:30:54.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=42} BlockPos{x=-15, y=69, z=39}
+[26Apr2025 20:30:54.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=42} BlockPos{x=-16, y=69, z=39}
+[26Apr2025 20:30:54.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=42} BlockPos{x=-16, y=69, z=40}
+[26Apr2025 20:30:55.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=41} BlockPos{x=-16, y=69, z=41}
+[26Apr2025 20:30:57.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=41} BlockPos{x=-15, y=69, z=38}
+[26Apr2025 20:30:58.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=36} BlockPos{x=-16, y=69, z=35}
+[26Apr2025 20:30:58.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=34} BlockPos{x=-16, y=69, z=34}
+[26Apr2025 20:30:59.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=34} BlockPos{x=-14, y=69, z=36}
+[26Apr2025 20:32:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [The World of Cobblemon!]
+[26Apr2025 20:33:39.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agus
+[26Apr2025 20:33:49.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> volve pendejo pajero
+[26Apr2025 20:35:54.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Where's my Victory Music?]
+[26Apr2025 20:36:12.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[26Apr2025 20:36:30.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Healing Power]
+[26Apr2025 20:36:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[26Apr2025 20:38:13.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[26Apr2025 20:38:38.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[26Apr2025 20:39:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 hit the ground too hard whilst trying to escape Younguer

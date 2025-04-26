@@ -168,6 +168,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745698461498
           }
+        },
+        "sentret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745699595139
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -181,8 +188,8 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 2,
-    "totalPvPBattleVictoryCount": 2,
+    "totalBattleVictoryCount": 3,
+    "totalPvPBattleVictoryCount": 3,
     "totalPvWBattleVictoryCount": 0,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,

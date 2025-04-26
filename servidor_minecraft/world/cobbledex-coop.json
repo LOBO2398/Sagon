@@ -399,6 +399,21 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745698516737
       }
+    },
+    "oshawott": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745699524540,
+        "caughtTimestamp": 1745699524540
+      }
+    },
+    "oddish": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745699594539
+      }
     }
   }
 }
