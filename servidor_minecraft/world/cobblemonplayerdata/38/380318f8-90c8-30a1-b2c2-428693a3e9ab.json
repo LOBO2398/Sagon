@@ -107,6 +107,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745699594539
           }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745700182564
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745700230247
+          }
         }
       },
       "name": "cobbledex_discovery"
