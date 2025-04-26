@@ -11,15 +11,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-26 00:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2025-04-26 00:05:22 +0000"
     },
     "done": false
   },
-  "born_in_chaos_v1:bornin_chaos": {
+  "survivallegends:root": {
     "criteria": {
-      "bornin_chaos_0": "2025-04-26 00:05:21 +0000"
+      "yak": "2025-04-26 06:03:27 +0000"
     },
     "done": true
   },
