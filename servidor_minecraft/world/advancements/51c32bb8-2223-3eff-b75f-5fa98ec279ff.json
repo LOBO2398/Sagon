@@ -589,6 +589,12 @@
     },
     "done": true
   },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-26 21:43:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:46:51 +0000"

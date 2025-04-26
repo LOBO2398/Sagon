@@ -175,6 +175,38 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745699595139
           }
+        },
+        "diggersby": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745703739616,
+            "caughtTimestamp": 1745703739616
+          }
+        },
+        "charmeleon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745703757775,
+            "caughtTimestamp": 1745703757775
+          }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745703954500,
+            "caughtTimestamp": 1745703954500
+          }
+        },
+        "persian": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745704126955,
+            "caughtTimestamp": 1745704126955
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -185,21 +217,28 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 7,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 10,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "normal": 2,
+      "ground": 1,
+      "water": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
       "cobblemon:kakuna": 1,
       "cobblemon:gimmighoul": 1,
-      "cobblemon:wooloo": 1
+      "cobblemon:wooloo": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:voltorb": 1,
+      "cobblemon:growlithe": 1
     },
     "aspectsCollected": {}
   }

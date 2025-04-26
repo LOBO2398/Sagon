@@ -805,6 +805,7 @@
       "cooked_porkchop": "2025-04-26 06:13:52 +0000",
       "chicken": "2025-04-26 20:56:26 +0000",
       "cooked_mutton": "2025-04-26 21:10:22 +0000",
+      "cooked_beef": "2025-04-26 21:42:18 +0000",
       "apple": "2025-04-26 21:26:21 +0000",
       "rabbit": "2025-04-26 00:11:42 +0000",
       "bread": "2025-04-26 21:26:18 +0000"
@@ -1468,6 +1469,12 @@
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-04-26 21:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 21:48:13 +0000"
     },
     "done": true
   },
@@ -2202,6 +2209,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 21:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-26 21:44:44 +0000"
     },
     "done": true
   },
@@ -2967,6 +2980,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-26 21:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-04-26 21:34:36 +0000"
@@ -3169,6 +3188,12 @@
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-04-26 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-26 21:42:19 +0000"
     },
     "done": true
   },
@@ -3883,6 +3908,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-26 21:06:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-04-26 21:42:37 +0000"
     },
     "done": true
   },

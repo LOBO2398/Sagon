@@ -421,6 +421,38 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745702021501
       }
+    },
+    "diggersby": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745703739617,
+        "caughtTimestamp": 1745703739617
+      }
+    },
+    "charmeleon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745703757776,
+        "caughtTimestamp": 1745703757776
+      }
+    },
+    "persian": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745703794710,
+        "caughtTimestamp": 1745703794710
+      }
+    },
+    "psyduck": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745703954501,
+        "caughtTimestamp": 1745703954501
+      }
     }
   }
 }
