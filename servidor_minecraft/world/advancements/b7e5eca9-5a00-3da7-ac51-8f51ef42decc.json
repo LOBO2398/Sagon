@@ -874,9 +874,10 @@
     "criteria": {
       "has_black_apricorn": "2025-04-26 05:59:39 +0000",
       "has_yellow_apricorn": "2025-04-26 06:00:00 +0000",
-      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000",
+      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn": {
     "criteria": {
@@ -1508,9 +1509,10 @@
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
-      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000",
+      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
@@ -2548,9 +2550,10 @@
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-04-26 21:14:59 +0000"
+      "has_white_apricorn": "2025-04-26 21:14:59 +0000",
+      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
@@ -2560,9 +2563,10 @@
   },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-04-26 21:14:59 +0000"
+      "has_white_apricorn": "2025-04-26 21:14:59 +0000",
+      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
     "criteria": {
@@ -4350,6 +4354,54 @@
   "cobblemon:full_party": {
     "criteria": {
       "full_party": "2025-04-26 22:38:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-04-26 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-26 23:48:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_rindo_berry": "2025-04-26 23:42:48 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-04-26 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-04-26 23:48:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-26 23:48:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 23:41:03 +0000"
     },
     "done": true
   },

@@ -444,6 +444,41 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745710720534
           }
+        },
+        "mimejr": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710989652
+          }
+        },
+        "squawkabilly": {
+          "yellow": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745711100499
+          }
+        },
+        "fidough": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745711133005
+          }
+        },
+        "starly": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745711496631
+          }
+        },
+        "linoone": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745711499849
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -457,9 +492,9 @@
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 6,
+    "totalBattleVictoryCount": 7,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 6,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -471,7 +506,8 @@
       "cobblemon:bunnelby": 1,
       "cobblemon:teddiursa": 1,
       "cobblemon:combee": 1,
-      "cobblemon:lillipup": 1
+      "cobblemon:lillipup": 1,
+      "cobblemon:geodude": 1
     },
     "aspectsCollected": {}
   }

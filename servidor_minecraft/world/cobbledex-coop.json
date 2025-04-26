@@ -618,6 +618,34 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745710720535
       }
+    },
+    "mimejr": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710989652
+      }
+    },
+    "squawkabilly": {
+      "yellow": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745711100500
+      }
+    },
+    "fidough": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745711133006
+      }
+    },
+    "starly": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745711496632
+      }
     }
   }
 }

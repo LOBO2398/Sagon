@@ -2159,3 +2159,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 23:42:19.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [26Apr2025 23:42:20.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [26Apr2025 23:42:20.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[26Apr2025 23:42:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Very Berry]
+[26Apr2025 23:45:56.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Isn't It Iron Pick]
+[26Apr2025 23:46:05.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Acquire Hardware]
