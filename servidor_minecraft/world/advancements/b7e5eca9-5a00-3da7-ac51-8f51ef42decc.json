@@ -808,7 +808,8 @@
       "cooked_beef": "2025-04-26 21:42:18 +0000",
       "apple": "2025-04-26 21:26:21 +0000",
       "rabbit": "2025-04-26 00:11:42 +0000",
-      "bread": "2025-04-26 21:26:18 +0000"
+      "bread": "2025-04-26 21:26:18 +0000",
+      "rotten_flesh": "2025-04-26 22:15:15 +0000"
     },
     "done": false
   },
@@ -1530,6 +1531,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-04-26 22:13:11 +0000"
     },
     "done": true
   },
@@ -2272,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-26 22:16:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-04-26 21:33:21 +0000"
@@ -2635,6 +2648,12 @@
   "cobblemon:recipes/blocks/pc": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 21:19:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-26 22:16:15 +0000"
     },
     "done": true
   },
@@ -3572,6 +3591,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "quick_ball": "2025-04-26 22:26:08 +0000",
       "great_ball": "2025-04-26 21:37:52 +0000",
       "azure_ball": "2025-04-26 21:08:15 +0000",
       "ultra_ball": "2025-04-26 21:37:39 +0000"

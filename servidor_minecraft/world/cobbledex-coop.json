@@ -11,8 +11,9 @@
     "bunnelby": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1745625296485
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745625296485,
+        "caughtTimestamp": 1745705857456
       }
     },
     "froakie": {
@@ -412,8 +413,9 @@
     "oddish": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1745699594539
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745699594539,
+        "caughtTimestamp": 1745705487753
       }
     },
     "ninjask": {
@@ -485,6 +487,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1745705166552,
         "caughtTimestamp": 1745705166552
+      }
+    },
+    "gloom": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745705500324,
+        "caughtTimestamp": 1745705500324
       }
     }
   }

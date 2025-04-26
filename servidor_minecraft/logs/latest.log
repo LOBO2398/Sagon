@@ -1963,3 +1963,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Apr2025 22:05:59.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
 [26Apr2025 22:07:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Monster Hunter]
 [26Apr2025 22:09:31.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/56863, l='ServerLevel[world]', x=109.34, y=66.00, z=-614.75] died, message: 'Leatherworker was slain by Zombie'
+[26Apr2025 22:13:11.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Life turned out to be a comedy]
+[26Apr2025 22:16:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Corpse Fly
+[26Apr2025 22:16:07.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:39581] logged in with entity id 63587 at (-54.785313882446, 71.0, 43.44439692299182)
+[26Apr2025 22:16:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 22:16:07.703] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 22:16:12.957] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 22:16:12.957] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 22:16:37.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 22:16:38.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 22:16:38.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[26Apr2025 22:16:42.105] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9a7ccf2b-d67e-4c97-8992-ec5161d23073
+[26Apr2025 22:16:42.106] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9a7ccf2b-d67e-4c97-8992-ec5161d23073
+[26Apr2025 22:17:20.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[26Apr2025 22:17:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[26Apr2025 22:17:20.756] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[26Apr2025 22:17:37.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Full House]
+[26Apr2025 22:17:55.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:51827] logged in with entity id 65136 at (-53.359850074919656, 71.0, 43.58650142412134)
+[26Apr2025 22:17:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 22:17:55.955] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 22:17:57.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 22:17:57.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 22:18:50.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[26Apr2025 22:18:50.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[26Apr2025 22:18:50.302] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[26Apr2025 22:20:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[26Apr2025 22:25:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Surge Protector]
+[26Apr2025 22:27:00.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/52942, l='ServerLevel[world]', x=216.50, y=65.00, z=-610.01] was struck by lightning LightningBolt['Lightning Bolt'/68466, l='ServerLevel[world]', x=218.50, y=69.00, z=-612.50].
+[26Apr2025 22:30:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 hit the ground too hard

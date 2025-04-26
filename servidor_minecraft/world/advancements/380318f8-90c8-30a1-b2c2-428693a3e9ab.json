@@ -140,9 +140,10 @@
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-04-26 21:20:52 +0000"
+      "has_white_apricorn": "2025-04-26 21:20:52 +0000",
+      "has_pink_apricorn": "2025-04-26 22:22:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
@@ -174,6 +175,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 22:21:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
@@ -195,6 +202,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-26 20:22:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-04-26 22:17:37 +0000"
     },
     "done": true
   },
@@ -242,9 +255,10 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
       "has_white_apricorn": "2025-04-26 21:20:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
@@ -332,9 +346,11 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000",
+      "has_pink_apricorn": "2025-04-26 22:22:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
@@ -515,9 +531,10 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
       "has_black_apricorn": "2025-04-26 21:17:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/lock_block": {
     "criteria": {
@@ -551,6 +568,7 @@
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
       "has_black_apricorn": "2025-04-26 21:17:58 +0000",
       "has_white_apricorn": "2025-04-26 21:20:52 +0000"
     },
@@ -586,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-26 22:10:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
@@ -595,6 +619,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
     },
     "done": true
   },
@@ -628,11 +658,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-26 22:26:50 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-04-26 21:20:52 +0000"
+      "has_white_apricorn": "2025-04-26 21:20:52 +0000",
+      "has_pink_apricorn": "2025-04-26 22:22:01 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
@@ -712,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-26 22:26:50 +0000"
+    },
+    "done": true
+  },
   "cobblemon:root": {
     "criteria": {
       "picked_starter": "2025-04-26 20:06:08 +0000"
@@ -727,13 +776,26 @@
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-26 21:17:58 +0000",
-      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000",
+      "has_pink_apricorn": "2025-04-26 22:22:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:18:24 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-04-26 21:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-26 22:26:50 +0000"
     },
     "done": true
   },
@@ -746,6 +808,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_weight": {
+    "criteria": {
+      "has_mint": "2025-04-26 22:24:45 +0000"
     },
     "done": true
   },
@@ -788,6 +856,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
     },
     "done": true
   },
@@ -995,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
@@ -1067,9 +1147,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-26 22:22:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-04-26 21:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
     },
     "done": true
   },
@@ -1136,6 +1228,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:18:24 +0000"
     },
     "done": true
   },
@@ -1224,6 +1322,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-26 22:10:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -1236,6 +1340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:18:24 +0000"
+    },
+    "done": true
+  },
   "cobblemon:any_plant": {
     "criteria": {
       "check_inv": "2025-04-26 20:42:32 +0000"
@@ -1245,6 +1355,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-04-26 22:10:33 +0000"
     },
     "done": true
   },
@@ -1380,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-04-26 21:02:46 +0000"
@@ -1452,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -1490,9 +1618,10 @@
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
       "has_red_apricorn": "2025-04-26 21:11:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
@@ -1548,6 +1677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -1557,6 +1692,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:18:24 +0000"
     },
     "done": true
   },
@@ -1580,10 +1721,11 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
       "has_black_apricorn": "2025-04-26 21:17:58 +0000",
       "has_white_apricorn": "2025-04-26 21:20:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
@@ -1606,6 +1748,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
     },
     "done": true
   },
@@ -1705,6 +1853,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/quick_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -1729,6 +1883,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
       "has_red_apricorn": "2025-04-26 21:11:44 +0000"
@@ -1750,6 +1910,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-04-26 21:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
     },
     "done": true
   },
@@ -1782,6 +1948,12 @@
       "has_benefit_mint": "2025-04-26 21:52:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:18:24 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
@@ -1890,6 +2062,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/serious_mint": {
+    "criteria": {
+      "has_mint_leaf": "2025-04-26 22:24:45 +0000"
     },
     "done": true
   },
@@ -2023,6 +2201,7 @@
   },
   "cobblemon:obtain_all_mints": {
     "criteria": {
+      "obtain_white_mint_leaf": "2025-04-26 22:24:45 +0000",
       "obtain_blue_mint_leaf": "2025-04-26 21:52:38 +0000"
     },
     "done": false
@@ -2122,7 +2301,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 21:12:35 +0000",
-      "chicken": "2025-04-26 20:24:25 +0000"
+      "chicken": "2025-04-26 20:24:25 +0000",
+      "rabbit": "2025-04-26 22:26:53 +0000"
     },
     "done": false
   },
@@ -2147,6 +2327,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:18:24 +0000"
     },
     "done": true
   },
@@ -2210,6 +2396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-26 22:16:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -2218,6 +2410,7 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 22:21:41 +0000",
       "has_red_apricorn": "2025-04-26 21:11:44 +0000"
     },
     "done": false
@@ -2291,6 +2484,12 @@
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
       "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 22:22:01 +0000"
     },
     "done": true
   },
