@@ -384,8 +384,9 @@
         "fletchling": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1745709470043
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745709470043,
+            "caughtTimestamp": 1745710646653
           }
         },
         "weedle": {
@@ -393,6 +394,55 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1745709549504
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710024141
+          }
+        },
+        "farfetchd": {
+          "galar": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710312952
+          }
+        },
+        "timburr": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710320528
+          }
+        },
+        "lillipup": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710334006
+          }
+        },
+        "shroomish": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710501400
+          }
+        },
+        "dugtrio": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710506899
+          }
+        },
+        "zapdos": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745710720534
           }
         }
       },
@@ -404,20 +454,24 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 5,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "normal": 1,
+      "flying": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
       "cobblemon:teddiursa": 1,
-      "cobblemon:combee": 1
+      "cobblemon:combee": 1,
+      "cobblemon:lillipup": 1
     },
     "aspectsCollected": {}
   }

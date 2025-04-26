@@ -558,8 +558,9 @@
     "fletchling": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1745709470044
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745709470044,
+        "caughtTimestamp": 1745710646654
       }
     },
     "weedle": {
@@ -567,6 +568,55 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1745709549505
+      }
+    },
+    "growlithe": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710024142
+      }
+    },
+    "farfetchd": {
+      "galar": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710312952
+      }
+    },
+    "timburr": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710320529
+      }
+    },
+    "lillipup": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710334007
+      }
+    },
+    "shroomish": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710501401
+      }
+    },
+    "dugtrio": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710506899
+      }
+    },
+    "zapdos": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745710720535
       }
     }
   }

@@ -2111,3 +2111,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 23:15:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
 [26Apr2025 23:18:45.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=105, z=58} but found not block entity block Block{minecraft:air} at location
 [26Apr2025 23:18:45.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-798, y=105, z=58}
+[26Apr2025 23:22:43.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Doing my Part]
+[26Apr2025 23:23:12.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Healing Power]
+[26Apr2025 23:24:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The First of Many]
+[26Apr2025 23:25:46.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 51c32bb8-2223-3eff-b75f-5fa98ec279ff timed out
+[26Apr2025 23:25:46.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Younguer
+[26Apr2025 23:25:46.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Younguer
+[26Apr2025 23:26:28.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Younguer lost connection: Timed out
+[26Apr2025 23:26:28.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer left the game
+[26Apr2025 23:26:28.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Younguer
+[26Apr2025 23:27:41.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Sweet Dreams]
+[26Apr2025 23:30:03.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Younguer[/127.30.59.107:47967] logged in with entity id 110272 at (130.32574050434172, 70.0, -629.3341121721888)
+[26Apr2025 23:30:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer joined the game
+[26Apr2025 23:30:03.512] [Server thread/INFO] [Jade/]: Syncing config to Younguer (51c32bb8-2223-3eff-b75f-5fa98ec279ff)
+[26Apr2025 23:30:10.094] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Younguer (18)
+[26Apr2025 23:30:10.095] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Younguer
+[26Apr2025 23:30:16.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 51c32bb8-2223-3eff-b75f-5fa98ec279ff
+[26Apr2025 23:30:18.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 51c32bb8-2223-3eff-b75f-5fa98ec279ff
+[26Apr2025 23:30:18.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Younguer (51c32bb8-2223-3eff-b75f-5fa98ec279ff) successfully connected to voice chat
+[26Apr2025 23:32:11.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.81.151.33:33721] logged in with entity id 111083 at (238.17840548448473, 65.5625, -1012.1964173828642)
+[26Apr2025 23:32:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[26Apr2025 23:32:11.777] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[26Apr2025 23:32:12.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=64, z=-651} BlockPos{x=116, y=63, z=-650}
+[26Apr2025 23:32:12.461] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[26Apr2025 23:32:12.461] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[26Apr2025 23:32:19.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[26Apr2025 23:32:20.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[26Apr2025 23:32:20.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[26Apr2025 23:32:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> gonza
+[26Apr2025 23:32:32.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> unite al grupo
+[26Apr2025 23:32:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> he vuelto
+[26Apr2025 23:33:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> gonza?
+[26Apr2025 23:36:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Diamonds!]
+[26Apr2025 23:36:59.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Isn't It Iron Pick]
+[26Apr2025 23:37:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Acquire Hardware]
+[26Apr2025 23:37:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [A New Friend!]
+[26Apr2025 23:41:00.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer fell from a high place
+[26Apr2025 23:42:04.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[26Apr2025 23:42:04.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[26Apr2025 23:42:04.951] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[26Apr2025 23:42:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[26Apr2025 23:42:14.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:59953] logged in with entity id 117500 at (-590.3000000119209, 105.0, 41.62110786164845)
+[26Apr2025 23:42:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 23:42:14.675] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 23:42:15.208] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 23:42:15.209] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 23:42:19.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 23:42:20.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 23:42:20.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
