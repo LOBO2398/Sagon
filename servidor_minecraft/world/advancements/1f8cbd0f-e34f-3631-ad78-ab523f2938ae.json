@@ -1529,15 +1529,93 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
-      "has_diamond": "2025-04-26 06:28:34 +0000"
+      "has_cooked_rabbit": "2025-04-26 06:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-26 06:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-26 06:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 06:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 06:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 06:23:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-26 06:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-26 06:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-26 06:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-26 06:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-26 06:27:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-26 06:27:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-04-26 06:27:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-26 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-26 06:28:34 +0000"
     },
     "done": true
   },
@@ -1556,12 +1634,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-26 06:26:48 +0000"
     },
     "done": true
   },
@@ -1661,24 +1733,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-04-26 06:27:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-04-26 06:27:19 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-04-26 06:27:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-26 06:28:34 +0000"
@@ -1697,12 +1751,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-04-26 06:22:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 06:28:34 +0000"
@@ -1712,24 +1760,6 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-26 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-04-26 06:26:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-26 06:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-04-26 06:23:23 +0000"
     },
     "done": true
   },
@@ -1745,12 +1775,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-04-26 06:20:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-26 06:28:34 +0000"
@@ -1760,12 +1784,6 @@
   "cobblemon:recipes/held/exp_share": {
     "criteria": {
       "has_exp": "2025-04-26 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-04-26 06:27:22 +0000"
     },
     "done": true
   },
@@ -1787,12 +1805,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-04-26 06:20:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 06:28:34 +0000"
@@ -1802,12 +1814,6 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "supplementaries:straw": "2025-04-26 06:27:19 +0000"
     },
     "done": true
   },
@@ -1832,12 +1838,6 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-26 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-26 06:23:23 +0000"
     },
     "done": true
   },
