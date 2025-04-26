@@ -223,6 +223,22 @@
             "discoveredTimestamp": 1745705500323,
             "caughtTimestamp": 1745705500323
           }
+        },
+        "gastly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745707088348,
+            "caughtTimestamp": 1745707088348
+          }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745707186023,
+            "caughtTimestamp": 1745707186023
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -233,9 +249,9 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
+    "totalEvolvedCount": 3,
     "totalBattleVictoryCount": 12,
     "totalPvPBattleVictoryCount": 4,
     "totalPvWBattleVictoryCount": 8,
@@ -247,7 +263,8 @@
       "ground": 1,
       "water": 1,
       "grass": 1,
-      "poison": 1
+      "poison": 2,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

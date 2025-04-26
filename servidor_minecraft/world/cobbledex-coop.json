@@ -496,6 +496,22 @@
         "discoveredTimestamp": 1745705500324,
         "caughtTimestamp": 1745705500324
       }
+    },
+    "gastly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745707088349,
+        "caughtTimestamp": 1745707088349
+      }
+    },
+    "haunter": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745707186023,
+        "caughtTimestamp": 1745707186023
+      }
     }
   }
 }
