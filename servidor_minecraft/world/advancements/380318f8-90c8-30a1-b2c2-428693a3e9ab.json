@@ -25,6 +25,7 @@
       "minecraft:stony_shore": "2025-04-26 20:14:16 +0000",
       "minecraft:forest": "2025-04-26 20:51:30 +0000",
       "minecraft:ice_spikes": "2025-04-26 20:14:26 +0000",
+      "minecraft:meadow": "2025-04-26 21:06:15 +0000",
       "minecraft:plains": "2025-04-26 00:05:22 +0000"
     },
     "done": false
@@ -209,6 +210,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
@@ -224,6 +237,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -491,6 +510,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-26 20:29:39 +0000"
@@ -527,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -554,6 +585,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -653,6 +690,12 @@
     },
     "done": true
   },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2025-04-26 21:11:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -662,6 +705,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -725,6 +774,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-26 21:03:45 +0000"
@@ -743,6 +798,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -752,6 +813,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -830,6 +897,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -941,15 +1014,33 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-26 20:29:39 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -1031,6 +1122,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -1108,6 +1205,12 @@
       "has_stick": "2025-04-26 21:02:57 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
@@ -1193,6 +1296,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-04-26 21:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -1223,6 +1332,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/luxury_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -1246,6 +1361,12 @@
       "has_white_wool": "2025-04-26 20:15:41 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
@@ -1355,6 +1476,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
@@ -1375,6 +1508,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-26 21:12:35 +0000",
       "chicken": "2025-04-26 20:24:25 +0000"
     },
     "done": false
@@ -1457,6 +1591,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -1520,6 +1660,18 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },

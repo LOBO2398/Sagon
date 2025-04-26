@@ -121,6 +121,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745700230247
           }
+        },
+        "ninjask": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745702021501
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -134,15 +141,16 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 2,
+    "totalBattleVictoryCount": 3,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
     "totalDefeatedCounts": {
-      "cobblemon:wingull": 1
+      "cobblemon:wingull": 1,
+      "cobblemon:zigzagoon": 1
     },
     "aspectsCollected": {}
   }

@@ -95,11 +95,23 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-26 21:01:28 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
@@ -227,6 +239,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 21:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-26 20:46:51 +0000"
@@ -241,7 +265,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-04-26 20:48:13 +0000"
+      "minecraft:spider": "2025-04-26 20:48:13 +0000",
+      "minecraft:zombie": "2025-04-26 21:06:24 +0000"
     },
     "done": false
   },
@@ -278,6 +303,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-26 20:51:30 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2025-04-26 21:12:54 +0000"
     },
     "done": true
   },
@@ -335,6 +366,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-04-26 20:27:28 +0000"
@@ -346,6 +383,12 @@
       "has_hay_block": "2025-04-26 21:05:02 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
@@ -443,6 +486,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-04-26 21:03:38 +0000"
@@ -454,6 +503,12 @@
       "has_cobblestone": "2025-04-26 20:46:51 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
@@ -508,6 +563,12 @@
       "has_white_wool": "2025-04-26 20:46:51 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
@@ -593,6 +654,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/luxury_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-26 21:01:28 +0000"
@@ -604,6 +671,12 @@
       "has_white_wool": "2025-04-26 20:46:51 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
   },
   "cobblemon:healing_machine": {
     "criteria": {
@@ -657,6 +730,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-26 21:05:02 +0000"
@@ -678,6 +757,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-26 21:02:56 +0000",
+      "rotten_flesh": "2025-04-26 21:12:43 +0000",
       "cod": "2025-04-26 21:03:22 +0000"
     },
     "done": false
@@ -724,6 +804,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:46:51 +0000"
@@ -757,6 +843,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:46:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 21:12:54 +0000"
     },
     "done": true
   },

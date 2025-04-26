@@ -414,6 +414,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745699594539
       }
+    },
+    "ninjask": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745702021501
+      }
     }
   }
 }
