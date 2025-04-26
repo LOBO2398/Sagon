@@ -2,12 +2,22 @@
   "uuid": "1f8cbd0f-e34f-3631-ad78-ab523f2938ae",
   "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "7111c3f1-33d7-4f68-a8cc-ae9da715d140",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {
     "cobbledex_discovery": {
-      "registers": {},
+      "registers": {
+        "froakie": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745626019428,
+            "caughtTimestamp": 1745626019428
+          }
+        }
+      },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
@@ -19,8 +29,8 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
-    "totalPvPBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 1,
+    "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 0,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,

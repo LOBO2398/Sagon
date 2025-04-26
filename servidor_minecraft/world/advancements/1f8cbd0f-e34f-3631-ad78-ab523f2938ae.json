@@ -1,4 +1,16 @@
 {
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-04-26 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_wepear_berry": "2025-04-26 00:02:25 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2025-04-25 23:58:04 +0000"
@@ -14,6 +26,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-25 23:49:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-04-26 00:06:59 +0000"
     },
     "done": true
   },
@@ -35,9 +53,27 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-04-26 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2025-04-26 00:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-25 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2025-04-26 00:06:59 +0000"
     },
     "done": true
   },
@@ -49,10 +85,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-26 00:06:01 +0000",
       "minecraft:cherry_grove": "2025-04-26 00:00:05 +0000",
       "minecraft:snowy_plains": "2025-04-25 23:51:17 +0000",
       "minecraft:stony_shore": "2025-04-25 23:51:19 +0000",
       "minecraft:ice_spikes": "2025-04-25 23:51:55 +0000",
+      "minecraft:meadow": "2025-04-26 00:04:05 +0000",
       "minecraft:plains": "2025-04-25 23:49:13 +0000"
     },
     "done": false

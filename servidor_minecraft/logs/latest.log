@@ -1,2 +1,18 @@
 [26Apr2025 00:02:25.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Very Berry]
 [26Apr2025 00:02:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Mother Nature's Bounty]
+[26Apr2025 00:05:21.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.102.21.35:59093] logged in with entity id 1892 at (1.5, 70.0, 39.5)
+[26Apr2025 00:05:21.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[26Apr2025 00:05:21.265] [Server thread/INFO] [Cobbledex/]: Added 0 entries in kevedo909's Cobbledex
+[26Apr2025 00:05:21.265] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[26Apr2025 00:05:37.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[26Apr2025 00:05:37.161] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[26Apr2025 00:06:05.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported Santix15 to lobo3224]
+[26Apr2025 00:06:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the time to 1000]
+[26Apr2025 00:06:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The World of Cobblemon!]
+[26Apr2025 00:08:04.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[26Apr2025 00:08:04.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[26Apr2025 00:08:04.555] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[26Apr2025 00:08:04.606] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 00:09:19.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Where's my Victory Music?]
+[26Apr2025 00:11:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Where's my Victory Music?]
+[26Apr2025 00:13:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
