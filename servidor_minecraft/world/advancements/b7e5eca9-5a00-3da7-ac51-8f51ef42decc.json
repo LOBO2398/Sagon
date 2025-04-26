@@ -20,8 +20,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-04-26 00:03:51 +0000",
+      "minecraft:river": "2025-04-26 20:46:31 +0000",
       "minecraft:stony_shore": "2025-04-25 23:51:04 +0000",
       "minecraft:snowy_plains": "2025-04-25 23:56:52 +0000",
+      "minecraft:forest": "2025-04-26 20:46:46 +0000",
       "minecraft:ice_spikes": "2025-04-25 23:59:07 +0000",
       "minecraft:frozen_ocean": "2025-04-25 23:57:11 +0000",
       "minecraft:meadow": "2025-04-26 05:57:38 +0000",
@@ -825,18 +827,21 @@
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-26 05:59:39 +0000",
-      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
+      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
       "has_black_apricorn": "2025-04-26 05:59:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
       "has_black_apricorn": "2025-04-26 05:59:39 +0000",
       "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
     },
@@ -858,7 +863,8 @@
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-26 05:59:39 +0000",
-      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
+      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
     "done": false
   },
@@ -882,6 +888,7 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
       "has_black_apricorn": "2025-04-26 05:59:39 +0000"
     },
     "done": false
@@ -889,13 +896,15 @@
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-26 05:59:39 +0000",
-      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
+      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-04-26 05:59:39 +0000"
+      "has_black_apricorn": "2025-04-26 05:59:39 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
     "done": false
   },
@@ -919,7 +928,8 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
-      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
+      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
     "done": false
   },
@@ -931,15 +941,17 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
-      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
+      "has_yellow_apricorn": "2025-04-26 06:00:00 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
       "has_yellow_apricorn": "2025-04-26 06:00:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
@@ -1235,11 +1247,60 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 20:54:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-26 20:43:58 +0000"
     },
     "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
@@ -1253,9 +1314,87 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_bath": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-04-26 20:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_basin": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-04-26 20:43:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 20:54:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
     },
     "done": true
   },
@@ -1271,9 +1410,137 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-26 20:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-26 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-26 20:50:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-04-26 20:54:29 +0000"
     },
     "done": true
   },

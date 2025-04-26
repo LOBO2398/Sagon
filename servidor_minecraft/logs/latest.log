@@ -1357,3 +1357,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 20:48:34.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> que mods de mierda gonza
 [26Apr2025 20:49:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer was slain by Beast Patient
 [26Apr2025 20:49:30.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
+[26Apr2025 20:50:24.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[26Apr2025 20:50:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[26Apr2025 20:53:05.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> AGUS
+[26Apr2025 20:53:14.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> unite al canal de grupp
+[26Apr2025 20:53:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> apreta la g
+[26Apr2025 20:53:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> es mas rapido
+[26Apr2025 20:54:28.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Doing my Part]
+[26Apr2025 20:56:02.622] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id rctmod:trainer
+[26Apr2025 20:56:33.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer fell from a high place
+[26Apr2025 20:57:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Direwolf
+[26Apr2025 20:59:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Alex's Mobs]
