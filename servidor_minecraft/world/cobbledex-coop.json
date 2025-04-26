@@ -68,8 +68,9 @@
     "seedot": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1745646775208
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745646775208,
+        "caughtTimestamp": 1745705109906
       }
     },
     "pidgeotto": {
@@ -468,6 +469,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1745704697551,
         "caughtTimestamp": 1745704697551
+      }
+    },
+    "buneary": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745704900154,
+        "caughtTimestamp": 1745704900154
+      }
+    },
+    "caterpie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745705166552,
+        "caughtTimestamp": 1745705166552
       }
     }
   }

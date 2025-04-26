@@ -136,6 +136,30 @@
             "discoveredTimestamp": 1745704697551,
             "caughtTimestamp": 1745704697551
           }
+        },
+        "buneary": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745704900153,
+            "caughtTimestamp": 1745704900153
+          }
+        },
+        "seedot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745705109906,
+            "caughtTimestamp": 1745705109906
+          }
+        },
+        "caterpie": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745705166552,
+            "caughtTimestamp": 1745705166552
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -146,17 +170,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 5,
+    "totalBattleVictoryCount": 8,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "rock": 1
+      "rock": 1,
+      "normal": 1,
+      "grass": 1,
+      "bug": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:wingull": 1,

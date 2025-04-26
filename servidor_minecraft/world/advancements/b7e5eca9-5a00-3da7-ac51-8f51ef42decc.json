@@ -1322,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-26 22:09:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-04-26 21:03:46 +0000"
@@ -1451,6 +1457,12 @@
   "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
       "has_coin": "2025-04-26 21:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-26 22:06:07 +0000"
     },
     "done": true
   },
@@ -1597,6 +1609,12 @@
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-04-26 21:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-26 22:07:22 +0000"
     },
     "done": true
   },
@@ -2050,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-26 21:29:07 +0000"
@@ -2059,6 +2083,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-26 22:06:07 +0000"
     },
     "done": true
   },
@@ -2121,6 +2151,12 @@
       "has_copper_ingot": "2025-04-26 21:07:54 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:vindicator": "2025-04-26 22:07:11 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
@@ -2191,6 +2227,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-04-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-26 22:06:07 +0000"
     },
     "done": true
   },
@@ -2371,6 +2413,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-04-26 21:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-26 22:06:07 +0000"
     },
     "done": true
   },
@@ -2560,9 +2608,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-26 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 22:07:58 +0000"
     },
     "done": true
   },
@@ -2671,6 +2731,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-26 21:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:08:30 +0000"
     },
     "done": true
   },
@@ -3016,6 +3082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-26 22:07:22 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-26 20:54:10 +0000",
@@ -3128,6 +3200,12 @@
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-04-26 21:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:08:30 +0000"
     },
     "done": true
   },
@@ -3414,6 +3492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:08:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_redstone": "2025-04-26 21:11:18 +0000"
@@ -3524,6 +3608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-26 22:07:22 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
       "has_white_apricorn": "2025-04-26 21:14:59 +0000",
@@ -3603,6 +3693,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2025-04-26 22:07:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-04-26 21:30:19 +0000"
@@ -3654,6 +3750,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 21:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-26 22:07:58 +0000"
     },
     "done": true
   },
@@ -3738,6 +3840,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 21:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-26 22:08:30 +0000"
     },
     "done": true
   },
