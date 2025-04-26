@@ -377,6 +377,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745649099502
       }
+    },
+    "bulbasaur": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745697968791,
+        "caughtTimestamp": 1745697968791
+      }
     }
   }
 }
