@@ -7,6 +7,13 @@
         "discoveredTimestamp": 1745625262131,
         "caughtTimestamp": 1745625262131
       }
+    },
+    "bunnelby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745625296485
+      }
     }
   }
 }

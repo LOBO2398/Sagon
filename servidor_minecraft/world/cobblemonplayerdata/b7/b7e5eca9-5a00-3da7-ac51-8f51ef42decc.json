@@ -16,6 +16,13 @@
             "discoveredTimestamp": 1745625262127,
             "caughtTimestamp": 1745625262127
           }
+        },
+        "bunnelby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745625296485
+          }
         }
       },
       "name": "cobbledex_discovery"
