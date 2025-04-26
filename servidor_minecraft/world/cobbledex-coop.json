@@ -512,6 +512,34 @@
         "discoveredTimestamp": 1745707186023,
         "caughtTimestamp": 1745707186023
       }
+    },
+    "butterfree": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745708271690
+      }
+    },
+    "ditto": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745708394145
+      }
+    },
+    "makuhita": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745708429446
+      }
+    },
+    "teddiursa": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745708445449
+      }
     }
   }
 }

@@ -2001,3 +2001,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Apr2025 22:39:27.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall
 [26Apr2025 22:40:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
 [26Apr2025 22:42:43.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Skeleton Swordsman
+[26Apr2025 22:57:14.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:53287] logged in with entity id 95633 at (-53.359850074919656, 71.0, 43.58650142412134)
+[26Apr2025 22:57:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 22:57:14.805] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 22:57:15.317] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 22:57:15.318] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 22:57:20.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 22:57:21.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 22:57:21.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[26Apr2025 22:58:08.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que ondaaaaa
+[26Apr2025 22:58:11.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> unite al grupo
+[26Apr2025 22:58:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> buenaas
+[26Apr2025 22:58:14.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que le hacen
+[26Apr2025 22:58:19.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me papiaron todos los pokemon
+[26Apr2025 22:58:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> naaaa
+[26Apr2025 22:58:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> F por vos
+[26Apr2025 22:58:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[26Apr2025 23:00:50.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[26Apr2025 23:00:50.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[26Apr2025 23:00:50.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
