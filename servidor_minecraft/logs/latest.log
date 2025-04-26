@@ -1291,3 +1291,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 20:10:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> habla
 [26Apr2025 20:16:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza tu puta madre
 [26Apr2025 20:16:16.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me aparecio el puto herobrine
+[26Apr2025 20:20:35.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> esperemos al otro
+[26Apr2025 20:20:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me escuchas??
+[26Apr2025 20:21:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si
+[26Apr2025 20:23:18.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ñam ñam
+[26Apr2025 20:27:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza
+[26Apr2025 20:27:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> sos una negra
+[26Apr2025 20:27:28.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Younguer[/127.30.59.107:33861] logged in with entity id 1811 at (0.5, 70.0, 41.5)
+[26Apr2025 20:27:28.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer joined the game
+[26Apr2025 20:27:28.212] [Server thread/INFO] [Jade/]: Syncing config to Younguer (51c32bb8-2223-3eff-b75f-5fa98ec279ff)
+[26Apr2025 20:27:28.213] [Server thread/INFO] [Cobbledex/]: Added 0 entries in Younguer's Cobbledex
+[26Apr2025 20:27:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> JAJAJAJAJA
+[26Apr2025 20:27:31.208] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Younguer (18)
+[26Apr2025 20:27:31.208] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Younguer
+[26Apr2025 20:27:37.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 51c32bb8-2223-3eff-b75f-5fa98ec279ff
+[26Apr2025 20:27:38.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 51c32bb8-2223-3eff-b75f-5fa98ec279ff
+[26Apr2025 20:27:38.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Younguer (51c32bb8-2223-3eff-b75f-5fa98ec279ff) successfully connected to voice chat
+[26Apr2025 20:28:11.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> agus tenes auriculares
+[26Apr2025 20:28:25.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[26Apr2025 20:28:33.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=42} BlockPos{x=-11, y=69, z=47}
+[26Apr2025 20:29:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Stone Age]
