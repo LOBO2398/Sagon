@@ -18,6 +18,7 @@
       "minecraft:snowy_plains": "2025-04-25 23:51:17 +0000",
       "minecraft:stony_shore": "2025-04-25 23:51:19 +0000",
       "minecraft:cold_ocean": "2025-04-26 06:25:34 +0000",
+      "minecraft:forest": "2025-04-26 23:15:52 +0000",
       "minecraft:ice_spikes": "2025-04-25 23:51:55 +0000",
       "minecraft:frozen_ocean": "2025-04-26 06:24:36 +0000",
       "minecraft:meadow": "2025-04-26 00:04:05 +0000",
@@ -1201,6 +1202,7 @@
       "cooked_porkchop": "2025-04-26 05:48:19 +0000",
       "cooked_mutton": "2025-04-26 06:13:00 +0000",
       "cooked_beef": "2025-04-26 05:58:44 +0000",
+      "beef": "2025-04-26 23:05:01 +0000",
       "mutton": "2025-04-26 06:30:11 +0000",
       "cooked_rabbit": "2025-04-26 22:58:42 +0000"
     },
@@ -1352,7 +1354,8 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-04-26 06:04:11 +0000"
+      "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_pink_apricorn": "2025-04-26 23:17:31 +0000"
     },
     "done": false
   },
@@ -1364,7 +1367,8 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-04-26 06:04:11 +0000"
+      "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_pink_apricorn": "2025-04-26 23:17:31 +0000"
     },
     "done": false
   },
@@ -1388,6 +1392,7 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000",
       "has_red_apricorn": "2025-04-26 06:04:11 +0000"
     },
     "done": false
@@ -1400,9 +1405,10 @@
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000",
       "has_red_apricorn": "2025-04-26 06:04:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -1424,6 +1430,7 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000",
       "has_red_apricorn": "2025-04-26 06:04:11 +0000"
     },
     "done": false
@@ -1466,15 +1473,17 @@
   },
   "cobblemon:recipes/consumables/rash_mint": {
     "criteria": {
-      "has_benefit_mint": "2025-04-26 06:11:48 +0000"
+      "has_benefit_mint": "2025-04-26 06:11:48 +0000",
+      "has_detriment_mint": "2025-04-26 23:07:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/consumables/modest_mint": {
     "criteria": {
-      "has_benefit_mint": "2025-04-26 06:11:48 +0000"
+      "has_benefit_mint": "2025-04-26 06:11:48 +0000",
+      "has_detriment_mint": "2025-04-26 23:08:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/held/power_lens": {
     "criteria": {
@@ -1496,9 +1505,10 @@
   },
   "cobblemon:recipes/consumables/careful_mint": {
     "criteria": {
+      "has_benefit_mint": "2025-04-26 23:07:44 +0000",
       "has_detriment_mint": "2025-04-26 06:11:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/consumables/impish_mint": {
     "criteria": {
@@ -1520,15 +1530,18 @@
   },
   "cobblemon:obtain_all_mints": {
     "criteria": {
-      "obtain_cyan_mint_leaf": "2025-04-26 06:11:48 +0000"
+      "obtain_cyan_mint_leaf": "2025-04-26 06:11:48 +0000",
+      "obtain_pink_mint_leaf": "2025-04-26 23:07:44 +0000",
+      "obtain_red_mint_leaf": "2025-04-26 23:08:22 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/consumables/adamant_mint": {
     "criteria": {
+      "has_benefit_mint": "2025-04-26 23:08:22 +0000",
       "has_detriment_mint": "2025-04-26 06:11:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
@@ -1917,6 +1930,212 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-26 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-26 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2025-04-26 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-04-26 23:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-26 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-26 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-26 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-04-26 23:07:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_band": {
+    "criteria": {
+      "has_mint": "2025-04-26 23:07:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/calm_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 23:07:44 +0000",
+      "has_detriment_mint": "2025-04-26 23:08:22 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/sassy_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 23:07:44 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 23:07:44 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naughty_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 23:08:22 +0000",
+      "has_detriment_mint": "2025-04-26 23:07:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 23:07:44 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naive_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 23:07:44 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 23:08:22 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/brave_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 23:08:22 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/power_bracer": {
+    "criteria": {
+      "has_mint": "2025-04-26 23:08:22 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/timid_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 23:08:22 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 23:08:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-26 23:09:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-04-26 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-04-26 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "legends_untold:find_legendary": {
+    "criteria": {
+      "sky_pillar": "2025-04-26 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "legends_untold:xerneas_tree": {
+    "criteria": {
+      "xerneas_tree": "2025-04-26 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-26 23:17:31 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-26 23:17:31 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-26 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 23:17:31 +0000"
     },
     "done": true
   },

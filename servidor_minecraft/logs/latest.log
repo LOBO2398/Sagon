@@ -2020,3 +2020,94 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Apr2025 23:00:50.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
 [26Apr2025 23:00:50.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
 [26Apr2025 23:00:50.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[26Apr2025 23:02:15.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[26Apr2025 23:02:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[26Apr2025 23:02:15.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[26Apr2025 23:03:28.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/98241, l='ServerLevel[world]', x=110.71, y=65.00, z=-656.69] died, message: 'Farmer was shot by Younguer'
+[26Apr2025 23:06:02.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was doomed to fall by Phantom
+[26Apr2025 23:07:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Gravedigger]
+[26Apr2025 23:09:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Monster Hunter]
+[26Apr2025 23:12:10.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/98198, l='ServerLevel[world]', x=197.91, y=64.00, z=-594.85] died, message: 'Farmer was slain by Zombie Bruiser'
+[26Apr2025 23:15:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Legendary Encounter]
+[26Apr2025 23:15:49.096] [Server thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 2 ms
+[26Apr2025 23:15:49.100] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[26Apr2025 23:15:49.142] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
+	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
+[26Apr2025 23:15:49.199] [Worker-ResourceReload-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[26Apr2025 23:15:49.200] [Worker-ResourceReload-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[26Apr2025 23:15:49.713] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[26Apr2025 23:15:49.715] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[26Apr2025 23:15:49.722] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[26Apr2025 23:15:49.736] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[26Apr2025 23:15:49.754] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 17 recipes
+[26Apr2025 23:15:49.756] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[26Apr2025 23:15:49.757] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[26Apr2025 23:15:49.792] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[26Apr2025 23:15:49.826] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3024 advancements
+[26Apr2025 23:15:49.829] [Server thread/INFO] [placebo/]: Registered 0 additional recipes.
+[26Apr2025 23:15:49.833] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[26Apr2025 23:15:49.838] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[26Apr2025 23:15:49.840] [Server thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[26Apr2025 23:15:50.136] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
+[26Apr2025 23:15:50.163] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
+[26Apr2025 23:15:50.381] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
+[26Apr2025 23:15:50.680] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 244 held item IDs from showdown
+[26Apr2025 23:15:50.680] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1052 Pokémon species
+[26Apr2025 23:15:50.690] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 43 spawn detail presets.
+[26Apr2025 23:15:50.701] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
+[26Apr2025 23:15:50.712] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 16 fossils
+[26Apr2025 23:15:50.821] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underground.
+[26Apr2025 23:15:50.822] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underground.
+[26Apr2025 23:15:50.973] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 69 berries
+[26Apr2025 23:15:50.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Younguer moved too quickly! 10.166588865676289,0.0,0.7001922509977021
+[26Apr2025 23:15:50.980] [Server thread/INFO] [placebo/]: Registered 0 gear_sets.
+[26Apr2025 23:15:50.986] [Server thread/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly, minecraft:is_plains
+[26Apr2025 23:15:51.013] [Server thread/INFO] [Moonlight/]: Applied 7 data villager trades
+[26Apr2025 23:15:51.018] [Server thread/ERROR] [Moonlight/]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@7ff11c32
+[26Apr2025 23:15:51.067] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.069] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.069] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.071] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Primeval Roots]
+[26Apr2025 23:15:51.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[26Apr2025 23:15:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[26Apr2025 23:18:45.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=105, z=58} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 23:18:45.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-798, y=105, z=58}

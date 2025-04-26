@@ -17722,3 +17722,904 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Apr2025 23:01:44.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
 [26Apr2025 23:01:44.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [26Apr2025 23:01:44.983] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[26Apr2025 23:02:09.096] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[26Apr2025 23:02:15.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[26Apr2025 23:02:15.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:02:15.034] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[26Apr2025 23:02:15.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[26Apr2025 23:02:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[26Apr2025 23:02:15.910] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[26Apr2025 23:02:15.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[26Apr2025 23:02:15.922] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:15.949] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:15.975] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.013] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.041] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.041] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.061] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.102] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.102] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:16.129] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[26Apr2025 23:02:45.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[26Apr2025 23:02:45.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:02:45.082] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[26Apr2025 23:03:11.393] [Server thread/DEBUG] [Cobbledex/]: Saving 74 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:03:15.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[26Apr2025 23:03:15.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:03:15.135] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[26Apr2025 23:03:23.948] [Server thread/DEBUG] [Cobbledex/]: Saving 74 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:03:28.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/98241, l='ServerLevel[world]', x=110.71, y=65.00, z=-656.69] died, message: 'Farmer was shot by Younguer'
+[26Apr2025 23:03:45.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[26Apr2025 23:03:45.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:03:45.183] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[26Apr2025 23:04:15.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[26Apr2025 23:04:15.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:04:15.232] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[26Apr2025 23:04:45.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[26Apr2025 23:04:45.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:04:45.283] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[26Apr2025 23:05:00.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[26Apr2025 23:05:15.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[26Apr2025 23:05:15.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:05:15.332] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Apr2025 23:05:26.917] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Apr2025 23:05:26.918] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Apr2025 23:05:26.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:05:26.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:05:33.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[26Apr2025 23:05:33.764] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_07
+[26Apr2025 23:05:33.811] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_11
+[26Apr2025 23:05:45.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[26Apr2025 23:05:45.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:05:45.382] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[26Apr2025 23:06:02.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was doomed to fall by Phantom
+[26Apr2025 23:06:15.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[26Apr2025 23:06:15.432] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:06:15.433] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[26Apr2025 23:06:45.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:06:45.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:06:45.481] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:07:15.532] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:07:15.532] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:07:15.532] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:07:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Gravedigger]
+[26Apr2025 23:07:45.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:07:45.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:07:45.583] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:08:15.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:08:15.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:08:15.632] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:08:32.444] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:08:36.197] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:08:45.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:08:45.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:08:45.683] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:08:52.297] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:09:15.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:09:15.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:09:15.731] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:09:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Monster Hunter]
+[26Apr2025 23:09:45.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:09:45.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:09:45.782] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:10:15.832] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:10:15.832] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:10:15.832] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Apr2025 23:10:26.919] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Apr2025 23:10:26.920] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Apr2025 23:10:26.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:10:26.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:10:45.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:10:45.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:10:45.882] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:11:15.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:11:15.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:11:15.933] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:11:45.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:11:45.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:11:45.981] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:12:10.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/98198, l='ServerLevel[world]', x=197.91, y=64.00, z=-594.85] died, message: 'Farmer was slain by Zombie Bruiser'
+[26Apr2025 23:12:16.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:12:16.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:12:16.032] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:12:46.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:12:46.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:12:46.082] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:13:16.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:13:16.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:13:16.133] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:13:46.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:13:46.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:13:46.181] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:14:16.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:14:16.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:14:16.232] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:14:46.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:14:46.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:14:46.281] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:15:16.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:15:16.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:15:16.331] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Apr2025 23:15:26.924] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Apr2025 23:15:26.925] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Apr2025 23:15:26.926] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Apr2025 23:15:26.926] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Apr2025 23:15:26.926] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Apr2025 23:15:26.926] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Apr2025 23:15:26.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:15:26.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:15:46.382] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:15:46.382] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:15:46.382] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:15:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Legendary Encounter]
+[26Apr2025 23:15:49.053] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:kuma_api for mod file 
+[26Apr2025 23:15:49.053] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_renderer_api_v1 for mod file 
+[26Apr2025 23:15:49.053] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:netherportalfix for mod file /workspaces/Sagon/servidor_minecraft/mods/netherportalfix-forge-1.20-13.0.1.jar
+[26Apr2025 23:15:49.053] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/Sagon/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.2.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:recipeessentials for mod file /workspaces/Sagon/servidor_minecraft/mods/recipeessentials-1.20.1-4.0.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:playeranimator for mod file /workspaces/Sagon/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_item_api_v1 for mod file 
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_rendering_fluids_v1 for mod file 
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dimensionalsycnfixes for mod file /workspaces/Sagon/servidor_minecraft/mods/dimensionalsycnfixes-1.20.1-0.0.1.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_models_v0 for mod file 
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:loadingbackgrounds for mod file /workspaces/Sagon/servidor_minecraft/mods/loadingbackgrounds-forge-1.20.2-1.8.0.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:connectivity for mod file /workspaces/Sagon/servidor_minecraft/mods/connectivity-1.20.1-7.1.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:gpumemleakfix for mod file /workspaces/Sagon/servidor_minecraft/mods/gpumemleakfix-1.20.1-1.8.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:structureessentials for mod file /workspaces/Sagon/servidor_minecraft/mods/structureessentials-1.20.1-4.7.jar
+[26Apr2025 23:15:49.054] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_convention_tags_v1 for mod file 
+[26Apr2025 23:15:49.055] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:controlling for mod file /workspaces/Sagon/servidor_minecraft/mods/Controlling-forge-1.20.1-12.0.2.jar
+[26Apr2025 23:15:49.055] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:placebo for mod file /workspaces/Sagon/servidor_minecraft/mods/Placebo-1.20.1-8.6.3.jar
+[26Apr2025 23:15:49.055] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:modernfix for mod file /workspaces/Sagon/servidor_minecraft/mods/modernfix-forge-5.21.0+mc1.20.1.jar
+[26Apr2025 23:15:49.056] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:citadel for mod file /workspaces/Sagon/servidor_minecraft/mods/citadel-2.6.1-1.20.1.jar
+[26Apr2025 23:15:49.056] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alexsmobs for mod file /workspaces/Sagon/servidor_minecraft/mods/alexsmobs-1.22.9.jar
+[26Apr2025 23:15:49.056] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_command_api_v1 for mod file 
+[26Apr2025 23:15:49.056] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_block_view_api_v2 for mod file 
+[26Apr2025 23:15:49.056] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_command_api_v2 for mod file 
+[26Apr2025 23:15:49.057] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_data_attachment_api_v1 for mod file 
+[26Apr2025 23:15:49.057] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[26Apr2025 23:15:49.058] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:redirected for mod file /workspaces/Sagon/servidor_minecraft/mods/redirected-forge-1.0.0-1.20.1.jar
+[26Apr2025 23:15:49.058] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:balm for mod file /workspaces/Sagon/servidor_minecraft/mods/balm-forge-1.20.1-7.3.27-all.jar
+[26Apr2025 23:15:49.058] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_screen_api_v1 for mod file 
+[26Apr2025 23:15:49.058] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:carryon for mod file /workspaces/Sagon/servidor_minecraft/mods/carryon-forge-1.20.1-2.1.2.7.jar
+[26Apr2025 23:15:49.058] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:melody for mod file /workspaces/Sagon/servidor_minecraft/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar
+[26Apr2025 23:15:49.059] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:chat_heads for mod file /workspaces/Sagon/servidor_minecraft/mods/chat_heads-0.13.17-forge-1.20.jar
+[26Apr2025 23:15:49.059] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:startinv for mod file /workspaces/Sagon/servidor_minecraft/mods/forge-startinv-1.0.0-1.20.1.jar
+[26Apr2025 23:15:49.060] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cloth_config for mod file /workspaces/Sagon/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[26Apr2025 23:15:49.060] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_api for mod file 
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_content_registries_v0 for mod file 
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:supplementaries for mod file /workspaces/Sagon/servidor_minecraft/mods/supplementaries-1.20-3.1.30.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:konkrete for mod file /workspaces/Sagon/servidor_minecraft/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:embeddium for mod file /workspaces/Sagon/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:enemyexpansion for mod file /workspaces/Sagon/servidor_minecraft/mods/enemyexpansion-2.3.1-forge-1.20.1.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:entity_model_features for mod file /workspaces/Sagon/servidor_minecraft/mods/entity_model_features_forge_1.20.1-2.4.1.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:entity_texture_features for mod file /workspaces/Sagon/servidor_minecraft/mods/entity_texture_features_forge_1.20.1-6.2.9.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mr_cobblemon_legendarystructures for mod file /workspaces/Sagon/servidor_minecraft/mods/cobblemon-legendary-structures-2.0.jar
+[26Apr2025 23:15:49.061] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_game_rule_api_v1 for mod file 
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_api_lookup_api_v1 for mod file 
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:spark for mod file /workspaces/Sagon/servidor_minecraft/mods/spark-1.10.53-forge.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:moa_decor_cookery for mod file /workspaces/Sagon/servidor_minecraft/mods/MOAdecor COOKERY 1.20.2.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:curios for mod file /workspaces/Sagon/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:patchouli for mod file /workspaces/Sagon/servidor_minecraft/mods/Patchouli-1.20.1-84.1-FORGE.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:megamons for mod file /workspaces/Sagon/servidor_minecraft/mods/MegamonsForge-1.2.1.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cerbons_api for mod file /workspaces/Sagon/servidor_minecraft/mods/CerbonsApi-Forge-1.20.1-1.0.0.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:searchables for mod file /workspaces/Sagon/servidor_minecraft/mods/Searchables-forge-1.20.1-1.0.3.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cobblemon for mod file /workspaces/Sagon/servidor_minecraft/mods/Cobblemon-forge-1.5.1+1.20.1.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cobbledex for mod file /workspaces/Sagon/servidor_minecraft/mods/cobbledex-1.20.1-forge-1.1.0.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:noisium for mod file /workspaces/Sagon/servidor_minecraft/mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_entity_events_v1 for mod file 
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:boatbreakfix for mod file /workspaces/Sagon/servidor_minecraft/mods/BoatBreakFix-Universal-1.0.2.jar
+[26Apr2025 23:15:49.062] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:aiimprovements for mod file /workspaces/Sagon/servidor_minecraft/mods/AI-Improvements-1.20-0.5.2.jar
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_loot_api_v2 for mod file 
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cupboard for mod file /workspaces/Sagon/servidor_minecraft/mods/cupboard-1.20.1-2.7.jar
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:refurbished_furniture for mod file /workspaces/Sagon/servidor_minecraft/mods/refurbished_furniture-forge-1.20.1-1.0.12.jar
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_rendering_data_attachment_v1 for mod file 
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:monolib for mod file /workspaces/Sagon/servidor_minecraft/mods/monolib-forge-1.20.1-2.0.0.jar
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:stackable_stew_and_soup for mod file /workspaces/Sagon/servidor_minecraft/mods/stackable_stew_and_soup-merged-1.20.1-2.0.1.jar
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_networking_api_v1 for mod file 
+[26Apr2025 23:15:49.063] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:framework for mod file /workspaces/Sagon/servidor_minecraft/mods/framework-forge-1.20.1-0.7.12.jar
+[26Apr2025 23:15:49.064] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:krypton for mod file /workspaces/Sagon/servidor_minecraft/mods/KryptonReforged-0.2.3.jar
+[26Apr2025 23:15:49.064] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:illageandspillage for mod file /workspaces/Sagon/servidor_minecraft/mods/illageandspillagerespillaged-1.2.8.jar
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fastleafdecay for mod file /workspaces/Sagon/servidor_minecraft/mods/FastLeafDecay-32.jar
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:gamemenumodoption for mod file /workspaces/Sagon/servidor_minecraft/mods/gamemenumodoption-mc1.20.1-2.2.1.jar
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:playerrevive for mod file /workspaces/Sagon/servidor_minecraft/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:enchantinginfuser for mod file /workspaces/Sagon/servidor_minecraft/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_lifecycle_events_v1 for mod file 
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:timeondisplay for mod file /workspaces/Sagon/servidor_minecraft/mods/timeondisplay-merged-1.20.1-2.0.0.jar
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_key_binding_api_v1 for mod file 
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_client_tags_api_v1 for mod file 
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_transfer_api_v1 for mod file 
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_dimensions_v1 for mod file 
+[26Apr2025 23:15:49.065] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:radium for mod file /workspaces/Sagon/servidor_minecraft/mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar
+[26Apr2025 23:15:49.067] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:bhmenu for mod file /workspaces/Sagon/servidor_minecraft/mods/BHMenu-Forge-1.20.1-2.4.2.jar
+[26Apr2025 23:15:49.067] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:moa_decor_garden_ for mod file /workspaces/Sagon/servidor_minecraft/mods/MOAdecor GARDEN 1.20.1.jar
+[26Apr2025 23:15:49.067] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:darkestsouls for mod file /workspaces/Sagon/servidor_minecraft/mods/DarkestSouls-Forge1.20.1-1.2.2.5.jar
+[26Apr2025 23:15:49.067] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_model_loading_api_v1 for mod file 
+[26Apr2025 23:15:49.071] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jei for mod file /workspaces/Sagon/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.106.jar
+[26Apr2025 23:15:49.071] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:graveyard for mod file /workspaces/Sagon/servidor_minecraft/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar
+[26Apr2025 23:15:49.071] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:attributefix for mod file /workspaces/Sagon/servidor_minecraft/mods/AttributeFix-Forge-1.20.1-21.0.4.jar
+[26Apr2025 23:15:49.071] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_screen_handler_api_v1 for mod file 
+[26Apr2025 23:15:49.071] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_resource_loader_v0 for mod file 
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:caelus for mod file /workspaces/Sagon/servidor_minecraft/mods/caelus-forge-3.2.0+1.20.1.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_rendering_v1 for mod file 
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:chloride for mod file /workspaces/Sagon/servidor_minecraft/mods/chloride-FORGE-mc1.20.1-v1.6.0.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:waystones for mod file /workspaces/Sagon/servidor_minecraft/mods/waystones-forge-1.20.1-14.1.11.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_renderer_indigo for mod file 
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:clumps for mod file /workspaces/Sagon/servidor_minecraft/mods/Clumps-forge-1.20.1-12.0.0.4.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fastasyncworldsave for mod file /workspaces/Sagon/servidor_minecraft/mods/fastasyncworldsave-1.20.1-2.4.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_mining_level_api_v1 for mod file 
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alternate_current for mod file /workspaces/Sagon/servidor_minecraft/mods/alternate_current-mc1.20-1.7.0.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:myserveriscompatible for mod file /workspaces/Sagon/servidor_minecraft/mods/MyServerIsCompatible-1.20-1.0.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:toastcontrol for mod file /workspaces/Sagon/servidor_minecraft/mods/ToastControl-1.20.1-8.0.3.jar
+[26Apr2025 23:15:49.072] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:bosses_of_mass_destruction for mod file /workspaces/Sagon/servidor_minecraft/mods/BOMD-Forge-1.20.1-1.1.1.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:automessage for mod file /workspaces/Sagon/servidor_minecraft/mods/automessage-merged-1.20.1-2.2.0.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:txnilib for mod file /workspaces/Sagon/servidor_minecraft/mods/txnilib-forge-1.0.23-1.20.1.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_particles_v1 for mod file 
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:puzzlesaccessapi for mod file 
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_transitive_access_wideners_v1 for mod file 
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:friendsandfoes for mod file /workspaces/Sagon/servidor_minecraft/mods/friendsandfoes-forge-mc1.20.1-3.0.9.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:craftingtweaks for mod file /workspaces/Sagon/servidor_minecraft/mods/craftingtweaks-forge-1.20.1-18.2.5.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:born_in_chaos_v1 for mod file /workspaces/Sagon/servidor_minecraft/mods/born_in_chaos_[Forge]1.20.1_1.6.3.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:smoothchunk for mod file /workspaces/Sagon/servidor_minecraft/mods/smoothchunk-1.20.1-4.1.jar
+[26Apr2025 23:15:49.073] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/Sagon/servidor_minecraft/mods/voicechat-forge-1.20.1-2.5.30.jar
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:moonlight for mod file /workspaces/Sagon/servidor_minecraft/mods/moonlight-1.20-2.13.82-forge.jar
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_api_base for mod file 
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mousetweaks for mod file /workspaces/Sagon/servidor_minecraft/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:necronomicon for mod file /workspaces/Sagon/servidor_minecraft/mods/Necronomicon-Forge-1.6.0+1.20.1.jar
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_blockrenderlayer_v1 for mod file 
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mixinsquared for mod file 
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:nochatreports for mod file /workspaces/Sagon/servidor_minecraft/mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar
+[26Apr2025 23:15:49.074] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jade for mod file /workspaces/Sagon/servidor_minecraft/mods/Jade-1.20.1-Forge-11.13.1.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:creativecore for mod file /workspaces/Sagon/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:watching for mod file /workspaces/Sagon/servidor_minecraft/mods/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alltheleaks for mod file /workspaces/Sagon/servidor_minecraft/mods/alltheleaks-0.1.3-beta+1.20.1-forge.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_block_api_v1 for mod file 
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_resource_conditions_api_v1 for mod file 
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fastpaintings for mod file /workspaces/Sagon/servidor_minecraft/mods/fastpaintings-1.20-1.2.7.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:kotlinforforge for mod file 
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:capture_xp for mod file /workspaces/Sagon/servidor_minecraft/mods/cobblemon-capturexp-1.5-forge-1.0.1.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaerominimap for mod file /workspaces/Sagon/servidor_minecraft/mods/Xaeros_Minimap_25.2.0_Forge_1.20.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:gravestone for mod file /workspaces/Sagon/servidor_minecraft/mods/gravestone-forge-1.20.1-1.0.24.jar
+[26Apr2025 23:15:49.075] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_item_group_api_v1 for mod file 
+[26Apr2025 23:15:49.078] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:irons_spellbooks for mod file /workspaces/Sagon/servidor_minecraft/mods/irons_spellbooks-1.20.1-3.4.0.8.jar
+[26Apr2025 23:15:49.078] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:entityculling for mod file /workspaces/Sagon/servidor_minecraft/mods/entityculling-forge-1.7.4-mc1.20.1.jar
+[26Apr2025 23:15:49.078] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:doespotatotick for mod file /workspaces/Sagon/servidor_minecraft/mods/doespotatotick-1.20.1-4.0.2.jar
+[26Apr2025 23:15:49.078] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_biome_api_v1 for mod file 
+[26Apr2025 23:15:49.078] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fancymenu for mod file /workspaces/Sagon/servidor_minecraft/mods/fancymenu_forge_3.5.0_MC_1.20.1.jar
+[26Apr2025 23:15:49.078] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_registry_sync_v0 for mod file 
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:immediatelyfast for mod file /workspaces/Sagon/servidor_minecraft/mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_recipe_api_v1 for mod file 
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:ferritecore for mod file /workspaces/Sagon/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_object_builder_api_v1 for mod file 
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cobblemonrider for mod file /workspaces/Sagon/servidor_minecraft/mods/cobblemonrider-1.2.4.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:puzzleslib for mod file /workspaces/Sagon/servidor_minecraft/mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_sound_api_v1 for mod file 
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_message_api_v1 for mod file 
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:badoptimizations for mod file /workspaces/Sagon/servidor_minecraft/mods/BadOptimizations-2.2.1-1.20.1.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:moa_decor_electronics for mod file /workspaces/Sagon/servidor_minecraft/mods/MOAdecor ELECTRONICS 1.20.1.A.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:chunksending for mod file /workspaces/Sagon/servidor_minecraft/mods/chunksending-1.20.1-2.8.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:loadmyresources for mod file /workspaces/Sagon/servidor_minecraft/mods/loadmyresources_forge_1.0.4_MC_1.19.3.jar
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_data_generation_api_v1 for mod file 
+[26Apr2025 23:15:49.079] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:deuf for mod file /workspaces/Sagon/servidor_minecraft/mods/deuf-1.20.1-1.3.jar
+[26Apr2025 23:15:49.080] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_events_interaction_v0 for mod file 
+[26Apr2025 23:15:49.080] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:defaultoptions for mod file /workspaces/Sagon/servidor_minecraft/mods/defaultoptions-forge-1.20-18.0.1.jar
+[26Apr2025 23:15:49.096] [Server thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 2 ms
+[26Apr2025 23:15:49.100] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[26Apr2025 23:15:49.142] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
+	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
+[26Apr2025 23:15:49.199] [Worker-ResourceReload-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[26Apr2025 23:15:49.200] [Worker-ResourceReload-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[26Apr2025 23:15:49.482] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/bastion_treasure to minecraft:chests/bastion_treasure
+[26Apr2025 23:15:49.502] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_drawer
+[26Apr2025 23:15:49.506] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/nether_bridge to minecraft:chests/nether_bridge
+[26Apr2025 23:15:49.506] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_kitchen_counter
+[26Apr2025 23:15:49.507] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_chair
+[26Apr2025 23:15:49.530] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/bastion_hoglin_stable to minecraft:chests/bastion_hoglin_stable
+[26Apr2025 23:15:49.533] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_coffee_table
+[26Apr2025 23:15:49.535] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/igloo_chest to minecraft:chests/igloo_chest
+[26Apr2025 23:15:49.536] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/ancient_city to minecraft:chests/ancient_city
+[26Apr2025 23:15:49.550] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_table
+[26Apr2025 23:15:49.551] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/jungle_temple to minecraft:chests/jungle_temple
+[26Apr2025 23:15:49.555] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/village_house to minecraft:chests/village/village_desert_house
+[26Apr2025 23:15:49.557] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/end_city_treasure to minecraft:chests/end_city_treasure
+[26Apr2025 23:15:49.567] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/simple_dungeon to minecraft:chests/simple_dungeon
+[26Apr2025 23:15:49.572] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_shelf
+[26Apr2025 23:15:49.578] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/shipwreck_supply to minecraft:chests/shipwreck_supply
+[26Apr2025 23:15:49.579] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_kitchen_cupboard
+[26Apr2025 23:15:49.582] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/village_house to minecraft:chests/village/village_snowy_house
+[26Apr2025 23:15:49.589] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/abandoned_mineshaft to minecraft:chests/abandoned_mineshaft
+[26Apr2025 23:15:49.594] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/stronghold_corridor to minecraft:chests/stronghold_corridor
+[26Apr2025 23:15:49.600] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_kitchen_sink
+[26Apr2025 23:15:49.603] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/spawn_bonus_chest to minecraft:chests/spawn_bonus_chest
+[26Apr2025 23:15:49.605] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/village_house to minecraft:chests/village/village_plains_house
+[26Apr2025 23:15:49.616] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/bastion_bridge to minecraft:chests/bastion_bridge
+[26Apr2025 23:15:49.616] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_step
+[26Apr2025 23:15:49.618] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/pillager_outpost to minecraft:chests/pillager_outpost
+[26Apr2025 23:15:49.619] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_platform
+[26Apr2025 23:15:49.619] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_bench
+[26Apr2025 23:15:49.624] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/village_house to minecraft:chests/village/village_savanna_house
+[26Apr2025 23:15:49.624] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/village_house to minecraft:chests/village/village_taiga_house
+[26Apr2025 23:15:49.625] [Worker-ResourceReload-0/DEBUG] [Fabric Resource Conditions/]: Rejected resource of type loot_tables with id adorn:blocks/cobblemon/apricorn_post
+[26Apr2025 23:15:49.629] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/bastion_other to minecraft:chests/bastion_other
+[26Apr2025 23:15:49.631] [Worker-ResourceReload-0/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: LootInjector: Injected cobblemon:injection/chests/woodland_mansion to minecraft:chests/woodland_mansion
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/white_mint
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/starf_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/nomel_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/micle_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/maranga_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/jaboca_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/spelon_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/blue_mint
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_kitchen_cupboard
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/colbur_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/belue_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/tanga_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/tamato_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/pomeg_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/ganlon_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/blue_apricorn
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/coba_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/cheri_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/sitrus_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/aspear_berry
+[26Apr2025 23:15:49.705] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/kee_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/lum_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/occa_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_step
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_bench
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_platform
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/kelpsy_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_post
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/petaya_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/pecha_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/big_root
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/pamtre_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_kitchen_counter
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/wacan_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/payapa_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/mago_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/nanab_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/custap_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/red_mint
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/wiki_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/qualot_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/vivichoke
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/persim_berry
+[26Apr2025 23:15:49.706] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/kasib_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/lansat_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_table
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/green_apricorn
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/white_apricorn
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/pinap_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/babiri_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/kebia_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/black_apricorn
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/touga_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/chesto_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/shuca_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/roseli_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/hondew_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/red_apricorn
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/medicinal_leek
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_kitchen_sink
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_chair
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/rindo_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/revival_herb
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_coffee_table
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/bluk_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/liechi_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/pink_apricorn
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/hopo_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/aguav_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/apicot_berry
+[26Apr2025 23:15:49.707] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/yellow_apricorn
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/cornn_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/rawst_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/durin_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/rowap_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/enigma_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/passho_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/leppa_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/green_mint
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/razz_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/haban_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/watmel_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/yache_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/wepear_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/oran_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/charti_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/rabuta_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/figy_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/magost_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/pink_mint
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_drawer
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/salac_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/grepa_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id adorn:cobblemon/apricorn_shelf
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/cyan_mint
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/chilan_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/iapapa_berry
+[26Apr2025 23:15:49.708] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type recipes with id botanypots:cobblemon/crop/chople_berry
+[26Apr2025 23:15:49.713] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[26Apr2025 23:15:49.715] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[26Apr2025 23:15:49.722] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[26Apr2025 23:15:49.736] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[26Apr2025 23:15:49.754] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 17 recipes
+[26Apr2025 23:15:49.756] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[26Apr2025 23:15:49.757] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[26Apr2025 23:15:49.759] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_kitchen_counter
+[26Apr2025 23:15:49.759] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_drawer
+[26Apr2025 23:15:49.759] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_shelf
+[26Apr2025 23:15:49.759] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_coffee_table
+[26Apr2025 23:15:49.759] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_table
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_kitchen_cupboard
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_bench
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_step
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_post
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_chair
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_platform
+[26Apr2025 23:15:49.760] [Server thread/DEBUG] [Fabric Resource Conditions/]: Allowed resource of type advancements with id adorn:recipes/cobblemon/apricorn_kitchen_sink
+[26Apr2025 23:15:49.792] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[26Apr2025 23:15:49.826] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3024 advancements
+[26Apr2025 23:15:49.829] [Server thread/INFO] [placebo/]: Registered 0 additional recipes.
+[26Apr2025 23:15:49.833] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[26Apr2025 23:15:49.838] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[26Apr2025 23:15:49.840] [Server thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[26Apr2025 23:15:50.136] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
+[26Apr2025 23:15:50.163] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
+[26Apr2025 23:15:50.381] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
+[26Apr2025 23:15:50.680] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 244 held item IDs from showdown
+[26Apr2025 23:15:50.680] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1052 Pokémon species
+[26Apr2025 23:15:50.690] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 43 spawn detail presets.
+[26Apr2025 23:15:50.701] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
+[26Apr2025 23:15:50.712] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 16 fossils
+[26Apr2025 23:15:50.821] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underground.
+[26Apr2025 23:15:50.822] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Unknown preset name: underground.
+[26Apr2025 23:15:50.973] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 69 berries
+[26Apr2025 23:15:50.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Younguer moved too quickly! 10.166588865676289,0.0,0.7001922509977021
+[26Apr2025 23:15:50.980] [Server thread/INFO] [placebo/]: Registered 0 gear_sets.
+[26Apr2025 23:15:50.986] [Server thread/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly, minecraft:is_plains
+[26Apr2025 23:15:51.013] [Server thread/INFO] [Moonlight/]: Applied 7 data villager trades
+[26Apr2025 23:15:51.018] [Server thread/ERROR] [Moonlight/]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@7ff11c32
+[26Apr2025 23:15:51.067] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.068] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.069] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.069] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.070] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.071] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[26Apr2025 23:15:51.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Primeval Roots]
+[26Apr2025 23:15:51.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[26Apr2025 23:15:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[26Apr2025 23:15:53.553] [Worker-Main-50/DEBUG] [ModernFix/]: Saved stronghold cache for dimension minecraft:server_faucet_test_level
+[26Apr2025 23:15:53.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[26Apr2025 23:16:06.243] [Server thread/DEBUG] [Cobbledex/]: Saving 75 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:16:14.044] [Server thread/DEBUG] [Cobbledex/]: Saving 75 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:16:18.482] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:16:18.482] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:16:18.482] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:16:27.817] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[26Apr2025 23:16:27.840] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[26Apr2025 23:16:27.848] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[26Apr2025 23:16:27.908] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[26Apr2025 23:16:27.952] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[26Apr2025 23:16:39.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:16:41.765] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[26Apr2025 23:16:41.838] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[26Apr2025 23:16:42.186] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[26Apr2025 23:16:42.190] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[26Apr2025 23:16:42.197] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[26Apr2025 23:16:44.444] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:16:48.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:16:48.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:16:48.531] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:16:49.633] [Worker-ResourceReload-0/DEBUG] [ModernFix/]: Worker-ResourceReload-0 shutdown
+[26Apr2025 23:16:51.944] [Server thread/DEBUG] [Cobbledex/]: Saving 75 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:16:54.650] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[26Apr2025 23:16:54.654] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[26Apr2025 23:16:54.657] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[26Apr2025 23:16:54.999] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[26Apr2025 23:16:55.239] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[26Apr2025 23:17:18.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:17:18.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:17:18.582] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:17:18.596] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:17:22.992] [Server thread/DEBUG] [Cobbledex/]: Saving 75 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:17:26.376] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[26Apr2025 23:17:26.409] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[26Apr2025 23:17:36.216] [Server thread/DEBUG] [Cobbledex/]: Saving 76 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:17:36.994] [Server thread/DEBUG] [Cobbledex/]: Saving 76 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:17:48.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:17:48.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:17:48.632] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:17:49.633] [Worker-ResourceReload-1/DEBUG] [ModernFix/]: Worker-ResourceReload-1 shutdown
+[26Apr2025 23:17:50.044] [Server thread/DEBUG] [Cobbledex/]: Saving 77 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:18:18.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:18:18.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:18:18.682] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:18:44.735] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[26Apr2025 23:18:44.739] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[26Apr2025 23:18:44.744] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[26Apr2025 23:18:44.750] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[26Apr2025 23:18:44.796] [Worker-Main-18/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_03 is being run through DFU (hash 1834937b8d78c38af3aedfb2b34b67a6d141ad3147329358331659dfffa23172), this will cause launch time delays
+[26Apr2025 23:18:44.858] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[26Apr2025 23:18:44.862] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[26Apr2025 23:18:44.865] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[26Apr2025 23:18:44.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[26Apr2025 23:18:45.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=105, z=58} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 23:18:45.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-798, y=105, z=58}
+[26Apr2025 23:18:48.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[26Apr2025 23:18:48.094] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[26Apr2025 23:18:48.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:18:48.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:18:48.732] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:18:49.633] [Worker-ResourceReload-2/DEBUG] [ModernFix/]: Worker-ResourceReload-2 shutdown
+[26Apr2025 23:19:04.270] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[26Apr2025 23:19:04.302] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[26Apr2025 23:19:04.307] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_2 is being run through DFU (hash ddc035e32a14d18c922540490b5bfcebf9b2e259761be12fbdea81585f215a23), this will cause launch time delays
+[26Apr2025 23:19:04.311] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight_trapped is being run through DFU (hash c8e522d30416da104ebee9cd57875519cb3d466708e2f6b152b018f1eac4f12d), this will cause launch time delays
+[26Apr2025 23:19:04.319] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_turn_1 is being run through DFU (hash 55c1ab3858ca328b01d618ab63090048bf809f4f8a78644c2bf3a95e43d68f6c), this will cause launch time delays
+[26Apr2025 23:19:04.426] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_1 is being run through DFU (hash a7d1737f84746d593892bfd10a077e78cd8646a61f67511f4b7519173d527f9d), this will cause launch time delays
+[26Apr2025 23:19:04.430] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_zigzag is being run through DFU (hash e4aa2324c4f5665c93a3f3f1035544b00815c7cadde1dda9322cf7ac9325f5dc), this will cause launch time delays
+[26Apr2025 23:19:04.436] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_2 is being run through DFU (hash 9453f28bdd6b745cb38f92c708e152e1910c403ab4fcec53cb18024fae6e1c7e), this will cause launch time delays
+[26Apr2025 23:19:04.441] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dropdown_hallway is being run through DFU (hash 04e33d7337431cb18c063bffc7b63fa98053b31a9ed5f59494927858847e57e6), this will cause launch time delays
+[26Apr2025 23:19:04.454] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_arch is being run through DFU (hash 1ba8425d8e64a74e58c0d95b0ca9903bb329c6ef4934ae834d3d46e8b14901cd), this will cause launch time delays
+[26Apr2025 23:19:04.460] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/hallway_connector is being run through DFU (hash 0903bbcbe2eb4344a3458800358fd77dd87acc5748b8c529f6abf3c0e14146ff), this will cause launch time delays
+[26Apr2025 23:19:04.464] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_spiral_stairs is being run through DFU (hash 9d2a4ef561c42e7a62ab0b1b9eba12fe41be64dc2180eb25802b92706a7985c6), this will cause launch time delays
+[26Apr2025 23:19:04.471] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/balcony is being run through DFU (hash bd6b73833ee18760771079d0577d7ce4114d78a30bde7faf326c4cad75e06be8), this will cause launch time delays
+[26Apr2025 23:19:04.516] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_hallway_wall is being run through DFU (hash efeecb970d335903aab58981d98241a14ad0c9551e4d8209d45669a29588287e), this will cause launch time delays
+[26Apr2025 23:19:04.517] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_room_wall is being run through DFU (hash fa6752c910b6419f7e91fb9ac6d0b60e7eac0bf7151df2da07b76d11d01b41ff), this will cause launch time delays
+[26Apr2025 23:19:04.520] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_3 is being run through DFU (hash b439678c2cca2aa6b2d834eacbae61c1bdddd129cf9b6a939dddb8ec8533faf8), this will cause launch time delays
+[26Apr2025 23:19:04.525] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_1 is being run through DFU (hash 3776e200c1ea6c0e7a520c2cd43b3872ac017b1a9f0856eb6a42c47144855cad), this will cause launch time delays
+[26Apr2025 23:19:04.530] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/reception is being run through DFU (hash 7885390e71976407b6213da21e05bf0bcbd22cdedfb722ed2b2166612317ac33), this will cause launch time delays
+[26Apr2025 23:19:04.536] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/ravager_prison is being run through DFU (hash 8beed8211af18c58fa3143832d111e7f4d2cb8fd28c6046dbd93078640bcd0e4), this will cause launch time delays
+[26Apr2025 23:19:04.553] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_spawner_1 is being run through DFU (hash 50e33a4b9356a0698f4cb9cf6a75e2eb81fe38aca765c982e2d1afb9adfc75f3), this will cause launch time delays
+[26Apr2025 23:19:04.560] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/boiler is being run through DFU (hash c10eb28f7ca575fda9e31f21e8a24942fc3d99c04e86cee1f70f42c0af38320c), this will cause launch time delays
+[26Apr2025 23:19:04.563] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_1 is being run through DFU (hash 8d1b3133f1e2b8a666a70f531084e6d286ca652cdd13792224374263dcbfbadd), this will cause launch time delays
+[26Apr2025 23:19:04.571] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_jail is being run through DFU (hash c9dcecb3c3096be04f646a5d1b91d104866647e7a1298a025818aa98b766ecb7), this will cause launch time delays
+[26Apr2025 23:19:04.576] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/double_storage is being run through DFU (hash f7e8db79a930a748736e118e2ca1cca0e4f7901e6f526a4c2a2673611486fc01), this will cause launch time delays
+[26Apr2025 23:19:04.585] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_2 is being run through DFU (hash cd2c82202236fa12a230a3e1ea4e23bb934b80cdafb27c699483921ca2acf980), this will cause launch time delays
+[26Apr2025 23:19:04.590] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/study_platform is being run through DFU (hash 39e786522610a2899515c54b553ad606a6fd10d30330f705c7949c69bb862ced), this will cause launch time delays
+[26Apr2025 23:19:04.594] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_1 is being run through DFU (hash c6f77167dc5ad017f105d8d648e3d901f817e0a407f7684700be61accc774a88), this will cause launch time delays
+[26Apr2025 23:19:04.605] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_pitfall is being run through DFU (hash d5ba426cfcd818119f431d16cd3909b73fb128dd7f7bbb873e063abef0a334b9), this will cause launch time delays
+[26Apr2025 23:19:04.609] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/armorstand is being run through DFU (hash 80daf3838bde3ca4d4b922380caee4a9ed02a98623b6c507d83bf9aac282ec8e), this will cause launch time delays
+[26Apr2025 23:19:04.615] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_2 is being run through DFU (hash 3c9ef6a50d571cbbf2236fe8328b67270fcf28177a0c23535170ac434a07bb63), this will cause launch time delays
+[26Apr2025 23:19:04.624] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_2 is being run through DFU (hash a7d2850225274e7f12b3054eb652de8437f945162d32fe4507a3cfa03eb4235e), this will cause launch time delays
+[26Apr2025 23:19:04.626] [Worker-Main-18/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/wall_crypt is being run through DFU (hash 55f20006c0a0d7b8268eeac4cd0d3377c004d30ccc14cf90a3034ba822241120), this will cause launch time delays
+[26Apr2025 23:19:09.505] [Server thread/DEBUG] [Cobbledex/]: Saving 78 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[26Apr2025 23:19:18.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:19:18.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:19:18.782] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:19:48.831] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:19:48.831] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:19:48.831] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:19:59.541] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[26Apr2025 23:20:06.674] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_brown_mushroom_stem_01 is being run through DFU (hash cf3490d629dfeebdb22836b1e984e54cfcac6dfe631634b359fc22364d574df5), this will cause launch time delays
+[26Apr2025 23:20:18.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:20:18.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:20:18.883] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:20:20.844] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:20:25.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Apr2025 23:20:28.965] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Apr2025 23:20:28.966] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Apr2025 23:20:29.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:20:29.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:20:32.594] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Apr2025 23:20:48.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:20:48.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:20:48.933] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:21:18.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:21:18.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:21:18.981] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:21:49.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Apr2025 23:21:49.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Apr2025 23:21:49.032] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Apr2025 23:21:49.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13

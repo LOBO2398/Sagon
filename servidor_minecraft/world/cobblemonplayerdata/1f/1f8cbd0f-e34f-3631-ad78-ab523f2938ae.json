@@ -366,6 +366,34 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745708445448
           }
+        },
+        "xerneas": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745709366242
+          }
+        },
+        "snubbull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745709456216
+          }
+        },
+        "fletchling": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745709470043
+          }
+        },
+        "weedle": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745709549504
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -379,16 +407,17 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 3,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
-      "cobblemon:teddiursa": 1
+      "cobblemon:teddiursa": 1,
+      "cobblemon:combee": 1
     },
     "aspectsCollected": {}
   }

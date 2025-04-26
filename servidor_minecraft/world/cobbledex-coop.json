@@ -540,6 +540,34 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745708445449
       }
+    },
+    "xerneas": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745709366243
+      }
+    },
+    "snubbull": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745709456216
+      }
+    },
+    "fletchling": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745709470044
+      }
+    },
+    "weedle": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745709549505
+      }
     }
   }
 }
