@@ -1450,3 +1450,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 21:30:19.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Into Fire]
 [26Apr2025 21:30:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Tools of the Trade]
 [26Apr2025 21:30:19.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ice Bucket Challenge]
+[26Apr2025 21:30:34.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Diamonds!]
+[26Apr2025 21:30:41.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Cover Me with Diamonds]
+[26Apr2025 21:32:04.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Younguer> mimimimimimimimimimiii
+[26Apr2025 21:32:32.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sweet Dreams]
+[26Apr2025 21:34:50.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:43789] logged in with entity id 38401 at (-17.80133426060883, 70.0, 53.30000001192093)
+[26Apr2025 21:34:50.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 21:34:50.161] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 21:34:50.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 21:34:50.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 21:35:11.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 21:35:12.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26Apr2025 21:35:12.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[26Apr2025 21:36:26.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [The First of Many]
+[26Apr2025 21:36:54.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> GIVE @S POKEBALL 100
+[26Apr2025 21:37:05.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuuf
+[26Apr2025 21:37:08.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> obvio
+[26Apr2025 21:37:16.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[26Apr2025 21:37:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> Gonci como bienvenida tenias que darnos por lo menos 3 pokeballs a cada uno
+[26Apr2025 21:37:46.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
+[26Apr2025 21:37:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
+[26Apr2025 21:37:56.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> es verdad
+[26Apr2025 21:38:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dale gonza
+[26Apr2025 21:38:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ponete las pilas puto
+[26Apr2025 21:38:12.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dea
+[26Apr2025 21:38:14.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> unite al grupo
+[26Apr2025 21:38:14.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[26Apr2025 21:38:29.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> no puedo ni mover
+[26Apr2025 21:38:42.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> estoy lagueadisimo
+[26Apr2025 21:38:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> f
+[26Apr2025 21:39:09.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[26Apr2025 21:39:09.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[26Apr2025 21:39:09.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 21:39:49.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: You logged in from another location
+[26Apr2025 21:39:49.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[26Apr2025 21:39:49.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[26Apr2025 21:39:49.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:50561] logged in with entity id 41474 at (-57.82145500635165, 71.0, 44.75858099718531)
+[26Apr2025 21:39:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 21:39:49.976] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 21:39:50.353] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 21:39:50.354] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15

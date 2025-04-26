@@ -310,6 +310,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745649099502
           }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745703414354
+          }
         }
       },
       "name": "cobbledex_discovery"

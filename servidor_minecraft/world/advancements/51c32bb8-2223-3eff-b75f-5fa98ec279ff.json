@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "azure_ball": "2025-04-26 21:36:26 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-04-26 20:40:01 +0000"
@@ -165,6 +171,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-26 21:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-26 21:35:47 +0000"
     },
     "done": true
   },
@@ -673,6 +685,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "azure_ball": "2025-04-26 21:36:26 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:46:51 +0000"
@@ -706,6 +724,12 @@
   "cobblemon:healing_machine": {
     "criteria": {
       "use_healing_machine": "2025-04-26 20:36:30 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-04-26 21:36:26 +0000"
     },
     "done": true
   },
@@ -880,6 +904,12 @@
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
       "has_red_apricorn": "2025-04-26 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-26 21:35:47 +0000"
     },
     "done": true
   },
