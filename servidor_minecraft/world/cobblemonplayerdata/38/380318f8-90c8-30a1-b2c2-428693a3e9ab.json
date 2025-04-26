@@ -16,6 +16,83 @@
             "discoveredTimestamp": 1745697968789,
             "caughtTimestamp": 1745697968789
           }
+        },
+        "zigzagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698427290
+          }
+        },
+        "wimpod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698443187
+          }
+        },
+        "wingull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698451187
+          }
+        },
+        "staryu": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698461187
+          }
+        },
+        "pidgeotto": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698506738
+          }
+        },
+        "deerling": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698516737
+          }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698520538
+          }
+        },
+        "krabby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698583237
+          }
+        },
+        "miltank": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698612399
+          }
+        },
+        "snorunt": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698627439
+          }
+        },
+        "bouffalant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698754179
+          }
         }
       },
       "name": "cobbledex_discovery"

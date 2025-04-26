@@ -385,6 +385,20 @@
         "discoveredTimestamp": 1745697968791,
         "caughtTimestamp": 1745697968791
       }
+    },
+    "staryu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745698450238
+      }
+    },
+    "deerling": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745698516737
+      }
     }
   }
 }

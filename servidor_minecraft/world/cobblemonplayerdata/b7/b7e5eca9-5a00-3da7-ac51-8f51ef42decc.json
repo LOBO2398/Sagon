@@ -154,6 +154,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745649102273
           }
+        },
+        "staryu": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698450238
+          }
+        },
+        "wimpod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745698461498
+          }
         }
       },
       "name": "cobbledex_discovery"
