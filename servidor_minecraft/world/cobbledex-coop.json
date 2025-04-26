@@ -453,6 +453,22 @@
         "discoveredTimestamp": 1745703954501,
         "caughtTimestamp": 1745703954501
       }
+    },
+    "dewott": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745704415096,
+        "caughtTimestamp": 1745704415096
+      }
+    },
+    "nosepass": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745704697551,
+        "caughtTimestamp": 1745704697551
+      }
     }
   }
 }

@@ -128,6 +128,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745702021501
           }
+        },
+        "nosepass": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745704697551,
+            "caughtTimestamp": 1745704697551
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -138,19 +146,22 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "rock": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:wingull": 1,
-      "cobblemon:zigzagoon": 1
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:lechonk": 1
     },
     "aspectsCollected": {}
   }

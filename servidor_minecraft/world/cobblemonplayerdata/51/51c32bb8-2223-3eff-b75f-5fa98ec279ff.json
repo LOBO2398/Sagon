@@ -24,6 +24,14 @@
             "discoveredTimestamp": 1745703794710,
             "caughtTimestamp": 1745703794710
           }
+        },
+        "dewott": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745704415096,
+            "caughtTimestamp": 1745704415096
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -36,7 +44,7 @@
   "advancementData": {
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
+    "totalEvolvedCount": 1,
     "totalBattleVictoryCount": 0,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 0,

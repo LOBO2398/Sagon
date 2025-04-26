@@ -919,6 +919,12 @@
     },
     "done": true
   },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-04-26 21:53:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:46:51 +0000"

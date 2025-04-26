@@ -42,9 +42,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-26 20:29:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -53,6 +65,12 @@
       "has_white_wool": "2025-04-26 20:15:41 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
@@ -114,6 +132,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/healing_machine": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
       "has_white_apricorn": "2025-04-26 21:20:52 +0000"
@@ -129,6 +153,18 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/hasty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -162,9 +198,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_fridge": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-26 20:43:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -197,6 +245,18 @@
       "has_white_apricorn": "2025-04-26 21:20:52 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
@@ -231,6 +291,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -269,6 +335,12 @@
       "has_red_apricorn": "2025-04-26 21:11:44 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
@@ -319,6 +391,20 @@
     },
     "done": true
   },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "slate_ball": "2025-04-26 21:56:15 +0000",
+      "poke_ball": "2025-04-26 21:56:08 +0000",
+      "premier_ball": "2025-04-26 21:56:02 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -343,6 +429,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -358,6 +450,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-04-26 20:05:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -394,6 +492,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -497,6 +601,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_belt": {
+    "criteria": {
+      "has_mint": "2025-04-26 21:52:38 +0000"
     },
     "done": true
   },
@@ -651,9 +761,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -699,6 +827,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-04-26 21:02:46 +0000"
@@ -708,6 +842,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-04-26 21:02:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -735,9 +875,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -750,6 +902,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-26 20:29:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -768,6 +926,18 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -816,6 +986,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-04-26 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -909,6 +1085,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-26 20:51:30 +0000"
@@ -933,6 +1115,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-04-26 21:11:44 +0000"
@@ -948,6 +1136,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -1036,6 +1230,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/cell_battery": {
+    "criteria": {
+      "has_copper": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:any_plant": {
     "criteria": {
       "check_inv": "2025-04-26 20:42:32 +0000"
@@ -1045,6 +1245,18 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -1072,6 +1284,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -1090,6 +1308,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/mild_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
@@ -1105,6 +1329,24 @@
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 21:51:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_bath": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -1132,9 +1374,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 21:51:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-04-26 21:02:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -1168,6 +1428,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
@@ -1195,6 +1467,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -1233,6 +1511,12 @@
       "has_planks": "2025-04-26 21:02:46 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
@@ -1301,6 +1585,12 @@
     },
     "done": false
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-26 20:52:01 +0000"
@@ -1331,9 +1621,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/impish_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-26 20:45:48 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-26 21:58:17 +0000"
     },
     "done": true
   },
@@ -1409,6 +1711,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_cherry_planks": "2025-04-26 21:02:46 +0000"
@@ -1468,6 +1776,12 @@
       "has_stick": "2025-04-26 21:02:57 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
@@ -1559,6 +1873,14 @@
     },
     "done": true
   },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "slate_ball": "2025-04-26 21:56:15 +0000",
+      "poke_ball": "2025-04-26 21:56:08 +0000",
+      "premier_ball": "2025-04-26 21:56:02 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
@@ -1601,6 +1923,12 @@
       "has_white_wool": "2025-04-26 20:15:41 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/relaxed_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
@@ -1651,9 +1979,21 @@
     },
     "done": true
   },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-04-26 21:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-04-26 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2025-04-26 21:52:38 +0000"
     },
     "done": true
   },
@@ -1680,6 +2020,12 @@
       "has_oak_planks": "2025-04-26 21:31:15 +0000"
     },
     "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_blue_mint_leaf": "2025-04-26 21:52:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -1767,10 +2113,22 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 21:12:35 +0000",
       "chicken": "2025-04-26 20:24:25 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-04-26 21:52:38 +0000"
     },
     "done": false
   },
@@ -1783,6 +2141,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_white_wool": "2025-04-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },
@@ -1930,6 +2294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 21:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-26 21:11:57 +0000"
@@ -1963,6 +2333,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-04-26 21:02:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 21:55:43 +0000"
     },
     "done": true
   },

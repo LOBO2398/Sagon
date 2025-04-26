@@ -1536,3 +1536,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 21:50:27.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
 [26Apr2025 21:50:27.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
 [26Apr2025 21:50:27.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[26Apr2025 21:52:38.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Minty Fresh]
+[26Apr2025 21:53:35.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Hard Work and Dedication]
+[26Apr2025 21:56:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [The First of Many]
+[26Apr2025 21:57:46.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:44729] logged in with entity id 50386 at (-54.785313882446, 71.0, 43.44439692299182)
+[26Apr2025 21:57:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 21:57:46.207] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 21:57:50.006] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 21:57:50.006] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 21:58:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [A New Friend!]
+[26Apr2025 21:58:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> salveme Go GOnci
+[26Apr2025 21:58:44.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[26Apr2025 21:58:44.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[26Apr2025 21:58:44.293] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[26Apr2025 22:00:03.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.48.156.132:36449] logged in with entity id 51839 at (-54.785313882446, 71.0, 43.44439692299182)
+[26Apr2025 22:00:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26Apr2025 22:00:03.217] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26Apr2025 22:00:04.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26Apr2025 22:00:04.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26Apr2025 22:01:01.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[26Apr2025 22:01:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[26Apr2025 22:01:01.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
