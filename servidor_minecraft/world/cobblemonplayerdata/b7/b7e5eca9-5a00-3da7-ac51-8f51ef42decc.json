@@ -188,14 +188,17 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:bunnelby": 1,
+      "cobblemon:kakuna": 1
+    },
     "aspectsCollected": {}
   }
 }

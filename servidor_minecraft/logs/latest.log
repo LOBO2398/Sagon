@@ -1368,3 +1368,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 20:56:33.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer fell from a high place
 [26Apr2025 20:57:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Direwolf
 [26Apr2025 20:59:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Alex's Mobs]
+[26Apr2025 21:03:12.133] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[26Apr2025 21:03:12.153] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[26Apr2025 21:03:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[26Apr2025 21:04:20.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Getting an Upgrade]
+[26Apr2025 21:05:00.427] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Apr2025 21:05:00.469] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Apr2025 21:05:21.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Getting an Upgrade]
+[26Apr2025 21:06:31.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer has made the advancement [Sweet Dreams]
+[26Apr2025 21:08:15.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The First of Many]
+[26Apr2025 21:09:02.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10484, l='ServerLevel[world]', x=105.50, y=73.00, z=-596.70] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 21:09:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Stay dead]
+[26Apr2025 21:09:10.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/10407, l='ServerLevel[world]', x=105.49, y=73.00, z=-596.70] died, message: 'Leatherworker was slain by Zombie'
+[26Apr2025 21:09:30.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10406, l='ServerLevel[world]', x=105.34, y=73.06, z=-598.08] died, message: 'Unemployed was slain by Zombie'
+[26Apr2025 21:10:05.377] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Apr2025 21:10:05.377] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Apr2025 21:10:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Hollow Soldier
