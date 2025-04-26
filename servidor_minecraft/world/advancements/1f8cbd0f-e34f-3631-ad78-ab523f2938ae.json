@@ -1,91 +1,13 @@
 {
-  "cobblemon:obtain_berry": {
-    "criteria": {
-      "check_inv": "2025-04-26 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_all_berries": {
-    "criteria": {
-      "obtain_wepear_berry": "2025-04-26 00:02:25 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "has_porkchop": "2025-04-25 23:58:04 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:first_battle_victory": {
-    "criteria": {
-      "win": "2025-04-26 00:11:00 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-04-25 23:49:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-25 23:49:13 +0000"
     },
     "done": true
   },
-  "cobblemon:root": {
-    "criteria": {
-      "picked_starter": "2025-04-26 00:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-04-25 23:58:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-25 23:49:57 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-04-25 23:49:13 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/mulch_base": {
-    "criteria": {
-      "has_berry": "2025-04-26 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:any_plant": {
-    "criteria": {
-      "check_inv": "2025-04-26 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-04-25 23:58:04 +0000"
-    },
-    "done": true
-  },
-  "megamons:grant_megamons_guide": {
-    "criteria": {
-      "tick": "2025-04-26 00:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-04-25 23:58:04 +0000"
     },
     "done": true
   },
@@ -104,6 +26,90 @@
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-04-25 23:49:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-25 23:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-25 23:49:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-04-25 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-25 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-25 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-25 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-04-26 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_wepear_berry": "2025-04-26 00:02:25 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-04-26 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2025-04-26 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-04-26 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2025-04-26 00:06:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-04-26 00:11:00 +0000"
+    },
+    "done": true
+  },
+  "survivallegends:root": {
+    "criteria": {
+      "yak": "2025-04-26 05:01:11 +0000"
     },
     "done": true
   },
