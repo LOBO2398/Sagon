@@ -720,6 +720,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745714582809
       }
+    },
+    "fomantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745714634155
+      }
+    },
+    "arcanine": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745715059302
+      }
     }
   }
 }

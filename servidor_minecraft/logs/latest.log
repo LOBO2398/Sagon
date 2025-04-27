@@ -15,3 +15,32 @@
 [27Apr2025 00:36:45.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Younguer lost connection: Disconnected
 [27Apr2025 00:36:45.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer left the game
 [27Apr2025 00:36:45.057] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Younguer
+[27Apr2025 00:50:19.420] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Apr2025 00:50:19.420] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Apr2025 00:50:19.431] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[27Apr2025 00:50:31.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Junior Summoner]
+[27Apr2025 00:53:19.602] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$DefaultImpls.applyToBattlePokemon(PokemonSelectingItem.java:105) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.item.berry.HealingBerryItem.applyToBattlePokemon(HealingBerryItem.java:64) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$interactGeneralBattle$2.invoke(PokemonSelectingItem.java:148) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$interactGeneralBattle$2.invoke(PokemonSelectingItem.java:144) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.1+1.20.1.jar%23225!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]

@@ -2581,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-27 00:43:51 +0000"
+    },
+    "done": true
+  },
   "cobblemon:full_party": {
     "criteria": {
       "full_party": "2025-04-27 00:32:10 +0000"
@@ -2638,6 +2644,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-27 00:43:51 +0000"
     },
     "done": true
   },
@@ -3172,6 +3184,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-27 00:43:51 +0000"
     },
     "done": true
   },
