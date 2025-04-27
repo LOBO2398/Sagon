@@ -247,6 +247,14 @@
             "discoveredTimestamp": 1745713981349,
             "caughtTimestamp": 1745713981349
           }
+        },
+        "exeggcute": {
+          "alolabias": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745714228044,
+            "caughtTimestamp": 1745714228044
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -257,7 +265,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 6,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
     "totalBattleVictoryCount": 18,
@@ -270,9 +278,10 @@
       "normal": 2,
       "ground": 1,
       "water": 1,
-      "grass": 1,
+      "grass": 2,
       "poison": 2,
-      "ghost": 2
+      "ghost": 2,
+      "psychic": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

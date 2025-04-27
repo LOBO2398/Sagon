@@ -705,6 +705,21 @@
         "discoveredTimestamp": 1745713981349,
         "caughtTimestamp": 1745713981349
       }
+    },
+    "exeggcute": {
+      "alolabias": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745714228044,
+        "caughtTimestamp": 1745714228044
+      }
+    },
+    "noctowl": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745714582809
+      }
     }
   }
 }

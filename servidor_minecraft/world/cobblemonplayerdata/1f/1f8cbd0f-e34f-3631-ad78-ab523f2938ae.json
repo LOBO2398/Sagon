@@ -539,6 +539,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745713494345
           }
+        },
+        "noctowl": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745714582809
+          }
         }
       },
       "name": "cobbledex_discovery"

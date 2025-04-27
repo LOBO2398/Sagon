@@ -11,3 +11,7 @@
 [27Apr2025 00:24:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Root of Basic Healing]
 [27Apr2025 00:32:10.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Full House]
 [27Apr2025 00:33:24.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[27Apr2025 00:33:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer was doomed to fall by lobo3224
+[27Apr2025 00:36:45.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Younguer lost connection: Disconnected
+[27Apr2025 00:36:45.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Younguer left the game
+[27Apr2025 00:36:45.057] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Younguer
