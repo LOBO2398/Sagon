@@ -77,6 +77,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_pinap_berry": "2025-04-27 00:23:26 +0000",
       "obtain_persim_berry": "2025-04-27 00:09:09 +0000",
       "obtain_oran_berry": "2025-04-26 05:55:16 +0000",
       "obtain_wepear_berry": "2025-04-26 00:02:25 +0000"
@@ -2502,7 +2503,10 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2025-04-27 00:25:44 +0000",
+      "slate_ball": "2025-04-27 00:25:31 +0000",
       "poke_ball": "2025-04-26 23:39:32 +0000",
+      "premier_ball": "2025-04-27 00:26:37 +0000",
       "azure_ball": "2025-04-26 23:24:03 +0000"
     },
     "done": false
@@ -2510,7 +2514,10 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "azure_ball": "2025-04-26 23:24:03 +0000",
-      "poke_ball": "2025-04-26 23:39:32 +0000"
+      "slate_ball": "2025-04-27 00:25:31 +0000",
+      "poke_ball": "2025-04-26 23:39:32 +0000",
+      "roseate_ball": "2025-04-27 00:25:44 +0000",
+      "premier_ball": "2025-04-27 00:26:37 +0000"
     },
     "done": false
   },
@@ -2574,6 +2581,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-26 23:45:56 +0000"
@@ -2583,6 +2596,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -2625,6 +2650,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy": {
+    "criteria": {
+      "has_root": "2025-04-27 00:24:25 +0000"
     },
     "done": true
   },
@@ -2700,6 +2731,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2025-04-27 00:24:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -2748,9 +2791,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -2781,6 +2836,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -2823,6 +2884,12 @@
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_result": "2025-04-27 00:18:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2025-04-27 00:24:25 +0000"
     },
     "done": true
   },
@@ -2874,6 +2941,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-27 00:25:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "megamons:recipes/tools/mega_cuff": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -2919,6 +2998,18 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -3006,6 +3097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -3048,6 +3145,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2025-04-27 00:22:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -3057,6 +3160,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -3090,6 +3199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-27 00:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-04-26 23:47:44 +0000"
@@ -3102,9 +3217,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -3126,9 +3259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -3186,9 +3331,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/evolution/metal_coat": {
     "criteria": {
       "has_iron": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-04-27 00:25:40 +0000"
     },
     "done": true
   },
@@ -3204,6 +3367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 00:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-27 00:03:06 +0000"
@@ -3213,6 +3382,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 00:25:55 +0000"
     },
     "done": true
   },
@@ -3231,6 +3406,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2025-04-27 00:24:25 +0000"
     },
     "done": true
   },

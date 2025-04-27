@@ -690,6 +690,21 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745713168398
       }
+    },
+    "probopass": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745713494346
+      }
+    },
+    "gimmighoul": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745713981349,
+        "caughtTimestamp": 1745713981349
+      }
     }
   }
 }

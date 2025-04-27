@@ -239,6 +239,14 @@
             "discoveredTimestamp": 1745707186023,
             "caughtTimestamp": 1745707186023
           }
+        },
+        "gimmighoul": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745713981349,
+            "caughtTimestamp": 1745713981349
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -249,12 +257,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 17,
+    "totalBattleVictoryCount": 18,
     "totalPvPBattleVictoryCount": 6,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 12,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -264,7 +272,7 @@
       "water": 1,
       "grass": 1,
       "poison": 2,
-      "ghost": 1
+      "ghost": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
