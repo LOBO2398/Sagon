@@ -77,6 +77,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2025-04-27 00:09:09 +0000",
       "obtain_oran_berry": "2025-04-26 05:55:16 +0000",
       "obtain_wepear_berry": "2025-04-26 00:02:25 +0000"
     },
@@ -1205,6 +1206,7 @@
       "cooked_beef": "2025-04-26 05:58:44 +0000",
       "beef": "2025-04-26 23:05:01 +0000",
       "mutton": "2025-04-26 06:30:11 +0000",
+      "suspicious_stew": "2025-04-27 00:03:06 +0000",
       "golden_carrot": "2025-04-26 23:29:02 +0000",
       "cooked_rabbit": "2025-04-26 22:58:42 +0000"
     },
@@ -2914,6 +2916,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-04-27 00:03:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -3052,6 +3060,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-27 00:03:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -3169,6 +3183,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-27 00:03:06 +0000"
     },
     "done": true
   },

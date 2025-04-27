@@ -485,6 +485,29 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745711499849
           }
+        },
+        "voltorb": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745712276754
+          }
+        },
+        "dachsbun": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745712612746,
+            "caughtTimestamp": 1745712726349
+          }
+        },
+        "fletchinder": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745712740703,
+            "caughtTimestamp": 1745712740703
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -495,18 +518,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 8,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 8,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 2,
-      "flying": 2
+      "flying": 2,
+      "fairy": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

@@ -652,6 +652,29 @@
         "discoveredTimestamp": 1745711496632,
         "caughtTimestamp": 1745711594101
       }
+    },
+    "voltorb": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745712276754
+      }
+    },
+    "dachsbun": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745712612747,
+        "caughtTimestamp": 1745712726350
+      }
+    },
+    "fletchinder": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745712740704,
+        "caughtTimestamp": 1745712740704
+      }
     }
   }
 }
