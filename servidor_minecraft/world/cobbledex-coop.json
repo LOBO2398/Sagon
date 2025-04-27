@@ -43,6 +43,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1745646600324
+      },
+      "galar": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745711928754
       }
     },
     "rattata": {
@@ -643,8 +648,9 @@
     "starly": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1745711496632
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745711496632,
+        "caughtTimestamp": 1745711594101
       }
     }
   }

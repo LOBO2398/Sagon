@@ -36,6 +36,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1745646600323
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745711928753
           }
         },
         "rattata": {
@@ -469,8 +474,9 @@
         "starly": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1745711496631
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745711496631,
+            "caughtTimestamp": 1745711594101
           }
         },
         "linoone": {
@@ -489,18 +495,18 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 7,
+    "totalBattleVictoryCount": 8,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 1,
-      "flying": 1
+      "normal": 2,
+      "flying": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

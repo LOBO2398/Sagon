@@ -1363,13 +1363,15 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-04-26 06:04:11 +0000"
+      "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
       "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000",
       "has_pink_apricorn": "2025-04-26 23:17:31 +0000"
     },
     "done": false
@@ -1388,16 +1390,18 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-04-26 06:04:11 +0000"
+      "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
       "has_green_apricorn": "2025-04-26 23:07:57 +0000",
-      "has_red_apricorn": "2025-04-26 06:04:11 +0000"
+      "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
@@ -1414,7 +1418,8 @@
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-04-26 06:04:11 +0000"
+      "has_red_apricorn": "2025-04-26 06:04:11 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
     "done": false
   },
@@ -2041,13 +2046,15 @@
   },
   "cobblemon:recipes/balls/nest_ball": {
     "criteria": {
-      "has_green_apricorn": "2025-04-26 23:07:57 +0000"
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
-      "has_green_apricorn": "2025-04-26 23:07:57 +0000"
+      "has_green_apricorn": "2025-04-26 23:07:57 +0000",
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
     "done": false
   },
@@ -2090,7 +2097,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-26 23:41:48 +0000",
-      "minecraft:spider": "2025-04-26 23:09:21 +0000"
+      "minecraft:spider": "2025-04-26 23:09:21 +0000",
+      "minecraft:zombie": "2025-04-26 23:54:42 +0000"
     },
     "done": false
   },
@@ -2672,6 +2680,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/moon_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -2689,6 +2703,12 @@
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/ultra_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
@@ -2834,6 +2854,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 23:58:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
@@ -2921,6 +2947,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/citrine_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
     },
     "done": true
   },
@@ -3049,6 +3081,12 @@
       "has_iron_ingot": "2025-04-26 23:46:05 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/quick_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2025-04-26 23:58:41 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
