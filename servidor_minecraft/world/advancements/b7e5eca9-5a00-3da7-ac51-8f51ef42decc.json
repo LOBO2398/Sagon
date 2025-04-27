@@ -4363,27 +4363,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-26 23:41:03 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_berry": {
     "criteria": {
       "check_inv": "2025-04-26 23:42:48 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/flame_orb": {
-    "criteria": {
-      "has_orb": "2025-04-26 23:51:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-26 23:48:44 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/ability_shield": {
-    "criteria": {
-      "has_shield": "2025-04-27 00:54:18 +0000"
     },
     "done": true
   },
@@ -4393,9 +4387,27 @@
     },
     "done": false
   },
-  "minecraft:nether/create_beacon": {
+  "cobblemon:recipes/agriculture/mulch_base": {
     "criteria": {
-      "beacon": "2025-04-26 23:54:10 +0000"
+      "has_berry": "2025-04-26 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-26 23:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-04-26 23:48:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-26 23:48:45 +0000"
     },
     "done": true
   },
@@ -4417,81 +4429,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/soothe_bell": {
-    "criteria": {
-      "has_nugget": "2025-04-27 00:54:18 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-04-26 23:50:30 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/roseate_ball": {
-    "criteria": {
-      "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-04-27 00:57:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-04-27 00:15:13 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/toxic_orb": {
-    "criteria": {
-      "has_orb": "2025-04-26 23:51:29 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/mulch_base": {
-    "criteria": {
-      "has_berry": "2025-04-26 23:42:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-04-27 00:57:48 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/iron_ball": {
-    "criteria": {
-      "has_iron": "2025-04-26 23:53:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-04-26 23:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-04-26 23:53:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-04-26 23:48:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-04-26 23:54:09 +0000"
     },
     "done": true
   },
@@ -4507,21 +4447,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
+  "cobblemon:recipes/held/flame_orb": {
     "criteria": {
-      "has_iron_nugget": "2025-04-27 00:54:18 +0000"
+      "has_orb": "2025-04-26 23:51:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "cobblemon:recipes/held/toxic_orb": {
     "criteria": {
-      "has_glowstone_dust": "2025-04-26 23:54:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-04-26 23:53:53 +0000"
+      "has_orb": "2025-04-26 23:51:29 +0000"
     },
     "done": true
   },
@@ -4531,9 +4465,81 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+  "cobblemon:recipes/held/iron_ball": {
     "criteria": {
-      "has_apricorn": "2025-04-26 23:41:03 +0000"
+      "has_iron": "2025-04-26 23:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-26 23:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-26 23:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-26 23:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-26 23:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-26 23:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-27 00:15:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/ability_shield": {
+    "criteria": {
+      "has_shield": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 00:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 00:57:48 +0000"
     },
     "done": true
   },
@@ -4543,9 +4549,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
-      "has_iron_nugget": "2025-04-27 00:54:18 +0000"
+      "has_dead_bush": "2025-04-27 01:21:54 +0000"
     },
     "done": true
   },

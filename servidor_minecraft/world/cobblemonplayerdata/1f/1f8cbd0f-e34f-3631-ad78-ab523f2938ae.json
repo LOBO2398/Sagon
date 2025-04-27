@@ -568,6 +568,85 @@
             "status": "SEEN",
             "discoveredTimestamp": 1745715832843
           }
+        },
+        "vivillon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745716305341
+          }
+        },
+        "oddish": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745716368283
+          }
+        },
+        "cutiefly": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745716431988
+          }
+        },
+        "sneasel": {
+          "hisui": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745716453243
+          }
+        },
+        "frogadier": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745716958786,
+            "caughtTimestamp": 1745716958786
+          }
+        },
+        "maschiff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745717207353
+          }
+        },
+        "phantump": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745717259079,
+            "caughtTimestamp": 1745717313249
+          }
+        },
+        "spinarak": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745717755353
+          }
+        },
+        "kakuna": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745717833781
+          }
+        },
+        "heatmor": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745718119779
+          }
+        },
+        "riolu": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745718123577
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -578,12 +657,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 6,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 15,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 23,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 14,
+    "totalPvWBattleVictoryCount": 22,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -592,7 +671,9 @@
       "flying": 2,
       "fairy": 1,
       "steel": 1,
-      "fire": 1
+      "fire": 1,
+      "ghost": 1,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
@@ -602,7 +683,13 @@
       "cobblemon:geodude": 1,
       "cobblemon:whirlipede": 1,
       "cobblemon:meowth": 1,
-      "cobblemon:noctowl": 1
+      "cobblemon:noctowl": 1,
+      "cobblemon:comfey": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:roselia": 1,
+      "cobblemon:spinarak": 1,
+      "cobblemon:kakuna": 1
     },
     "aspectsCollected": {}
   }

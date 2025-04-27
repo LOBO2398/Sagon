@@ -742,6 +742,78 @@
         "status": "SEEN",
         "discoveredTimestamp": 1745715832844
       }
+    },
+    "vivillon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745716305343
+      }
+    },
+    "cutiefly": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745716431988
+      }
+    },
+    "sneasel": {
+      "hisui": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745716453244
+      }
+    },
+    "frogadier": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745716958787,
+        "caughtTimestamp": 1745716958787
+      }
+    },
+    "maschiff": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745717207354
+      }
+    },
+    "phantump": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745717259080,
+        "caughtTimestamp": 1745717313249
+      }
+    },
+    "spinarak": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745717755354
+      }
+    },
+    "kakuna": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745717833781
+      }
+    },
+    "heatmor": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745718119780
+      }
+    },
+    "riolu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745718123578
+      }
     }
   }
 }
