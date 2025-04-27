@@ -508,6 +508,28 @@
             "discoveredTimestamp": 1745712740703,
             "caughtTimestamp": 1745712740703
           }
+        },
+        "buneary": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745712913051
+          }
+        },
+        "meowth": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1745712926603,
+            "caughtTimestamp": 1745712978502
+          }
+        },
+        "whirlipede": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1745713168398
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -518,26 +540,28 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 9,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 8,
+    "totalPvWBattleVictoryCount": 10,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 2,
       "flying": 2,
-      "fairy": 1
+      "fairy": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
       "cobblemon:teddiursa": 1,
       "cobblemon:combee": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:geodude": 1
+      "cobblemon:geodude": 1,
+      "cobblemon:whirlipede": 1
     },
     "aspectsCollected": {}
   }

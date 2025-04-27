@@ -675,6 +675,21 @@
         "discoveredTimestamp": 1745712740704,
         "caughtTimestamp": 1745712740704
       }
+    },
+    "meowth": {
+      "galar": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745712926604,
+        "caughtTimestamp": 1745712978502
+      }
+    },
+    "whirlipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1745713168398
+      }
     }
   }
 }

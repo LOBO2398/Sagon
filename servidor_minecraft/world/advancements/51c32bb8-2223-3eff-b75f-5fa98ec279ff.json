@@ -562,6 +562,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-26 20:48:13 +0000",
+      "minecraft:creeper": "2025-04-27 00:17:07 +0000",
       "minecraft:witch": "2025-04-26 23:03:41 +0000",
       "minecraft:zombie": "2025-04-26 21:06:24 +0000"
     },
@@ -1658,6 +1659,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-04-27 00:17:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-04-26 23:59:41 +0000"
@@ -2624,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 00:17:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:37:01 +0000"
@@ -2633,6 +2646,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 00:17:09 +0000"
     },
     "done": true
   },
