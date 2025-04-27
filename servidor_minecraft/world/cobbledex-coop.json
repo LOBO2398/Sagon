@@ -731,8 +731,16 @@
     "arcanine": {
       "normal": {
         "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1745715059302,
+        "caughtTimestamp": 1745715347298
+      }
+    },
+    "comfey": {
+      "normal": {
+        "isShiny": false,
         "status": "SEEN",
-        "discoveredTimestamp": 1745715059302
+        "discoveredTimestamp": 1745715832844
       }
     }
   }

@@ -21720,3 +21720,229 @@ java.lang.NullPointerException: null
 [27Apr2025 00:53:28.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [27Apr2025 00:53:28.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [27Apr2025 00:53:28.183] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:53:58.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:53:58.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:53:58.232] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:54:28.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:54:28.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:54:28.282] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:54:58.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:54:58.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:54:58.333] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:55:28.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[27Apr2025 00:55:28.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:55:28.381] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Apr2025 00:55:28.971] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Apr2025 00:55:28.972] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Apr2025 00:55:29.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 00:55:29.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 00:55:47.298] [Server thread/DEBUG] [Cobbledex/]: Saving 100 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[27Apr2025 00:55:58.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:55:58.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:55:58.432] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:56:08.398] [Worker-Main-18/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_02 is being run through DFU (hash 95a044bc6c380badc53030ef99650136227b40b665a12081ae2175f3de2c49ef), this will cause launch time delays
+[27Apr2025 00:56:09.596] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[27Apr2025 00:56:09.674] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[27Apr2025 00:56:12.624] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[27Apr2025 00:56:12.729] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[27Apr2025 00:56:12.779] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[27Apr2025 00:56:28.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:56:28.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:56:28.484] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:56:58.532] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:56:58.532] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:56:58.533] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:57:28.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:57:28.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:57:28.582] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:57:58.631] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:57:58.631] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:57:58.632] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:58:02.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Apr2025 00:58:28.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:58:28.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:58:28.684] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:58:41.000] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Apr2025 00:58:58.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:58:58.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:58:58.733] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:59:28.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:59:28.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:59:28.783] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 00:59:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Local Brewery]
+[27Apr2025 00:59:32.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [You Cannot Handle My Potions]
+[27Apr2025 00:59:34.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Apr2025 00:59:58.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 00:59:58.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 00:59:58.834] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 01:00:10.277] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Apr2025 01:00:12.694] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Apr2025 01:00:28.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 01:00:28.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:00:28.882] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Apr2025 01:00:28.978] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Apr2025 01:00:28.979] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Apr2025 01:00:29.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 01:00:29.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 01:00:51.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> 7tp lobo3224 santix15
+[27Apr2025 01:00:58.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 01:00:58.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:00:58.933] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 01:01:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Darkwraith
+[27Apr2025 01:01:28.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 01:01:28.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:01:28.983] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 01:01:59.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 01:01:59.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:01:59.032] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 01:02:29.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[27Apr2025 01:02:29.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:02:29.083] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[27Apr2025 01:02:59.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[27Apr2025 01:02:59.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:02:59.132] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[27Apr2025 01:03:29.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[27Apr2025 01:03:29.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:03:29.182] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[27Apr2025 01:03:52.844] [Server thread/DEBUG] [Cobbledex/]: Saving 101 entries to /workspaces/Sagon/servidor_minecraft/./world/./cobbledex-coop.json
+[27Apr2025 01:03:59.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[27Apr2025 01:03:59.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[27Apr2025 01:03:59.232] [pool-6-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

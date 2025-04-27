@@ -4022,7 +4022,8 @@
       "minecraft:skeleton": "2025-04-26 22:34:01 +0000",
       "minecraft:vindicator": "2025-04-26 22:07:11 +0000",
       "minecraft:spider": "2025-04-27 00:01:21 +0000",
-      "minecraft:enderman": "2025-04-26 23:51:29 +0000"
+      "minecraft:enderman": "2025-04-26 23:51:29 +0000",
+      "minecraft:zombie": "2025-04-27 00:51:24 +0000"
     },
     "done": false
   },
@@ -4380,6 +4381,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/ability_shield": {
+    "criteria": {
+      "has_shield": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_rindo_berry": "2025-04-26 23:42:48 +0000"
@@ -4410,6 +4417,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-04-26 23:50:30 +0000"
@@ -4419,6 +4432,12 @@
   "cobblemon:recipes/balls/roseate_ball": {
     "criteria": {
       "has_pink_apricorn": "2025-04-26 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 00:57:48 +0000"
     },
     "done": true
   },
@@ -4437,6 +4456,12 @@
   "cobblemon:recipes/agriculture/mulch_base": {
     "criteria": {
       "has_berry": "2025-04-26 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 00:57:48 +0000"
     },
     "done": true
   },
@@ -4482,6 +4507,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-27 00:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-26 23:54:09 +0000"
@@ -4503,6 +4534,18 @@
   "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-04-26 23:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 00:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-27 00:54:18 +0000"
     },
     "done": true
   },
