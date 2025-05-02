@@ -1591,39 +1591,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_mutton": "2025-05-02 23:26:31 +0000"
+      "chicken": "2025-05-02 23:21:34 +0000",
+      "porkchop": "2025-05-02 23:22:52 +0000",
+      "mutton": "2025-05-02 23:26:36 +0000"
     },
-    "done": true
+    "done": false
   },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2025-05-02 23:22:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-02 23:26:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_trampoline": {
-    "criteria": {
-      "has_wool": "2025-05-02 23:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
-    "criteria": {
-      "has_mutton": "2025-05-02 23:26:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-05-02 23:26:32 +0000"
     },
     "done": true
   },
@@ -1645,21 +1623,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/black_sofa": {
-    "criteria": {
-      "has_wool": "2025-05-02 23:26:32 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 23:22:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-02 23:26:32 +0000"
     },
     "done": true
   },
@@ -1675,9 +1641,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_black_wool": "2025-05-02 23:26:32 +0000"
+      "has_mutton": "2025-05-02 23:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-02 23:26:31 +0000"
     },
     "done": true
   },
@@ -1699,13 +1671,77 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "chicken": "2025-05-02 23:21:34 +0000",
-      "porkchop": "2025-05-02 23:22:52 +0000",
-      "mutton": "2025-05-02 23:26:36 +0000"
+      "has_black_wool": "2025-05-02 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_trampoline": {
+    "criteria": {
+      "has_wool": "2025-05-02 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-02 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-02 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-02 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-02 23:40:32 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-05-02 23:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-02 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-02 23:40:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
