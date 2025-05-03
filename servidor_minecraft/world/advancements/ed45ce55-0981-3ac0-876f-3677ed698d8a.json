@@ -1,37 +1,7 @@
 {
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-05-03 02:17:28 +0000"
-    },
-    "done": true
-  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-05-03 02:07:37 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:kill_villager": {
-    "criteria": {
-      "killedvillager": "2025-05-03 02:17:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2025-05-03 02:12:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-05-03 02:12:15 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_village": {
-    "criteria": {
-      "plains": "2025-05-03 02:12:01 +0000"
     },
     "done": true
   },
@@ -41,33 +11,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-05-03 02:11:16 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-03 02:07:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-05-03 02:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-05-03 02:11:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-03 02:12:16 +0000"
     },
     "done": true
   },
@@ -83,30 +29,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-03 02:12:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-05-03 02:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-05-03 02:11:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-05-03 02:17:28 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-05-03 02:07:37 +0000"
@@ -119,57 +41,65 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-05-03 02:11:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-03 02:12:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-05-03 02:12:16 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-05-03 02:07:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "cataclysm:root": {
     "criteria": {
-      "has_potato": "2025-05-03 02:12:16 +0000"
+      "custom_test_name": "2025-05-03 02:07:37 +0000"
     },
     "done": true
   },
-  "morevillagers:all_villages": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "plains": "2025-05-03 02:12:01 +0000"
+      "seeds": "2025-05-03 02:07:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-05-03 02:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-03 02:11:04 +0000",
+      "minecraft:forest": "2025-05-03 02:07:38 +0000",
+      "minecraft:plains": "2025-05-03 02:11:51 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "has_onion": "2025-05-03 02:12:15 +0000"
+      "in_water": "2025-05-03 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-03 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-03 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-03 02:11:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-03 02:11:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-03 02:15:41 +0000"
     },
     "done": true
   },
@@ -185,9 +115,51 @@
     },
     "done": true
   },
-  "cataclysm:root": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "custom_test_name": "2025-05-03 02:07:37 +0000"
+      "in_water": "2025-05-03 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-03 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-05-03 02:12:01 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-05-03 02:12:01 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-03 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-03 02:12:15 +0000"
     },
     "done": true
   },
@@ -197,47 +169,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-05-03 02:11:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-03 02:12:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-05-03 02:07:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-05-03 02:12:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-05-03 02:12:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-05-03 02:11:04 +0000",
-      "minecraft:forest": "2025-05-03 02:07:38 +0000",
-      "minecraft:plains": "2025-05-03 02:11:51 +0000"
-    },
-    "done": false
-  },
-  "legendary_monsters:nether_root": {
-    "criteria": {
-      "custom_test_name": "2025-05-03 02:07:37 +0000"
     },
     "done": true
   },
@@ -253,9 +187,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
-      "in_water": "2025-05-03 02:11:16 +0000"
+      "has_potato": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-03 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-03 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-05-03 02:17:28 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-05-03 02:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-03 02:17:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-05-03 04:20:39 +0000"
     },
     "done": true
   },

@@ -1660,3 +1660,135 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [03May2025 04:19:34.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
 [03May2025 04:19:35.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
 [03May2025 04:19:35.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[03May2025 04:20:15.092] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:20:15.092] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 76
+}
+[03May2025 04:20:15.092] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 04:20:15.092] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2B F>@0K:u=1c^336dzz"
+]
+[03May2025 04:20:30.592] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:20:30.592] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 48
+}
+[03May2025 04:20:30.593] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 04:20:30.593] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Z3b4&6M{?J|336#"
+]
+[03May2025 04:21:21.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[03May2025 04:21:21.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[03May2025 04:21:21.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[03May2025 04:23:08.714] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:23:08.714] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 43
+}
+[03May2025 04:23:08.714] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 04:23:08.714] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "XU~5,%fqT:ZLt,F v320t8.uZ"
+]
+[03May2025 04:24:06.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.14.112.105:43891] logged in with entity id 44122 at (-342.69999998807907, 71.0, 1146.2926388488677)
+[03May2025 04:24:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[03May2025 04:24:06.400] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[03May2025 04:24:09.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[03May2025 04:24:09.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[03May2025 04:24:28.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[03May2025 04:24:29.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[03May2025 04:24:29.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[03May2025 04:24:45.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the time to 1000]
+[03May2025 04:26:05.234] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:26:05.234] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=831, z=1073200}"
+}
+[03May2025 04:26:05.234] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 04:26:05.235] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[111, 96, -48, -93, 65, -111, -11, 25, -49, -54, -81]"
+]
+[03May2025 04:26:06.323] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:26:06.324] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=858, z=1073200}"
+}
+[03May2025 04:26:06.324] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 04:26:06.324] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[61, 66, 59, -86, -39, 5, 0, 34, -14, 116, 0]"
+]
+[03May2025 04:26:08.571] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:26:08.572] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1010, z=1073200}"
+}
+[03May2025 04:26:08.572] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 04:26:08.572] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-18, 10, -2, -69, -46, -17, -119, -73, 118, -52, 84]"
+]
+[03May2025 04:26:09.064] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:26:09.065] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=868, z=1073200}"
+}
+[03May2025 04:26:09.065] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 04:26:09.065] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[58, 90, 77, -90, -9, -71, -114, -44, -40, 94, 23]"
+]
+[03May2025 04:26:10.300] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:26:10.300] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1005, z=1073200}"
+}
+[03May2025 04:26:10.300] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 04:26:10.300] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[105, -38, -38, -80, 5, 76, 99, 68, -109, -38, -57]"
+]
+[03May2025 04:26:52.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.205.131.60:38731] logged in with entity id 44814 at (-359.69999998807907, 87.0, 1795.9462905586092)
+[03May2025 04:26:52.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[03May2025 04:26:52.697] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[03May2025 04:26:55.805] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[03May2025 04:26:55.805] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[03May2025 04:27:11.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[03May2025 04:27:12.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[03May2025 04:27:12.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[03May2025 04:28:01.859] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:28:01.859] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 956
+}
+[03May2025 04:28:01.860] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[03May2025 04:28:01.860] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "bK9@K4I@ni336BvCoi"
+]
+[03May2025 04:28:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
+[03May2025 04:28:21.981] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:28:21.981] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 50
+}
+[03May2025 04:28:21.981] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 04:28:21.981] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "AaRTQ5gBu3}tBk336_JV_`W"
+]
+[03May2025 04:28:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> unite al grupo
