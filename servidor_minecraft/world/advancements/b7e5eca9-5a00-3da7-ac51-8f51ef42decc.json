@@ -1597,6 +1597,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-05-02 23:21:34 +0000",
+      "beef": "2025-05-03 01:01:48 +0000",
       "porkchop": "2025-05-02 23:22:52 +0000",
       "mutton": "2025-05-02 23:26:36 +0000",
       "bread": "2025-05-02 23:58:15 +0000"
@@ -2143,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
@@ -2188,6 +2195,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
     },
     "done": true
   },
@@ -2815,6 +2828,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
@@ -3115,6 +3134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-05-03 00:11:29 +0000"
@@ -3226,6 +3251,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
     },
     "done": true
   },
@@ -3787,6 +3818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
@@ -3946,6 +3983,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-05-02 23:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-03 00:58:44 +0000"
     },
     "done": true
   },

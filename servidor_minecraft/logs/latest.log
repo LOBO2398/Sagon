@@ -681,3 +681,207 @@
 [03May2025 00:57:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
 [03May2025 00:57:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ojala
 [03May2025 00:57:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ;(
+[03May2025 00:58:20.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque escriben
+[03May2025 00:58:26.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> si los escucho xd
+[03May2025 00:58:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> mal
+[03May2025 01:00:10.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:10.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=810, z=1073200}"
+}
+[03May2025 01:00:10.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:10.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-77, -40, 11, 69, -121, 41, 106, 16, -99, 77, -128]"
+]
+[03May2025 01:00:11.883] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:11.883] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=882, z=1073200}"
+}
+[03May2025 01:00:11.884] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:11.884] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[71, -77, -107, 70, -85, 107, -127, 16, 119, -115, 42]"
+]
+[03May2025 01:00:12.660] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:12.661] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=869, z=1073200}"
+}
+[03May2025 01:00:12.661] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:12.662] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[60, -120, 58, 42, 6, 3, 79, 94, 66, -45, -128]"
+]
+[03May2025 01:00:12.699] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:12.700] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=820, z=1073200}"
+}
+[03May2025 01:00:12.701] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:12.701] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[18, -82, 1, 117, 42, 86, 48, 84, -4, 85, -77]"
+]
+[03May2025 01:00:12.739] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:12.740] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=968, z=1073200}"
+}
+[03May2025 01:00:12.740] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:12.740] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-36, -4, 85, 42, 116, 119, 18, -83, 50, 67, 91]"
+]
+[03May2025 01:00:12.807] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:12.808] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=782, z=1122352}"
+}
+[03May2025 01:00:12.808] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:12.808] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[21, 73, 37, -39, 18, 11, 55, 107, 125, -2, 29]"
+]
+[03May2025 01:00:13.059] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:13.059] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=969, z=905264}"
+}
+[03May2025 01:00:13.060] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:13.060] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-79, 61, 39, 38, -104, -45, 62, 100, 44, -91, -95]"
+]
+[03May2025 01:00:13.075] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:13.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=804, z=1073200}"
+}
+[03May2025 01:00:13.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:13.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[70, -76, 32, -91, -25, -34, -8, -28, 35, 69, 54]"
+]
+[03May2025 01:00:13.331] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:13.332] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=874, z=856112}"
+}
+[03May2025 01:00:13.332] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:13.332] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[102, 44, 55, 44, -99, 13, -18, 16, 100, 50, -78]"
+]
+[03May2025 01:00:13.788] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:13.790] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=962, z=1073200}"
+}
+[03May2025 01:00:13.790] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:13.790] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-102, -18, -44, 93, -83, -120, -58, -83, -40, -54, -92]"
+]
+[03May2025 01:00:13.823] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:13.823] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=819, z=1073200}"
+}
+[03May2025 01:00:13.824] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:13.824] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-76, 9, 16, 92, 15, 74, -83, 104, 90, -37, -59]"
+]
+[03May2025 01:00:14.443] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:14.444] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=791, z=1073200}"
+}
+[03May2025 01:00:14.444] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:14.444] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-42, 55, 58, -57, 39, 106, -118, 9, 8, -4, 104]"
+]
+[03May2025 01:00:15.120] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:00:15.121] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1006, z=1073200}"
+}
+[03May2025 01:00:15.121] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03May2025 01:00:15.121] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-56, 120, -93, -49, 9, -12, -29, 73, 52, -117, -92]"
+]
+[03May2025 01:00:42.575] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 01:00:52.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[03May2025 01:01:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> JAJAJAJAJA
+[03May2025 01:02:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> haceme un pt gonza
+[03May2025 01:02:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> digo
+[03May2025 01:02:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> tp gonza
+[03May2025 01:02:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> banca
+[03May2025 01:02:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> encontre donde estan los vagones
+[03May2025 01:02:56.496] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:02:56.497] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 33319
+}
+[03May2025 01:02:56.497] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[03May2025 01:02:56.497] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "QR(jk[\"#3365.PP"
+]
+[03May2025 01:03:06.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> como se marcaba lugar?
+[03May2025 01:03:13.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> u
+[03May2025 01:03:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> jajaja
+[03May2025 01:04:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> pa que es la siderita
+[03May2025 01:04:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ni idea
+[03May2025 01:04:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ahi se une agus
+[03May2025 01:04:49.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18021, l='ServerLevel[world]', x=-362.58, y=62.49, z=555.16] died, message: 'Nitwit was slain by lobo3224'
+[03May2025 01:04:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Bad Deal]
+[03May2025 01:05:11.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[03May2025 01:05:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> QUE RESPONDO
+[03May2025 01:05:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> a
+[03May2025 01:05:46.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> b
+[03May2025 01:05:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> c
+[03May2025 01:05:49.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> c
+[03May2025 01:05:53.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> d
+[03May2025 01:05:55.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> e
+[03May2025 01:05:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> e
+[03May2025 01:05:58.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> f
+[03May2025 01:05:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> f
+[03May2025 01:05:59.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> g
+[03May2025 01:06:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> h
+[03May2025 01:06:02.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> i
+[03May2025 01:06:17.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> klmnñopqrstuvwxyz
+[03May2025 01:07:03.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> KEviiiin
+[03May2025 01:07:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> q}
+[03May2025 01:07:20.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23812, l='ServerLevel[world]', x=200.91, y=-256.00, z=180.18] died, message: 'Unemployed was killed'
+[03May2025 01:08:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
