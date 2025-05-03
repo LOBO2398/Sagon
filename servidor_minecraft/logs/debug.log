@@ -9911,3 +9911,173 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 00:27:42.242] [Worker-Main-46/DEBUG] [ModernFix/]: Structure aquamirae:lore/shelter/tunnel_top is being run through DFU (hash 484eb51b71f183df4e8682103e43451fdd642b567f9e1ee2ec047fa2f36954ee), this will cause launch time delays
 [03May2025 00:27:42.345] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:underground_cabin_1 is being run through DFU (hash 93b719aa290210e2d5bb0647155c9ae0b3a4059be3874de3f94c9d85a5f6f321), this will cause launch time delays
 [03May2025 00:27:42.441] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_14 is being run through DFU (hash 9b7df8d45ba58675287e5fe2d8ebacdc996f13051b0b8ad919e2864b961696dc), this will cause launch time delays
+[03May2025 00:27:55.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:27:56.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:27:56.925] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of kevedo909 to connected: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:27:56.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[03May2025 00:27:57.236] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:28:14.212] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[03May2025 00:28:14.220] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[03May2025 00:28:14.225] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[03May2025 00:28:23.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:28:23.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:28:35.204] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:28:35.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[03May2025 00:28:35.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[03May2025 00:28:35.937] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to kevedo909
+[03May2025 00:28:35.937] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with kevedo909
+[03May2025 00:28:35.937] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with kevedo909
+[03May2025 00:28:35.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[03May2025 00:28:35.937] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 380318f8-90c8-30a1-b2c2-428693a3e9ab to disconnected: {disabled=false, disconnected=true, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:28:36.043] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:49927
+[03May2025 00:28:36.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:28:37.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:28:37.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of kevedo909 to connected: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:28:37.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[03May2025 00:28:37.806] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:28:42.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
+[03May2025 00:29:15.418] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:16.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[03May2025 00:29:16.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[03May2025 00:29:16.168] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to kevedo909
+[03May2025 00:29:16.168] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with kevedo909
+[03May2025 00:29:16.168] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with kevedo909
+[03May2025 00:29:16.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[03May2025 00:29:16.169] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 380318f8-90c8-30a1-b2c2-428693a3e9ab to disconnected: {disabled=false, disconnected=true, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:16.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:29:17.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:29:17.744] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of kevedo909 to connected: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:17.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[03May2025 00:29:18.044] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:56.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:57.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[03May2025 00:29:57.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[03May2025 00:29:57.414] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to kevedo909
+[03May2025 00:29:57.414] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with kevedo909
+[03May2025 00:29:57.414] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with kevedo909
+[03May2025 00:29:57.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[03May2025 00:29:57.414] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 380318f8-90c8-30a1-b2c2-428693a3e9ab to disconnected: {disabled=false, disconnected=true, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:57.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:29:58.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:29:58.902] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of kevedo909 to connected: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:29:58.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[03May2025 00:29:59.200] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=null}
+[03May2025 00:31:01.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=72, z=31}
+[03May2025 00:31:04.352] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 00:31:10.123] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to kevedo909
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with kevedo909
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with kevedo909
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[03May2025 00:31:10.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 380318f8-90c8-30a1-b2c2-428693a3e9ab to disconnected: {disabled=false, disconnected=true, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 00:31:11.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:31:12.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[03May2025 00:31:12.250] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of kevedo909 to connected: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 00:31:12.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[03May2025 00:31:12.621] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 00:31:20.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was killed by Necromancer's magic missile
+[03May2025 00:31:20.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=72, z=29}
+[03May2025 00:31:21.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=42, y=72, z=29}
+[03May2025 00:31:22.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=42, y=72, z=29}
+[03May2025 00:31:22.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=43, y=72, z=29}
+[03May2025 00:31:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ola
+[03May2025 00:31:26.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 00:31:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[03May2025 00:31:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me escuchas
+[03May2025 00:31:34.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> holaaa
+[03May2025 00:31:37.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=44, y=70, z=30}
+[03May2025 00:31:37.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=42, y=72, z=30}
+[03May2025 00:31:37.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=42, y=71, z=30}
+[03May2025 00:31:37.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=42, y=72, z=30}
+[03May2025 00:31:38.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=72, z=29}
+[03May2025 00:31:38.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> no
+[03May2025 00:31:48.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=23}
+[03May2025 00:31:48.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=72, z=23}
+[03May2025 00:31:49.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:50.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:51.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:52.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:53.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:54.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:54.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=23}
+[03May2025 00:31:55.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:56.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:57.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:31:57.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=23}
+[03May2025 00:31:59.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:01.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:02.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:02.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=23}
+[03May2025 00:32:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[03May2025 00:32:03.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:03.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:05.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:06.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:07.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:08.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:09.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:11.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:12.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:12.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=72, z=23}
+[03May2025 00:32:12.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:12.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=71, z=23}
+[03May2025 00:32:12.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:13.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=22}
+[03May2025 00:32:13.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=70, z=21}
+[03May2025 00:32:13.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=23}
+[03May2025 00:32:13.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=72, z=23}
+[03May2025 00:32:13.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=22}
+[03May2025 00:32:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> queres venir
+[03May2025 00:32:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dale
+[03May2025 00:32:23.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=71, z=25}
+[03May2025 00:32:27.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:27.288] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 00:32:27.288] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 19
+}
+[03May2025 00:32:27.289] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 00:32:27.289] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n1#.]p$pPpVqb336^-_@"
+]
+[03May2025 00:32:28.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:29.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=71, z=23}
+[03May2025 00:32:29.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=23}
+[03May2025 00:32:29.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=72, z=22}
+[03May2025 00:32:29.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=70, z=21}
+[03May2025 00:32:30.088] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 00:32:30.088] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2
+}
+[03May2025 00:32:30.088] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 00:32:30.089] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "7'0T?OU%,@336^8DT"
+]
+[03May2025 00:32:30.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=71, z=23}
+[03May2025 00:32:30.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported kevedo909 to Santix15]
+[03May2025 00:32:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hoola
+[03May2025 00:32:48.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Not Today, Thank You]
+[03May2025 00:32:59.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> su puta madre
+[03May2025 00:33:01.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> run
+[03May2025 00:33:23.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:33:23.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:33:24.919] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 00:33:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported Santix15 to lobo3224]
+[03May2025 00:33:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> esqueleto con espada?
+[03May2025 00:33:41.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que mrd
+[03May2025 00:33:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[03May2025 00:33:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported kevedo909 to lobo3224]
+[03May2025 00:33:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> habla
+[03May2025 00:34:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eseme mato
+[03May2025 00:35:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que hzi
+[03May2025 00:35:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hizo
+[03May2025 00:36:54.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> santi
+[03May2025 00:36:57.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> cuidado
+[03May2025 00:37:29.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Ashen Blood Beast Patient
+[03May2025 00:37:40.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 00:37:47.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Ashen Blood Beast Patient

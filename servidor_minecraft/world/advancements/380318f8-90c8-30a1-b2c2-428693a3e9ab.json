@@ -59,17 +59,18 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-05-03 00:09:49 +0000"
-    },
-    "done": false
-  },
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-05-03 00:09:48 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-05-03 00:09:49 +0000",
+      "minecraft:plains": "2025-05-03 00:32:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
