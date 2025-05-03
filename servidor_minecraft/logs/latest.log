@@ -1319,3 +1319,28 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [03May2025 02:08:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> asi te hablo
 [03May2025 02:08:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> bancame
 [03May2025 02:08:56.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> oka
+[03May2025 02:09:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que cuelgo la ropa
+[03May2025 02:09:10.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Drowned
+[03May2025 02:09:10.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> -
+[03May2025 02:09:17.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 02:09:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -195.500000, 64.500000, 1778.500000]
+[03May2025 02:09:37.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[03May2025 02:12:01.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [First Village]
+[03May2025 02:12:15.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Crops of the Wild]
+[03May2025 02:12:38.247] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 3 ms
+[03May2025 02:13:04.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 02:13:04.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 42
+}
+[03May2025 02:13:04.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 02:13:04.952] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "7.x\\Jn}=={S'C336[a7P4"
+]
+[03May2025 02:15:06.423] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 02:16:51.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Beast Patient
+[03May2025 02:17:28.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/41044, l='ServerLevel[world]', x=257.30, y=75.00, z=169.49] died, message: 'Nitwit was slain by YOUNGDINO07'
+[03May2025 02:17:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Bad Deal]
+[03May2025 02:17:38.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/41046, l='ServerLevel[world]', x=257.51, y=75.00, z=169.49] died, message: 'Unemployed was slain by YOUNGDINO07'
+[03May2025 02:18:14.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved too quickly! 1.4230447878831285,-10.053633396371012,-1.3393473469594994
