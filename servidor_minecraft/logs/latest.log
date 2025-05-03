@@ -992,3 +992,37 @@
 [03May2025 01:27:29.585] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
 [03May2025 01:27:29.610] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
 [03May2025 01:27:29.611] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03May2025 01:28:37.268] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 01:30:36.746] [Worker-Main-45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 01:30:36.746] [Worker-Main-45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 01:30:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [We do a little trolling...]
+[03May2025 01:31:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Hollow Soldier
+[03May2025 01:31:53.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33699, l='ServerLevel[world]', x=200.91, y=-256.00, z=180.18] died, message: 'Unemployed was killed'
+[03May2025 01:32:02.320] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 01:32:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ol' Betsy]
+[03May2025 01:34:29.253] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:34:29.253] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[03May2025 01:34:29.253] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 01:34:29.254] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "}({>kx\\-{3365^!+p"
+]
+[03May2025 01:34:35.970] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:34:35.971] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 60
+}
+[03May2025 01:34:35.971] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 01:34:35.971] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">KA)x8\"''cp_336$uU`7"
+]
+[03May2025 01:34:59.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Off you go]
+[03May2025 01:34:59.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [Off you go]
+[03May2025 01:37:31.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 01:37:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP lobo3224<--[HERE]
+[03May2025 01:37:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[03May2025 01:37:53.082] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 3 ms

@@ -11917,3 +11917,117 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 01:27:47.474] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
 [03May2025 01:28:23.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 01:28:23.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:28:37.268] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 01:28:46.955] [Worker-Main-10/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail2 is being run through DFU (hash 70f145f792102dd3bdc69bd1a19c30374e481b0aa00615cc68a17b72a990442b), this will cause launch time delays
+[03May2025 01:29:50.807] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=-26, z=1424}
+[03May2025 01:29:50.807] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=-26, z=1419}
+[03May2025 01:29:50.817] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=-26, z=1424}
+[03May2025 01:29:50.817] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=26, y=-26, z=1425}
+[03May2025 01:30:10.096] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=34, y=-26, z=1424}
+[03May2025 01:30:10.096] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=41, y=-26, z=1419}
+[03May2025 01:30:10.096] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=-26, z=1424}
+[03May2025 01:30:10.100] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=34, y=-26, z=1424}
+[03May2025 01:30:10.100] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=-26, z=1424}
+[03May2025 01:30:10.101] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=51, y=-26, z=1425}
+[03May2025 01:30:19.799] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=-26, z=1456}
+[03May2025 01:30:19.799] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=68, y=-26, z=1457}
+[03May2025 01:30:19.909] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=63, y=-26, z=1450}
+[03May2025 01:30:19.909] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=-26, z=1456}
+[03May2025 01:30:19.909] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=-26, z=1444}
+[03May2025 01:30:20.001] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-26, z=1426}
+[03May2025 01:30:20.001] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=34, y=-26, z=1424}
+[03May2025 01:30:20.001] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=64, y=-26, z=1427}
+[03May2025 01:30:20.002] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=51, y=-26, z=1425}
+[03May2025 01:30:20.002] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=63, y=-26, z=1450}
+[03May2025 01:30:20.002] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=-26, z=1444}
+[03May2025 01:30:26.000] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=-26, z=1456}
+[03May2025 01:30:26.000] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=68, y=-26, z=1457}
+[03May2025 01:30:26.004] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=-26, z=1456}
+[03May2025 01:30:26.004] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=64, y=-26, z=1433}
+[03May2025 01:30:26.004] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=77, y=-39, z=1434}
+[03May2025 01:30:26.005] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=83, y=-39, z=1440}
+[03May2025 01:30:26.152] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=67, y=-26, z=1418}
+[03May2025 01:30:26.152] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=52, y=-26, z=1426}
+[03May2025 01:30:26.153] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=64, y=-26, z=1427}
+[03May2025 01:30:26.153] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=64, y=-26, z=1433}
+[03May2025 01:30:26.153] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=77, y=-39, z=1434}
+[03May2025 01:30:26.154] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=83, y=-39, z=1440}
+[03May2025 01:30:27.423] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=-26, z=1477}
+[03May2025 01:30:27.423] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=101, y=-26, z=1478}
+[03May2025 01:30:27.462] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-26, z=1471}
+[03May2025 01:30:27.462] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=-26, z=1464}
+[03May2025 01:30:27.465] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=80, y=-26, z=1440}
+[03May2025 01:30:27.468] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=98, y=-28, z=1441}
+[03May2025 01:30:27.469] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-26, z=1471}
+[03May2025 01:30:27.469] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=-26, z=1464}
+[03May2025 01:30:27.469] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=83, y=-39, z=1440}
+[03May2025 01:30:27.469] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=84, y=-39, z=1430}
+[03May2025 01:30:27.729] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=80, y=-26, z=1440}
+[03May2025 01:30:27.732] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=83, y=-39, z=1440}
+[03May2025 01:30:27.732] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=84, y=-39, z=1430}
+[03May2025 01:30:32.054] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=91, y=-26, z=1477}
+[03May2025 01:30:32.055] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=101, y=-26, z=1478}
+[03May2025 01:30:32.120] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-26, z=1471}
+[03May2025 01:30:32.120] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-26, z=1454}
+[03May2025 01:30:32.123] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=80, y=-26, z=1440}
+[03May2025 01:30:32.126] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=98, y=-28, z=1441}
+[03May2025 01:30:32.126] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=96, y=-26, z=1471}
+[03May2025 01:30:32.127] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=97, y=-26, z=1454}
+[03May2025 01:30:32.135] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=80, y=-26, z=1440}
+[03May2025 01:30:32.138] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=109, y=-13, z=1426}
+[03May2025 01:30:32.138] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=109, y=-26, z=1412}
+[03May2025 01:30:36.049] [Worker-Main-25/DEBUG] [ModernFix/]: Structure graveyard:lich_prison/lich_prison is being run through DFU (hash 9d8451d5d20c8ebbc939e510a5ca5ae150dba0ca7824d028500198055185573c), this will cause launch time delays
+[03May2025 01:30:36.728] [Worker-Main-45/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage is being run through DFU (hash a498c3ece3f43e5f8abe220601a6ff168e525b7fc531fc49dad3731b0f2c39a9), this will cause launch time delays
+[03May2025 01:30:36.729] [Worker-Main-45/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower is being run through DFU (hash 139db89f5ae9a0916d9a49101803b88b85a3e550e1b98b10c803443f5c497634), this will cause launch time delays
+[03May2025 01:30:36.744] [Worker-Main-45/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_normal is being run through DFU (hash b7bdedcb960e9cab71287a58683ff21db24d279071de109b970f01bd985fde39), this will cause launch time delays
+[03May2025 01:30:36.746] [Worker-Main-45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 01:30:36.746] [Worker-Main-45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 01:30:41.360] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[03May2025 01:30:41.666] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0 is being run through DFU (hash 8e22f1995ddeddae8fb5553c310b09d6f3560cf1fa6374648e3ca930682e74b5), this will cause launch time delays
+[03May2025 01:30:41.672] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0 is being run through DFU (hash 182b7b0c03c08234c59298b0a4be1dec4495b5258fcc032273170c1b7bcfa1b5), this will cause launch time delays
+[03May2025 01:30:41.677] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2 is being run through DFU (hash c4fc7d3a63861c81be423b6bbf151d9b2ab1905e3a95759dafafac875a37d737), this will cause launch time delays
+[03May2025 01:30:41.679] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1 is being run through DFU (hash f4b3a59727ff42cf7ac87ad332129ca8963bc60f7f6ea9fd28525fb68b38ba04), this will cause launch time delays
+[03May2025 01:30:41.686] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1 is being run through DFU (hash d73979b8202a24d6eb7e494d9d89f53516c4f2b644b0131d4b5f82c30d3a1dd8), this will cause launch time delays
+[03May2025 01:30:41.690] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0 is being run through DFU (hash 8fa5a44dba83b2e521ff5c062b3fe31d1ca90bbb2963f240c8373ba8497c68f5), this will cause launch time delays
+[03May2025 01:30:41.694] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0 is being run through DFU (hash 032ce8fbfe59cfcc7ad911973d34108e5f9e6d56e3d24c0b1bf139f0b2aee16c), this will cause launch time delays
+[03May2025 01:30:41.699] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main is being run through DFU (hash ac776f2a583c6e27bcdc0165a41f89fa798b0f4411f874043e95c831da2b5725), this will cause launch time delays
+[03May2025 01:30:41.713] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_4 is being run through DFU (hash 78c773c124ff839eb7379a07f6bf264e74598bbd1de18f0d94135393510e5c80), this will cause launch time delays
+[03May2025 01:30:41.831] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_1 is being run through DFU (hash ab8c67af0e24d52a59769a697563eced996332d4f0c80342afe506ab0ec266d8), this will cause launch time delays
+[03May2025 01:30:41.989] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_5 is being run through DFU (hash a11f3cb96dfe230d7e581cbd2d1066f188184c45486300d588d0f2e0d4645fe2), this will cause launch time delays
+[03May2025 01:30:42.113] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_0 is being run through DFU (hash 115b537d7d99c49fb6d19ffb554faa27c41dc43ade2d87254034647a3ab747fe), this will cause launch time delays
+[03May2025 01:30:42.282] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[03May2025 01:30:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [We do a little trolling...]
+[03May2025 01:31:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Hollow Soldier
+[03May2025 01:31:53.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33699, l='ServerLevel[world]', x=200.91, y=-256.00, z=180.18] died, message: 'Unemployed was killed'
+[03May2025 01:32:02.320] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 01:32:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ol' Betsy]
+[03May2025 01:33:23.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:33:23.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:34:29.253] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:34:29.253] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[03May2025 01:34:29.253] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 01:34:29.254] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "}({>kx\\-{3365^!+p"
+]
+[03May2025 01:34:35.970] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:34:35.971] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 60
+}
+[03May2025 01:34:35.971] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 01:34:35.971] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">KA)x8\"''cp_336$uU`7"
+]
+[03May2025 01:34:59.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Off you go]
+[03May2025 01:34:59.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [Off you go]
+[03May2025 01:37:31.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 01:37:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP lobo3224<--[HERE]
+[03May2025 01:37:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[03May2025 01:37:53.082] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 3 ms
+[03May2025 01:38:23.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:38:23.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

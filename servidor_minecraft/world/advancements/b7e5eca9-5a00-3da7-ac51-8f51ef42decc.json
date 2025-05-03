@@ -70,6 +70,7 @@
       "minecraft:snowy_slopes": "2025-05-03 01:22:54 +0000",
       "minecraft:cherry_grove": "2025-05-03 00:51:06 +0000",
       "minecraft:sunflower_plains": "2025-05-03 01:27:44 +0000",
+      "minecraft:savanna_plateau": "2025-05-03 01:34:11 +0000",
       "minecraft:beach": "2025-05-03 00:10:27 +0000",
       "minecraft:river": "2025-05-02 03:44:07 +0000",
       "minecraft:lukewarm_ocean": "2025-05-03 00:48:00 +0000",
@@ -1483,7 +1484,8 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "plains": "2025-04-30 02:53:56 +0000"
+      "plains": "2025-04-30 02:53:56 +0000",
+      "savanna": "2025-05-03 01:34:25 +0000"
     },
     "done": false
   },
@@ -2346,6 +2348,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-03 01:32:27 +0000"
     },
     "done": true
   },
@@ -3432,6 +3440,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2025-05-03 01:34:59 +0000"
     },
     "done": true
   },
