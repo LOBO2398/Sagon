@@ -885,3 +885,45 @@
 [03May2025 01:07:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> q}
 [03May2025 01:07:20.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23812, l='ServerLevel[world]', x=200.91, y=-256.00, z=180.18] died, message: 'Unemployed was killed'
 [03May2025 01:08:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[03May2025 01:08:13.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> pensamos lo mmismo
+[03May2025 01:08:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> server de apocalipsis zombie: si o no?
+[03May2025 01:08:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que cosa
+[03May2025 01:08:29.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[03May2025 01:08:33.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> si
+[03May2025 01:08:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> duerman
+[03May2025 01:08:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y otra cosa
+[03May2025 01:08:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> sisissiisississiisisisissisisisisiisisisissionnoonononnononononoononnoonononon
+[03May2025 01:09:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> cuando vas a venir a visitar al Go Gonci
+[03May2025 01:09:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> sisissiisississiisisisisissisisisisiisisisissi
+[03May2025 01:09:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose
+[03May2025 01:09:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[03May2025 01:09:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ahora capaz puedo ir a tumbaportones
+[03May2025 01:09:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> mañana le caes y vamos a jugar a la bola
+[03May2025 01:10:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dale
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 55
+}
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%l_(=N b`1/!+j336(m7mK"
+]
+[03May2025 01:10:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me salgo?
+[03May2025 01:10:53.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> para el de apocalipsis
+[03May2025 01:11:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> qeu
+[03May2025 01:11:17.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ya vengo
+[03May2025 01:11:19.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[03May2025 01:11:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[03May2025 01:11:19.022] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[03May2025 01:11:40.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Suit Up]
+[03May2025 01:12:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Corpse Fly
+[03May2025 01:14:51.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Beast Patient
+[03May2025 01:15:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[03May2025 01:15:17.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 01:15:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[03May2025 01:15:39.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[03May2025 01:16:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 01:16:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[03May2025 01:16:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Made lobo3224 no longer a server operator]

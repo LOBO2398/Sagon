@@ -11485,3 +11485,100 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 01:07:58.937] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
 [03May2025 01:08:01.586] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=true, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
 [03May2025 01:08:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[03May2025 01:08:13.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> pensamos lo mmismo
+[03May2025 01:08:23.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:08:23.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:08:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> server de apocalipsis zombie: si o no?
+[03May2025 01:08:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que cosa
+[03May2025 01:08:29.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[03May2025 01:08:33.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> si
+[03May2025 01:08:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> duerman
+[03May2025 01:08:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y otra cosa
+[03May2025 01:08:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> sisissiisississiisisisissisisisisiisisisissionnoonononnononononoononnoonononon
+[03May2025 01:09:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> cuando vas a venir a visitar al Go Gonci
+[03May2025 01:09:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> sisissiisississiisisisisissisisisisiisisisissi
+[03May2025 01:09:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose
+[03May2025 01:09:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[03May2025 01:09:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ahora capaz puedo ir a tumbaportones
+[03May2025 01:09:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> mañana le caes y vamos a jugar a la bola
+[03May2025 01:10:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dale
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 55
+}
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 01:10:39.967] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%l_(=N b`1/!+j336(m7mK"
+]
+[03May2025 01:10:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me salgo?
+[03May2025 01:10:53.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> para el de apocalipsis
+[03May2025 01:11:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> qeu
+[03May2025 01:11:17.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ya vengo
+[03May2025 01:11:19.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[03May2025 01:11:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[03May2025 01:11:19.022] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kevedo909
+[03May2025 01:11:19.022] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[03May2025 01:11:24.354] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 01:11:27.901] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=true, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
+[03May2025 01:11:40.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Suit Up]
+[03May2025 01:12:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Corpse Fly
+[03May2025 01:13:22.038] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_05 is being run through DFU (hash 0bbf75482ba9bbec44f53d5f1fd980c71152ea7e9d5e4913027f5aaf841ff972), this will cause launch time delays
+[03May2025 01:13:23.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 01:13:23.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 01:13:42.457] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/trap_02 is being run through DFU (hash 1ecfacf3cb3adac792561531eee9472f89c6bf715c81dfad8e314dd42cc66243), this will cause launch time delays
+[03May2025 01:13:42.524] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_01 is being run through DFU (hash c8c683eb9d07d2be83a151244a07ee3f7acfaea84474a2718e3ed2023f06b1a9), this will cause launch time delays
+[03May2025 01:13:42.528] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_03 is being run through DFU (hash 49b19255aa5a3b05353a2708b2e437554f5f60981ada0ddd1f9f376f328b2bae), this will cause launch time delays
+[03May2025 01:13:42.533] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_08 is being run through DFU (hash ff452b7fec06a38338805846e5922e1d33773641f4298a26552429bab6a21121), this will cause launch time delays
+[03May2025 01:13:42.569] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/trap_03 is being run through DFU (hash 598869416159e956dd8856fbc8d23db6fb1cb843c9fd4946e24f4763e2082f63), this will cause launch time delays
+[03May2025 01:13:42.583] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/room_01 is being run through DFU (hash 31c3522596ba929655d0c83477bed9c6cc46a8ad6002c4cb437e7793236fb52e), this will cause launch time delays
+[03May2025 01:13:42.591] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corner_02 is being run through DFU (hash 3dba341d161634343fb6a943bd7b9bb90f3175cf4ee04ece7bfb81bfa164beee), this will cause launch time delays
+[03May2025 01:13:42.629] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_03 is being run through DFU (hash 5863cca14595378676a09a97076db01e490c3a86a7685a63811cf54ccb721e1b), this will cause launch time delays
+[03May2025 01:13:42.632] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_06 is being run through DFU (hash 6bd0833ad848fdb87d815a897efd8bf18051301d4fb9824fd7def7db5108c0e2), this will cause launch time delays
+[03May2025 01:13:42.636] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/library_02 is being run through DFU (hash 649a1786b2b857c2b1dd8fc2d2d9e9a1c53a171102bd9dcac33f9862b719af79), this will cause launch time delays
+[03May2025 01:13:42.707] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_06 is being run through DFU (hash e9a91954b91a3a036a1df22475c2c78cf48b640e849d7b457ed188e9f227b128), this will cause launch time delays
+[03May2025 01:13:42.724] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_05 is being run through DFU (hash 72707ebf6587a512df16828eea4b559daec55f98951577ec2b38e185d4fb892f), this will cause launch time delays
+[03May2025 01:13:42.730] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_12 is being run through DFU (hash 02dd429f8d832993ef0b149d79f61a49bdc186911a2a5a90e7979b06a6e14986), this will cause launch time delays
+[03May2025 01:13:42.734] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_04 is being run through DFU (hash 4c826fb7560afd749c232dcabb7663114ea496f67dc15f812a85d69cfdc9e4c1), this will cause launch time delays
+[03May2025 01:13:42.736] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_04 is being run through DFU (hash baa2e12e45eeabc38db945cb7067cd1dd2a816fdbbba3bc129be5404f4809c62), this will cause launch time delays
+[03May2025 01:13:42.741] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_10 is being run through DFU (hash a6c4efb3eea373df75ed56b064a075bf242b07863eaa6d0d93aea4d657c22b6e), this will cause launch time delays
+[03May2025 01:13:42.747] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_07 is being run through DFU (hash 13a47308a635b7e67b6177b204a2ae327acd2124920cbe72d5f52517685e6208), this will cause launch time delays
+[03May2025 01:13:42.752] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_02 is being run through DFU (hash 98cb9c5de7ecf1ff4c79da97f8d6b0881fa20f5c8f68035e23253b86bfd60a45), this will cause launch time delays
+[03May2025 01:13:42.756] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corner_03 is being run through DFU (hash 15a355af23ccc0b6eb990ce37fe7a8f28ad7f37866afea18c852b2b00242ba4b), this will cause launch time delays
+[03May2025 01:13:42.772] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/room_02 is being run through DFU (hash eccad23be21833f5e0fa97b90d769a24b61e773294c124dcc428bc6d9996e996), this will cause launch time delays
+[03May2025 01:13:42.819] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/library_01 is being run through DFU (hash 4efb44b2b6e0b57f7d7d857b48457e9a4d06d8acadbaedb2056282afee43ea54), this will cause launch time delays
+[03May2025 01:13:42.837] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/room_04 is being run through DFU (hash b6c1cbf77ad67e767672cf5df88272e4d7e2bc9cf39f77c932feeb4c784ec833), this will cause launch time delays
+[03May2025 01:13:42.910] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corner_01 is being run through DFU (hash 88b64c09fdd1a1650cb54ac15d3204de4ce61445def9bdfba8e9a864021d94bd), this will cause launch time delays
+[03May2025 01:13:42.925] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_09 is being run through DFU (hash 02636b9bcb6f16e733d4df6837b1b747731c97464bb8ac69e921dcf2a14efe85), this will cause launch time delays
+[03May2025 01:13:42.931] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_13 is being run through DFU (hash d3877bfb7d837ac19e518f90ceb8e521424550ca542050e009333ef9659a0c91), this will cause launch time delays
+[03May2025 01:13:42.934] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_01 is being run through DFU (hash 8b895c59367930ea3ac919d289c9166bac8c9dd635eb2717c80c71291a87a0de), this will cause launch time delays
+[03May2025 01:13:42.938] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/trap_01 is being run through DFU (hash 91bb14226bb9d1d1132da4e1a6f1f8b99b505f8911334bf6095881138878f8f8), this will cause launch time delays
+[03May2025 01:13:42.948] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_05 is being run through DFU (hash f28e040f80cf3eac890eb3ba259b687a2d5cb8c860f8087eafd723942d9e1b88), this will cause launch time delays
+[03May2025 01:13:42.951] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/corridor_11 is being run through DFU (hash 1573c89f2d8f624626032b85c521379a4fadf7f16feacf1985f0bc3da616d11d), this will cause launch time delays
+[03May2025 01:13:43.305] [Worker-Main-25/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
+[03May2025 01:13:52.069] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[03May2025 01:14:51.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Beast Patient
+[03May2025 01:15:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[03May2025 01:15:17.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 01:15:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[03May2025 01:15:39.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[03May2025 01:16:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[03May2025 01:16:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[03May2025 01:16:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Made lobo3224 no longer a server operator]
+[03May2025 01:17:01.626] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[03May2025 01:17:02.228] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[03May2025 01:17:09.634] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[03May2025 01:17:09.677] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[03May2025 01:17:09.684] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[03May2025 01:17:09.690] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_ladders_0 is being run through DFU (hash 11164b71518e700dd180d13f05bd869ae125eb4d3618f9ac5037fc48d8b0cc55), this will cause launch time delays
+[03May2025 01:17:09.696] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[03May2025 01:17:09.717] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[03May2025 01:17:09.811] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[03May2025 01:17:09.920] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0 is being run through DFU (hash e4d498c251a42b89b90d4aea20f03b58e9edd152bf50fbd716640369b97d7db1), this will cause launch time delays
+[03May2025 01:17:10.030] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[03May2025 01:17:10.126] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[03May2025 01:17:10.131] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[03May2025 01:17:10.134] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[03May2025 01:17:10.149] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[03May2025 01:18:10.748] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
