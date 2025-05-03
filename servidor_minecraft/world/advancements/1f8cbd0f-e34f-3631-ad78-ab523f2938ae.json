@@ -1551,9 +1551,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-03 05:15:58 +0000",
       "apple": "2025-05-03 01:06:59 +0000",
       "bread": "2025-05-02 23:57:18 +0000",
-      "rotten_flesh": "2025-05-02 23:56:39 +0000"
+      "rotten_flesh": "2025-05-02 23:56:39 +0000",
+      "carrot": "2025-05-03 05:16:34 +0000"
     },
     "done": false
   },
@@ -1577,6 +1579,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "fletchingtable": "2025-05-03 05:12:36 +0000",
       "brewingstand": "2025-05-03 04:55:42 +0000",
       "blastfurnace": "2025-05-02 23:59:21 +0000",
       "woodworkingtable": "2025-05-03 00:52:15 +0000",
@@ -3758,9 +3761,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-03 05:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-03 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 05:14:26 +0000"
     },
     "done": true
   },
@@ -3884,6 +3899,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 05:14:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-03 04:42:43 +0000"
@@ -3938,6 +3959,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 05:14:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
@@ -3967,6 +3994,13 @@
       "has_chest": "2025-05-03 04:42:50 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-05-03 05:14:53 +0000",
+      "carrot": "2025-05-03 05:14:27 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/wrench": {
     "criteria": {
@@ -4034,6 +4068,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-05-03 05:13:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 05:06:43 +0000"
@@ -4094,6 +4134,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 05:14:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-03 04:55:29 +0000"
@@ -4139,6 +4185,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 04:44:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-05-03 05:13:51 +0000"
     },
     "done": true
   },
@@ -4334,6 +4386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-03 05:14:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
@@ -4349,6 +4407,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 05:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-03 05:14:52 +0000"
     },
     "done": true
   },
@@ -4382,6 +4446,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 05:14:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
@@ -4391,6 +4461,12 @@
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-03 05:13:51 +0000"
     },
     "done": true
   },
@@ -4433,6 +4509,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-03 05:13:51 +0000"
     },
     "done": true
   },
@@ -4538,6 +4620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-03 05:14:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
@@ -4553,6 +4641,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-03 05:14:26 +0000"
     },
     "done": true
   },
@@ -4643,6 +4737,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 05:14:26 +0000"
     },
     "done": true
   },

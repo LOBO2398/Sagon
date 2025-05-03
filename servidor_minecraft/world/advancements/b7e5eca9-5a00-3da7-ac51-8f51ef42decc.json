@@ -1610,7 +1610,8 @@
       "beef": "2025-05-03 01:01:48 +0000",
       "porkchop": "2025-05-02 23:22:52 +0000",
       "mutton": "2025-05-02 23:26:36 +0000",
-      "bread": "2025-05-02 23:58:15 +0000"
+      "bread": "2025-05-02 23:58:15 +0000",
+      "carrot": "2025-05-03 05:15:21 +0000"
     },
     "done": false
   },
@@ -4224,6 +4225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 05:12:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-03 05:02:47 +0000"
@@ -4275,6 +4282,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-05-03 05:00:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 05:12:24 +0000"
     },
     "done": true
   },
@@ -4335,6 +4348,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "huntingpost": "2025-05-03 05:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 05:12:24 +0000"
     },
     "done": true
   },
@@ -4475,6 +4494,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-03 05:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-05-03 05:12:29 +0000"
     },
     "done": true
   },
