@@ -645,3 +645,39 @@
 [03May2025 00:47:37.391] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
 [03May2025 00:47:42.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> parece autotune
 [03May2025 00:47:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[03May2025 00:48:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el lauti le dice que si pidio travestis
+[03May2025 00:48:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si
+[03May2025 00:48:38.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ya lo sabia
+[03May2025 00:48:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> pero el pidio 100
+[03May2025 00:49:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[03May2025 00:49:36.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Gravedigger]
+[03May2025 00:50:11.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque hay hievo frito
+[03May2025 00:50:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> jaja a quien cagaron a pedo
+[03May2025 00:51:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque habia un puto creeper gordo
+[03May2025 00:51:39.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/17992, l='ServerLevel[world]', x=-259.17, y=100.00, z=579.57] died, message: 'Florist was slain by Tiger'
+[03May2025 00:51:48.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/17997, l='ServerLevel[world]', x=-262.28, y=99.00, z=582.30] died, message: 'Florist was slain by Tiger'
+[03May2025 00:52:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[03May2025 00:52:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> uff -
+[03May2025 00:52:47.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17991, l='ServerLevel[world]', x=-263.05, y=98.94, z=583.63] died, message: 'Unemployed was slain by Tiger'
+[03May2025 00:52:53.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17993, l='ServerLevel[world]', x=-251.29, y=97.00, z=574.03] died, message: 'Unemployed was slain by Tiger'
+[03May2025 00:53:22.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/17989, l='ServerLevel[world]', x=-281.67, y=102.00, z=594.56] died, message: 'Hunter was slain by Tiger'
+[03May2025 00:53:42.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16944, l='ServerLevel[world]', x=-262.33, y=99.00, z=582.41] died, message: 'Nitwit was slain by Tiger'
+[03May2025 00:54:32.966] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 00:55:02.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16939, l='ServerLevel[world]', x=-281.70, y=101.00, z=594.06] died, message: 'Nitwit was slain by Tiger'
+[03May2025 00:55:10.707] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 00:55:10.708] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[03May2025 00:55:10.708] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 00:55:10.708] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "O q.>=?EVu\\336~Oo"
+]
+[03May2025 00:57:19.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18116, l='ServerLevel[world]', x=-285.93, y=106.00, z=540.91] died, message: 'Farmer was slain by Tiger'
+[03May2025 00:57:30.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18023, l='ServerLevel[world]', x=-275.67, y=105.41, z=548.10] died, message: 'Farmer was slain by Tiger'
+[03May2025 00:57:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> tengo diamante
+[03May2025 00:57:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dea
+[03May2025 00:57:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
+[03May2025 00:57:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ojala
+[03May2025 00:57:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ;(

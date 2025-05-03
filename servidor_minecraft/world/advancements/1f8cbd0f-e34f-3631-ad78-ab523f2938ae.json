@@ -67,7 +67,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-03 00:51:52 +0000",
       "minecraft:beach": "2025-05-03 00:11:00 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-03 00:48:03 +0000",
+      "minecraft:river": "2025-05-03 00:45:03 +0000",
       "minecraft:forest": "2025-05-02 23:17:09 +0000",
       "minecraft:plains": "2025-05-02 23:55:33 +0000"
     },
@@ -1565,6 +1568,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "blastfurnace": "2025-05-02 23:59:21 +0000",
+      "woodworkingtable": "2025-05-03 00:52:15 +0000",
       "stonecutter": "2025-05-03 00:00:02 +0000"
     },
     "done": false
@@ -3570,6 +3574,36 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-05-03 00:36:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-03 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-05-03 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-03 00:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-03 00:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-03 00:46:32 +0000"
     },
     "done": true
   },

@@ -67,8 +67,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-03 00:51:06 +0000",
       "minecraft:beach": "2025-05-03 00:10:27 +0000",
       "minecraft:river": "2025-05-02 03:44:07 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-03 00:48:00 +0000",
       "minecraft:forest": "2025-04-30 02:40:37 +0000",
       "minecraft:plains": "2025-04-30 02:53:39 +0000"
     },
@@ -1721,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
@@ -1736,6 +1744,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-03 00:52:57 +0000"
     },
     "done": true
   },
@@ -1946,6 +1960,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-05-02 23:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
     },
     "done": true
   },
@@ -2195,6 +2215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-05-02 23:55:53 +0000"
@@ -2291,6 +2317,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-03 00:44:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
@@ -2300,6 +2332,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-03 00:44:36 +0000"
     },
     "done": true
   },
@@ -2366,6 +2404,12 @@
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-03 00:46:39 +0000"
     },
     "done": true
   },
@@ -2459,6 +2503,12 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 00:23:44 +0000"
@@ -2525,6 +2575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
@@ -2540,6 +2596,12 @@
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-02 23:57:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 00:46:39 +0000"
     },
     "done": true
   },
@@ -2687,6 +2749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-03 00:23:03 +0000"
@@ -2696,6 +2764,12 @@
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 00:44:59 +0000"
     },
     "done": true
   },
@@ -2795,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-03 00:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-03 00:27:44 +0000"
@@ -2861,6 +2941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-03 00:52:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-03 00:23:03 +0000"
@@ -2876,6 +2962,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
     },
     "done": true
   },
@@ -3083,6 +3175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-03 00:44:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
@@ -3281,6 +3379,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-05-03 00:46:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
@@ -3308,6 +3412,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 00:44:59 +0000"
     },
     "done": true
   },
@@ -3527,6 +3637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-03 00:46:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
@@ -3542,6 +3658,12 @@
   "hangglider:recipes/tools/glider_framework": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 00:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 00:44:59 +0000"
     },
     "done": true
   },
@@ -3626,6 +3748,12 @@
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
       "has_iron": "2025-05-03 00:03:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-03 00:44:59 +0000"
     },
     "done": true
   },
@@ -3878,6 +4006,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-03 00:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-03 00:46:39 +0000"
     },
     "done": true
   },

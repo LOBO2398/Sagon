@@ -11173,3 +11173,70 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 00:47:47.546] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
 [03May2025 00:47:51.873] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=true, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=3976f4f3-43d6-487b-b77a-95c848da22ea}
 [03May2025 00:47:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[03May2025 00:48:23.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:48:23.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:48:23.445] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[03May2025 00:48:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el lauti le dice que si pidio travestis
+[03May2025 00:48:24.528] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_04 is being run through DFU (hash a389616f108ce4e1e27ff17e518da874867270583e61b3ccc1189b47f2b6b83b), this will cause launch time delays
+[03May2025 00:48:26.671] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[03May2025 00:48:30.930] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[03May2025 00:48:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si
+[03May2025 00:48:38.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ya lo sabia
+[03May2025 00:48:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> pero el pidio 100
+[03May2025 00:48:45.858] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_02 is being run through DFU (hash 6c98c195438c0b2323313d3570c3dd65a6e6b8954d97180f326060e8061c0164), this will cause launch time delays
+[03May2025 00:49:14.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[03May2025 00:49:14.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[03May2025 00:49:14.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[03May2025 00:49:14.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[03May2025 00:49:14.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[03May2025 00:49:26.156] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[03May2025 00:49:26.800] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[03May2025 00:49:30.665] [Worker-Main-46/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_16 is being run through DFU (hash 43ec059b7f0af0bf95c5db235b76d6428f93eb84ccf6c61d9417bf960dccab28), this will cause launch time delays
+[03May2025 00:49:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[03May2025 00:49:35.332] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[03May2025 00:49:36.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Gravedigger]
+[03May2025 00:50:11.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque hay hievo frito
+[03May2025 00:50:14.178] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_08
+[03May2025 00:50:20.939] [Worker-Main-45/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[03May2025 00:50:35.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[03May2025 00:50:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> jaja a quien cagaron a pedo
+[03May2025 00:51:07.882] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03May2025 00:51:07.894] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[03May2025 00:51:07.903] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[03May2025 00:51:07.912] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[03May2025 00:51:07.926] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[03May2025 00:51:07.942] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[03May2025 00:51:07.960] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[03May2025 00:51:07.968] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[03May2025 00:51:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque habia un puto creeper gordo
+[03May2025 00:51:39.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/17992, l='ServerLevel[world]', x=-259.17, y=100.00, z=579.57] died, message: 'Florist was slain by Tiger'
+[03May2025 00:51:42.132] [Worker-Main-25/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_03 is being run through DFU (hash 13a48e6981592d1660d9d851e014e787e7ab9ed039c9a7c49485474a8dfff88a), this will cause launch time delays
+[03May2025 00:51:48.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/17997, l='ServerLevel[world]', x=-262.28, y=99.00, z=582.30] died, message: 'Florist was slain by Tiger'
+[03May2025 00:51:54.846] [Worker-Main-46/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_01 is being run through DFU (hash f1654765854fa332de1ee5ca1121166c19dcceb49cdf937a789033199835de49), this will cause launch time delays
+[03May2025 00:52:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[03May2025 00:52:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> uff -
+[03May2025 00:52:47.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17991, l='ServerLevel[world]', x=-263.05, y=98.94, z=583.63] died, message: 'Unemployed was slain by Tiger'
+[03May2025 00:52:53.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17993, l='ServerLevel[world]', x=-251.29, y=97.00, z=574.03] died, message: 'Unemployed was slain by Tiger'
+[03May2025 00:53:22.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/17989, l='ServerLevel[world]', x=-281.67, y=102.00, z=594.56] died, message: 'Hunter was slain by Tiger'
+[03May2025 00:53:23.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:53:23.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:53:42.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16944, l='ServerLevel[world]', x=-262.33, y=99.00, z=582.41] died, message: 'Nitwit was slain by Tiger'
+[03May2025 00:54:32.966] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 00:55:02.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16939, l='ServerLevel[world]', x=-281.70, y=101.00, z=594.06] died, message: 'Nitwit was slain by Tiger'
+[03May2025 00:55:10.707] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 00:55:10.708] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[03May2025 00:55:10.708] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 00:55:10.708] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "O q.>=?EVu\\336~Oo"
+]
+[03May2025 00:57:19.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18116, l='ServerLevel[world]', x=-285.93, y=106.00, z=540.91] died, message: 'Farmer was slain by Tiger'
+[03May2025 00:57:30.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18023, l='ServerLevel[world]', x=-275.67, y=105.41, z=548.10] died, message: 'Farmer was slain by Tiger'
+[03May2025 00:57:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> tengo diamante
+[03May2025 00:57:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dea
+[03May2025 00:57:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =)
+[03May2025 00:57:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ojala
+[03May2025 00:57:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ;(
