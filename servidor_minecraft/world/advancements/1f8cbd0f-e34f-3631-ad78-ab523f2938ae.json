@@ -77,6 +77,7 @@
       "minecraft:grove": "2025-05-03 01:17:32 +0000",
       "minecraft:forest": "2025-05-02 23:17:09 +0000",
       "minecraft:ocean": "2025-05-03 01:19:49 +0000",
+      "minecraft:flower_forest": "2025-05-03 04:34:04 +0000",
       "minecraft:meadow": "2025-05-03 01:13:54 +0000",
       "minecraft:savanna": "2025-05-03 01:28:48 +0000",
       "minecraft:plains": "2025-05-02 23:55:33 +0000"
@@ -3717,6 +3718,72 @@
   "friendsandfoes:adventure/summon_copper_golem": {
     "criteria": {
       "summoned_golem": "2025-05-03 01:34:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-05-03 04:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-03 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-03 04:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-03 04:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-03 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 04:32:24 +0000"
     },
     "done": true
   },

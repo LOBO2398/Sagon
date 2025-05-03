@@ -14093,3 +14093,21 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [03May2025 04:28:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> unite al grupo
 [03May2025 04:28:40.975] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=53dcd216-f3ad-4f28-8911-27c77ca3cd8e}
 [03May2025 04:28:41.186] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=53dcd216-f3ad-4f28-8911-27c77ca3cd8e}
+[03May2025 04:29:42.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> -365 1183
+[03May2025 04:30:10.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Iron Golem
+[03May2025 04:32:24.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Who is Cutting Onions?]
+[03May2025 04:32:36.866] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03May2025 04:33:23.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:33:23.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:34:48.870] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03May2025 04:34:48.871] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 85
+}
+[03May2025 04:34:48.871] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03May2025 04:34:48.871] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "*z6Y~tz}\\k304/*r~"
+]
+[03May2025 04:38:23.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:38:23.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
