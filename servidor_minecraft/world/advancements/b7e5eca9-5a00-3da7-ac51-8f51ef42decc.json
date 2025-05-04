@@ -1727,6 +1727,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-05-04 03:04:46 +0000",
       "minecraft:zombie": "2025-05-02 23:40:32 +0000"
     },
     "done": false
@@ -4552,6 +4553,12 @@
   "hangglider:recipes/tools/hang_glider": {
     "criteria": {
       "has_the_recipe": "2025-05-04 02:11:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-04 03:04:03 +0000"
     },
     "done": true
   },
