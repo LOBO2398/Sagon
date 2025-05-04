@@ -4566,6 +4566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 04:29:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4599,6 +4605,12 @@
   "cfm:recipes/decorations/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -4662,9 +4674,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-04 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-04 04:11:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -4707,6 +4737,12 @@
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -4764,6 +4800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 04:18:00 +0000"
@@ -4799,6 +4841,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -4850,6 +4898,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-04 04:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-04 03:26:02 +0000"
@@ -4859,6 +4919,12 @@
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -4883,6 +4949,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_item": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -4934,6 +5006,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4982,6 +5060,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-04 04:28:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4991,6 +5075,24 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_crate": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5009,6 +5111,30 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-04 04:31:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5072,6 +5198,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -5081,6 +5219,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5102,15 +5246,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-04 04:06:12 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5156,9 +5324,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5174,15 +5360,45 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-04 04:26:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2025-05-04 04:18:00 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-05-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5198,9 +5414,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
@@ -5249,6 +5477,18 @@
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },

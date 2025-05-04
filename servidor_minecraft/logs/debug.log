@@ -10115,3 +10115,74 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 04:18:49.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24380, l='ServerLevel[world]', x=-335.11, y=-256.00, z=1107.57] died, message: 'Unemployed was killed'
 [04May2025 04:21:17.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 04:21:17.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 04:22:48.138] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:22:48.139] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15039
+}
+[04May2025 04:22:48.139] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04May2025 04:22:48.139] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "VcrVy}T>|l)320#}IL"
+]
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 57
+}
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'$]rg+uU[320.p/!`,"
+]
+[04May2025 04:24:26.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 hit the ground too hard
+[04May2025 04:26:17.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 04:26:17.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 04:26:19.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_florist
+[04May2025 04:26:19.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_oceanographer
+[04May2025 04:26:19.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_woodworker
+[04May2025 04:26:19.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04May2025 04:26:19.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_engineer
+[04May2025 04:26:19.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[04May2025 04:26:19.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[04May2025 04:26:19.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[04May2025 04:26:20.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[04May2025 04:26:20.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[04May2025 04:26:20.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[04May2025 04:26:29.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[04May2025 04:26:33.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[04May2025 04:26:33.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[04May2025 04:26:37.184] [Worker-Main-81/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[04May2025 04:26:37.192] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[04May2025 04:26:37.200] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[04May2025 04:26:37.205] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[04May2025 04:26:58.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[04May2025 04:28:06.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:28:06.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2050889
+}
+[04May2025 04:28:06.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[04May2025 04:28:06.358] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Z4(vYmA.]320 L#"
+]
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 187175599
+}
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")/I}($\"8320i*C,@"
+]
+[04May2025 04:28:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Suit Up]
+[04May2025 04:29:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ice Bucket Challenge]
+[04May2025 04:30:26.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=64, z=1016} BlockPos{x=-297, y=62, z=1016}
+[04May2025 04:30:28.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-298, y=64, z=1016} BlockPos{x=-299, y=62, z=1016}
+[04May2025 04:30:28.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=64, z=1016} BlockPos{x=-300, y=62, z=1016}
+[04May2025 04:30:28.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=64, z=1016} BlockPos{x=-300, y=62, z=1016}
+[04May2025 04:31:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Take Aim]
+[04May2025 04:31:17.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 04:31:17.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

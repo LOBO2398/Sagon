@@ -4691,6 +4691,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "cleric": "2025-05-04 04:26:16 +0000",
       "fletcher": "2025-05-03 05:13:51 +0000"
     },
     "done": false
@@ -4819,6 +4820,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2025-05-04 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 04:31:11 +0000"
     },
     "done": true
   },
@@ -5092,6 +5099,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 04:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-04 04:30:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-04 04:05:01 +0000"
@@ -5119,6 +5138,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
     "criteria": {
       "has_light_gray_dye": "2025-05-04 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-04 04:30:27 +0000"
     },
     "done": true
   },

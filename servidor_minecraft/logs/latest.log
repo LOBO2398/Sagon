@@ -3107,3 +3107,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 04:17:59.599] [Worker-Main-147/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
 [04May2025 04:17:59.950] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
 [04May2025 04:18:49.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24380, l='ServerLevel[world]', x=-335.11, y=-256.00, z=1107.57] died, message: 'Unemployed was killed'
+[04May2025 04:22:48.138] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:22:48.139] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15039
+}
+[04May2025 04:22:48.139] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04May2025 04:22:48.139] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "VcrVy}T>|l)320#}IL"
+]
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 57
+}
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04May2025 04:22:53.082] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'$]rg+uU[320.p/!`,"
+]
+[04May2025 04:24:26.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 hit the ground too hard
+[04May2025 04:28:06.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:28:06.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2050889
+}
+[04May2025 04:28:06.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[04May2025 04:28:06.358] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Z4(vYmA.]320 L#"
+]
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 187175599
+}
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[04May2025 04:28:19.445] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")/I}($\"8320i*C,@"
+]
+[04May2025 04:28:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Suit Up]
+[04May2025 04:29:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ice Bucket Challenge]
+[04May2025 04:30:26.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=64, z=1016} BlockPos{x=-297, y=62, z=1016}
+[04May2025 04:30:28.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-298, y=64, z=1016} BlockPos{x=-299, y=62, z=1016}
+[04May2025 04:30:28.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=64, z=1016} BlockPos{x=-300, y=62, z=1016}
+[04May2025 04:30:28.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=64, z=1016} BlockPos{x=-300, y=62, z=1016}
+[04May2025 04:31:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Take Aim]
