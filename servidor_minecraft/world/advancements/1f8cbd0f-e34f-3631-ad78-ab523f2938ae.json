@@ -1582,9 +1582,11 @@
     "criteria": {
       "fletchingtable": "2025-05-03 05:12:36 +0000",
       "brewingstand": "2025-05-03 04:55:42 +0000",
+      "smithingtable": "2025-05-04 03:31:17 +0000",
       "blastfurnace": "2025-05-02 23:59:21 +0000",
       "woodworkingtable": "2025-05-03 00:52:15 +0000",
-      "stonecutter": "2025-05-03 00:00:02 +0000"
+      "stonecutter": "2025-05-03 00:00:02 +0000",
+      "composter": "2025-05-04 03:30:07 +0000"
     },
     "done": false
   },
@@ -4780,6 +4782,30 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-03 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-04 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-04 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-04 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-04 03:35:56 +0000"
     },
     "done": true
   },
