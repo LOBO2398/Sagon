@@ -4561,6 +4561,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-05-04 03:26:02 +0000"
@@ -4573,6 +4591,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4582,6 +4612,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-04 03:33:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -4633,6 +4669,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-04 04:06:12 +0000"
@@ -4669,9 +4717,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -4687,15 +4753,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-04 04:31:09 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
     "criteria": {
       "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
     },
     "done": true
   },
@@ -4717,6 +4813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4735,6 +4837,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4747,6 +4867,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 04:56:50 +0000"
@@ -4756,6 +4888,12 @@
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -4777,9 +4915,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -4792,6 +4942,12 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
     },
     "done": true
   },
@@ -4831,6 +4987,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
@@ -4840,6 +5002,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
     },
     "done": true
   },
@@ -4866,13 +5034,44 @@
       "cleric": "2025-05-04 04:33:44 +0000",
       "fletcher": "2025-05-04 03:29:10 +0000",
       "woodworker": "2025-05-04 03:49:47 +0000",
+      "armorer": "2025-05-04 05:18:41 +0000",
       "farmer": "2025-05-04 03:32:42 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -4894,6 +5093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4909,6 +5114,12 @@
   "cfm:recipes/decorations/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -4948,6 +5159,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-04 03:26:02 +0000"
@@ -4957,6 +5180,18 @@
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
     },
     "done": true
   },
@@ -4978,9 +5213,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -4999,6 +5282,12 @@
   "supplementaries:recipes/decorations/sign_post_mangrove": {
     "criteria": {
       "has_item": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -5026,9 +5315,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -5074,6 +5375,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -5104,6 +5411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-05-04 04:28:47 +0000"
@@ -5122,9 +5435,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-05-04 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -5140,6 +5471,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_crate": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
@@ -5152,9 +5489,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -5167,6 +5516,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
     },
     "done": true
   },
@@ -5191,6 +5546,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
     "criteria": {
       "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
     },
     "done": true
   },
@@ -5278,9 +5639,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-04 05:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
     },
     "done": true
   },
@@ -5296,9 +5675,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -5320,6 +5711,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
     "criteria": {
       "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
@@ -5332,9 +5735,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_park_bench": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 05:17:14 +0000"
     },
     "done": true
   },
@@ -5347,6 +5774,24 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -5404,15 +5849,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
     "criteria": {
       "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -5440,6 +5903,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-05-04 04:26:51 +0000"
@@ -5464,6 +5933,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
@@ -5473,6 +5960,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-05-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-04 05:17:14 +0000"
     },
     "done": true
   },
@@ -5500,15 +5993,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-05-04 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:19:18 +0000"
     },
     "done": true
   },
@@ -5530,9 +6065,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -5554,9 +6107,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-04 05:16:24 +0000"
     },
     "done": true
   },
@@ -5581,6 +6146,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 05:15:40 +0000"
     },
     "done": true
   },
