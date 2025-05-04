@@ -1730,6 +1730,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-04 04:36:18 +0000",
       "minecraft:spider": "2025-05-04 03:04:46 +0000",
       "minecraft:zombie": "2025-05-02 23:40:32 +0000"
     },
@@ -4614,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 04:33:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4832,6 +4839,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "cleric": "2025-05-04 04:33:44 +0000",
       "fletcher": "2025-05-04 03:29:10 +0000",
       "woodworker": "2025-05-04 03:49:47 +0000",
       "farmer": "2025-05-04 03:32:42 +0000"
@@ -4925,6 +4933,12 @@
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-04 04:34:06 +0000"
     },
     "done": true
   },
@@ -5063,6 +5077,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-05-04 04:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 04:33:46 +0000"
     },
     "done": true
   },
@@ -5477,6 +5497,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-04 04:33:46 +0000"
     },
     "done": true
   },
