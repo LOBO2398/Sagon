@@ -2616,3 +2616,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "I\\;Ru)|_320O1g"
 ]
+[04May2025 02:51:43.150] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 02:51:43.151] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 73
+}
+[04May2025 02:51:43.151] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04May2025 02:51:43.151] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\5uC~WRTl9F;320CE4|"
+]
+[04May2025 02:55:48.550] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 02:55:48.551] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 86
+}
+[04May2025 02:55:48.551] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04May2025 02:55:48.551] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<Hw=~U^R{!\\3201M\\p"
+]
+[04May2025 02:57:04.038] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 02:57:04.039] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5188
+}
+[04May2025 02:57:04.039] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04May2025 02:57:04.039] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\"QWn${s>|o 320qiW&"
+]
+[04May2025 02:58:08.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.126.136.224:36391] logged in with entity id 7856 at (-288.03413030787846, 68.0, 1152.3784245979098)
+[04May2025 02:58:08.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[04May2025 02:58:09.000] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[04May2025 02:58:10.324] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[04May2025 02:58:10.324] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[04May2025 02:58:17.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[04May2025 02:58:18.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[04May2025 02:58:18.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[04May2025 02:59:57.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[04May2025 02:59:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[04May2025 02:59:57.261] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224

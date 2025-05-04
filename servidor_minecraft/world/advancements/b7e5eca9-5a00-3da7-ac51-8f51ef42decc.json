@@ -4543,15 +4543,15 @@
     },
     "done": true
   },
-  "hangglider:recipes/tools/hang_glider": {
-    "criteria": {
-      "has_the_recipe": "2025-05-04 02:11:25 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-05-04 02:01:39 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 02:11:25 +0000"
     },
     "done": true
   },
