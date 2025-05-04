@@ -1610,6 +1610,7 @@
       "cooked_beef": "2025-05-04 02:14:22 +0000",
       "beef": "2025-05-03 01:01:48 +0000",
       "porkchop": "2025-05-02 23:22:52 +0000",
+      "apple": "2025-05-04 04:04:45 +0000",
       "mutton": "2025-05-02 23:26:36 +0000",
       "bread": "2025-05-02 23:58:15 +0000",
       "rotten_flesh": "2025-05-04 02:21:20 +0000",
@@ -4613,6 +4614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
@@ -4777,6 +4784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4807,6 +4820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
@@ -4825,9 +4844,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 04:06:55 +0000"
     },
     "done": true
   },
@@ -4846,6 +4877,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-05-04 03:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-05-04 04:06:55 +0000"
     },
     "done": true
   },
@@ -4933,6 +4970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4960,6 +5003,12 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
     },
     "done": true
   },
@@ -4999,9 +5048,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
     },
     "done": true
   },
@@ -5023,6 +5096,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 04:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-04 03:33:48 +0000"
@@ -5038,6 +5117,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-05-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
     },
     "done": true
   },
@@ -5068,6 +5153,18 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-05-04 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:06:12 +0000"
     },
     "done": true
   },

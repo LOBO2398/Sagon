@@ -9972,3 +9972,46 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [04May2025 04:01:17.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 04:01:17.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 04:01:33.575] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:01:33.575] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 122
+}
+[04May2025 04:01:33.575] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04May2025 04:01:33.576] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "EbodblUnV320|"
+]
+[04May2025 04:02:33.212] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04May2025 04:06:14.443] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:06:14.444] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1293459
+}
+[04May2025 04:06:14.444] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[04May2025 04:06:14.444] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "PS5*Db@a#;WqT{F320YQb5!4OOD"
+]
+[04May2025 04:06:17.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 04:06:17.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 04:06:23.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[04May2025 04:06:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> juas juas
+[04May2025 04:06:52.607] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:06:52.607] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 741706
+}
+[04May2025 04:06:52.607] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[04May2025 04:06:52.608] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "&JH\"d_{\\M320-??leg>"
+]
+[04May2025 04:09:30.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=74, z=1062} BlockPos{x=-286, y=73, z=1062}
+[04May2025 04:09:57.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Beast Patient
+[04May2025 04:10:31.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lobo3224 a server operator
+[04May2025 04:10:42.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[04May2025 04:10:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -377.500000, 15.500000, 1188.500000]
+[04May2025 04:11:17.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 04:11:17.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 04:11:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
