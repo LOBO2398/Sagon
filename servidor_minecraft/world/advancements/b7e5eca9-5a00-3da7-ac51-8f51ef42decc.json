@@ -1607,6 +1607,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-05-02 23:21:34 +0000",
+      "cooked_beef": "2025-05-04 02:14:22 +0000",
       "beef": "2025-05-03 01:01:48 +0000",
       "porkchop": "2025-05-02 23:22:52 +0000",
       "mutton": "2025-05-02 23:26:36 +0000",
@@ -4538,6 +4539,12 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:12:29 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 02:11:25 +0000"
     },
     "done": true
   },
