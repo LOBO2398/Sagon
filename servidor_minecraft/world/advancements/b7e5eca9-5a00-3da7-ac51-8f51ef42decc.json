@@ -4689,6 +4689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
@@ -4977,6 +4983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
@@ -5045,6 +5057,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "toolsmith": "2025-05-04 05:55:15 +0000",
       "cleric": "2025-05-04 04:33:44 +0000",
       "fletcher": "2025-05-04 03:29:10 +0000",
       "woodworker": "2025-05-04 03:49:47 +0000",
@@ -5129,6 +5142,12 @@
   "cfm:recipes/decorations/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
     },
     "done": true
   },
@@ -5255,6 +5274,12 @@
   "cfm:recipes/decorations/stripped_acacia_cabinet": {
     "criteria": {
       "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
     },
     "done": true
   },
@@ -5552,6 +5577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-05-04 04:29:27 +0000"
@@ -5693,6 +5724,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_mangrove_planks": "2025-05-04 04:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
     },
     "done": true
   },
@@ -5900,6 +5937,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_acacia_planks": "2025-05-04 05:17:14 +0000"
@@ -5915,6 +5958,12 @@
   "cfm:recipes/decorations/crimson_blinds": {
     "criteria": {
       "has_log": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
     },
     "done": true
   },
@@ -5999,6 +6048,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-05-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
     },
     "done": true
   },
@@ -6191,6 +6246,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-05-04 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-04 05:55:36 +0000"
     },
     "done": true
   },

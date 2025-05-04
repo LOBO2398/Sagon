@@ -5691,6 +5691,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-05-04 05:54:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-05-04 05:04:58 +0000"
@@ -5700,6 +5706,12 @@
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-05-04 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-05-04 05:54:53 +0000"
     },
     "done": true
   },
@@ -5760,6 +5772,12 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-05-04 04:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-04 05:54:53 +0000"
     },
     "done": true
   },
@@ -5931,6 +5949,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-05-04 05:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-04 04:38:09 +0000"
@@ -6030,6 +6054,12 @@
   "supplementaries:recipes/sign_post_cherry": {
     "criteria": {
       "has_the_recipe": "2025-05-04 04:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-04 05:54:53 +0000"
     },
     "done": true
   },
