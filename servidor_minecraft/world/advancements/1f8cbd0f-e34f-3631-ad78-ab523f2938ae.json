@@ -4698,7 +4698,9 @@
       "cleric": "2025-05-04 04:26:16 +0000",
       "fletcher": "2025-05-03 05:13:51 +0000",
       "woodworker": "2025-05-04 05:04:57 +0000",
-      "armorer": "2025-05-04 05:07:57 +0000"
+      "armorer": "2025-05-04 05:07:57 +0000",
+      "farmer": "2025-05-04 05:23:40 +0000",
+      "florist": "2025-05-04 05:24:14 +0000"
     },
     "done": false
   },
@@ -5490,6 +5492,12 @@
     },
     "done": true
   },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-05-04 05:23:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 04:38:09 +0000"
@@ -5499,6 +5507,12 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-05-04 04:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-04 05:30:30 +0000"
     },
     "done": true
   },
@@ -5724,6 +5738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-04 05:24:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-05-04 05:04:58 +0000"
@@ -5913,6 +5933,12 @@
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-04 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-04 05:24:16 +0000"
     },
     "done": true
   },
