@@ -4477,8 +4477,10 @@
       "huntingpost": "2025-05-03 05:03:26 +0000",
       "oceanographytable": "2025-05-04 02:01:43 +0000",
       "fletchingtable": "2025-05-04 03:30:25 +0000",
+      "grindstone": "2025-05-04 05:32:43 +0000",
       "gardeningtable": "2025-05-03 05:03:37 +0000",
       "woodworkingtable": "2025-05-04 02:00:51 +0000",
+      "cauldron": "2025-05-04 05:33:45 +0000",
       "composter": "2025-05-03 05:03:46 +0000"
     },
     "done": false
@@ -5607,6 +5609,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-04 05:47:14 +0000"
     },
     "done": true
   },
