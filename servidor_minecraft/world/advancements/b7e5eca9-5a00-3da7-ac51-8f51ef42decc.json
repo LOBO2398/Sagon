@@ -4468,7 +4468,9 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "huntingpost": "2025-05-03 05:03:26 +0000",
+      "oceanographytable": "2025-05-04 02:01:43 +0000",
       "gardeningtable": "2025-05-03 05:03:37 +0000",
+      "woodworkingtable": "2025-05-04 02:00:51 +0000",
       "composter": "2025-05-03 05:03:46 +0000"
     },
     "done": false
@@ -4536,6 +4538,12 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_the_recipe": "2025-05-03 05:12:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-05-04 02:01:39 +0000"
     },
     "done": true
   },
