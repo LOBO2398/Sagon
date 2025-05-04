@@ -4813,6 +4813,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4921,6 +4927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
@@ -4945,6 +4957,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
@@ -4966,6 +4984,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-04 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
     },
     "done": true
   },
@@ -5032,6 +5056,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-04 03:57:51 +0000"
     },
     "done": true
   },

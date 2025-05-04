@@ -9931,3 +9931,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 03:50:00.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Surge Protector]
 [04May2025 03:51:17.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 03:51:17.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 03:51:54.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-290, y=70, z=1092} BlockPos{x=-290, y=68, z=1093}
+[04May2025 03:55:04.646] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 03:55:04.646] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8570
+}
+[04May2025 03:55:04.646] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04May2025 03:55:04.647] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R\\W^]{*4t320MT7"
+]
+[04May2025 03:56:10.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 03:56:10.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2328
+}
+[04May2025 03:56:10.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04May2025 03:56:10.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Yf2;.:LJ{\\320n,Df"
+]
+[04May2025 03:56:17.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 03:56:17.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 03:58:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzz
+[04May2025 03:58:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
+[04May2025 03:58:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
+[04May2025 03:58:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzz
+[04May2025 03:58:58.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
+[04May2025 03:58:59.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[04May2025 04:00:32.018] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04May2025 04:00:32.019] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11
+}
+[04May2025 04:00:32.019] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04May2025 04:00:32.019] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Z9:P*q0P@sWTdR320Vzo"
+]
+[04May2025 04:01:17.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 04:01:17.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

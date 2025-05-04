@@ -1707,6 +1707,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-03 01:22:36 +0000",
+      "minecraft:spider": "2025-05-04 03:53:25 +0000",
       "minecraft:zombie": "2025-05-03 00:10:33 +0000",
       "minecraft:drowned": "2025-05-03 01:04:49 +0000"
     },
@@ -4797,6 +4798,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-04 03:43:26 +0000"
@@ -4806,6 +4819,36 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-04 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-04 03:53:26 +0000"
     },
     "done": true
   },
