@@ -1855,6 +1855,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-05-06 01:31:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "forge:ash": "2025-05-06 01:21:22 +0000"
