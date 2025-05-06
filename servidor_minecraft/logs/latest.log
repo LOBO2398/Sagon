@@ -739,3 +739,33 @@
 [
   "t%*_R6f=V336`y/"
 ]
+[06May2025 01:44:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Sweet Dreams]
+[06May2025 01:44:40.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[06May2025 01:44:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[06May2025 01:44:40.269] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[06May2025 01:44:45.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[06May2025 01:45:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by YOUNGDINO07
+[06May2025 01:46:05.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Double Trouble]
+[06May2025 01:46:45.781] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 01:46:45.782] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 46
+}
+[06May2025 01:46:45.782] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 01:46:45.782] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "tq|e*V!V!320+@r9:"
+]
+[06May2025 01:48:41.617] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 01:48:41.618] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 81
+}
+[06May2025 01:48:41.618] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 01:48:41.618] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "d)6~L{g+Cnl]UhYY+]336b+4.!D"
+]
+[06May2025 01:49:30.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Monster Hunter]
+[06May2025 01:50:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Beast Patient
+[06May2025 01:51:13.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
