@@ -1584,6 +1584,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "blueprinttable": "2025-05-06 01:03:41 +0000",
       "fletchingtable": "2025-05-03 05:12:36 +0000",
       "brewingstand": "2025-05-03 04:55:42 +0000",
       "grindstone": "2025-05-04 05:32:31 +0000",
@@ -6107,6 +6108,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-06 01:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-05-06 00:45:56 +0000"
@@ -6131,6 +6138,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-06 01:02:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-06 00:45:56 +0000"
@@ -6149,6 +6162,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-06 01:02:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2025-05-06 00:44:43 +0000"
@@ -6164,6 +6183,18 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-05-06 00:43:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-05-06 01:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-06 01:02:29 +0000"
     },
     "done": true
   },
