@@ -10213,3 +10213,179 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   ")\"^<336,xGu)"
 ]
 [06May2025 00:11:05.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:11:13.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:11:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[06May2025 00:11:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Nightmare Stalker
+[06May2025 00:11:43.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 00:11:43.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 00:12:06.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[06May2025 00:12:07.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[06May2025 00:12:11.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[06May2025 00:12:11.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[06May2025 00:12:11.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[06May2025 00:12:11.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[06May2025 00:12:11.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[06May2025 00:12:11.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[06May2025 00:12:11.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[06May2025 00:12:11.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[06May2025 00:12:11.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[06May2025 00:12:11.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[06May2025 00:12:11.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[06May2025 00:12:11.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[06May2025 00:12:11.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[06May2025 00:12:11.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[06May2025 00:12:11.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[06May2025 00:12:11.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[06May2025 00:12:11.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[06May2025 00:12:11.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[06May2025 00:12:11.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[06May2025 00:12:11.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[06May2025 00:12:11.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[06May2025 00:12:11.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[06May2025 00:12:11.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[06May2025 00:12:11.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[06May2025 00:12:11.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[06May2025 00:12:11.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[06May2025 00:12:11.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[06May2025 00:12:11.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[06May2025 00:12:11.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[06May2025 00:12:11.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[06May2025 00:12:11.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[06May2025 00:12:11.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[06May2025 00:12:11.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[06May2025 00:12:11.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[06May2025 00:12:11.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[06May2025 00:12:11.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[06May2025 00:12:11.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[06May2025 00:12:11.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[06May2025 00:12:11.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[06May2025 00:12:11.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[06May2025 00:12:11.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[06May2025 00:12:11.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[06May2025 00:12:11.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[06May2025 00:12:11.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[06May2025 00:12:11.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[06May2025 00:12:11.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[06May2025 00:12:11.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[06May2025 00:12:11.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[06May2025 00:12:11.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06May2025 00:12:11.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[06May2025 00:12:11.898] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[06May2025 00:12:11.909] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[06May2025 00:12:11.963] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[06May2025 00:12:11.999] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[06May2025 00:12:12.033] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[06May2025 00:12:12.086] [Worker-Main-9/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06May2025 00:12:12.087] [Worker-Main-9/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06May2025 00:12:12.087] [Worker-Main-9/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[06May2025 00:12:12.088] [Worker-Main-9/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06May2025 00:12:13.141] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06May2025 00:12:13.142] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06May2025 00:12:13.142] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06May2025 00:12:13.142] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[06May2025 00:12:13.147] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[06May2025 00:12:13.147] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[06May2025 00:12:16.163] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[06May2025 00:12:16.165] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[06May2025 00:12:16.165] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[06May2025 00:12:16.434] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[06May2025 00:12:16.435] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[06May2025 00:12:16.435] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[06May2025 00:12:20.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[06May2025 00:12:24.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[06May2025 00:12:24.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[06May2025 00:12:24.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[06May2025 00:12:24.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[06May2025 00:12:24.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[06May2025 00:12:24.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[06May2025 00:12:24.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[06May2025 00:12:24.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[06May2025 00:12:24.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[06May2025 00:12:24.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[06May2025 00:12:24.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[06May2025 00:12:24.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[06May2025 00:12:24.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[06May2025 00:12:24.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[06May2025 00:12:24.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[06May2025 00:12:24.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[06May2025 00:12:24.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[06May2025 00:12:24.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[06May2025 00:12:24.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[06May2025 00:12:24.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[06May2025 00:12:24.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[06May2025 00:12:30.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06May2025 00:13:24.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[06May2025 00:14:09.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Life turned out to be a comedy]
+[06May2025 00:14:21.095] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:14:21.096] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 39
+}
+[06May2025 00:14:21.096] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 00:14:21.096] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[@>FPdGKLlW320<L"
+]
+[06May2025 00:14:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was doomed to fall by Hollow Assassin
+[06May2025 00:14:42.527] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:14:42.528] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[06May2025 00:14:42.528] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06May2025 00:14:42.528] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CVCmAXJTSQbugz}or}v113TCVCn@WKSQ\\"
+]
+[06May2025 00:15:49.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[06May2025 00:15:49.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[06May2025 00:15:49.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Beast Patient
+[06May2025 00:15:49.773] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of YOUNGDINO07
+[06May2025 00:15:49.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[06May2025 00:15:49.786] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[06May2025 00:15:49.806] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[06May2025 00:15:49.830] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[06May2025 00:15:49.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[06May2025 00:15:49.875] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[06May2025 00:16:43.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 00:16:43.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 00:16:51.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> 343 48.5 191
+[06May2025 00:16:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuf
+[06May2025 00:16:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza me teletransportas
+[06May2025 00:16:59.535] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:16:59.535] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[06May2025 00:16:59.535] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 00:16:59.535] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "uNs%n%.9%L,LuwV336dA:&"
+]
+[06May2025 00:17:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> no
+[06May2025 00:17:13.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> no soy op
+[06May2025 00:17:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> si
+[06May2025 00:17:33.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_08
+[06May2025 00:18:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w|
+[06May2025 00:19:36.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=71, z=189} BlockPos{x=341, y=69, z=189}
+[06May2025 00:20:10.921] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:20:10.921] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4668
+}
+[06May2025 00:20:10.922] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06May2025 00:20:10.922] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "FH7h~_Y6I320t{L8"
+]
+[06May2025 00:20:27.683] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:20:27.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 164428894
+}
+[06May2025 00:20:27.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[06May2025 00:20:27.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\I,Qy*]-Rv320t{L8"
+]
+[06May2025 00:21:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
