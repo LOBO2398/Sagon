@@ -345,3 +345,88 @@
 ]
 [06May2025 00:40:12.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Dark Metallurgy]
 [06May2025 00:40:27.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 hit the ground too hard
+[06May2025 00:42:27.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:42:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Mine? Mine? Mine?]
+[06May2025 00:43:13.982] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:43:13.983] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 160991
+}
+[06May2025 00:43:13.983] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06May2025 00:43:13.984] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "v6M]z]:%#wDU1]%336`YoKN"
+]
+[06May2025 00:43:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [A Seedy Place]
+[06May2025 00:43:32.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=470, y=64, z=827} BlockPos{x=471, y=62, z=828}
+[06May2025 00:43:32.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=470, y=64, z=827} BlockPos{x=471, y=62, z=828}
+[06May2025 00:43:33.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=472, y=64, z=826} BlockPos{x=472, y=62, z=825}
+[06May2025 00:43:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Crops of the Wild]
+[06May2025 00:44:34.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.54.116.65:51887] logged in with entity id 30286 at (257.69999998807907, 73.0, 156.30000001192093)
+[06May2025 00:44:34.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[06May2025 00:44:34.620] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[06May2025 00:44:35.826] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[06May2025 00:44:35.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[06May2025 00:44:42.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[06May2025 00:44:43.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[06May2025 00:44:43.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[06May2025 00:45:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[06May2025 00:48:24.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:48:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Zombie
+[06May2025 00:48:36.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24786, l='ServerLevel[world]', x=251.15, y=70.00, z=182.05] died, message: 'Unemployed hit the ground too hard'
+[06May2025 00:48:38.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:49:01.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Beast Patient
+[06May2025 00:49:06.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24787, l='ServerLevel[world]', x=249.75, y=68.00, z=163.01] died, message: 'Unemployed hit the ground too hard'
+[06May2025 00:49:06.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Getting an Upgrade]
+[06May2025 00:49:15.415] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:49:15.416] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 100
+}
+[06May2025 00:49:15.416] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 00:49:15.416] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#8:khpYYb>krN320Fo5d"
+]
+[06May2025 00:49:58.710] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:49:58.710] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2072199878
+}
+[06May2025 00:49:58.710] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[06May2025 00:49:58.711] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#Xx|?[m-s)Y`336,0y\"CIg"
+]
+[06May2025 00:50:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Ashen Blood Beast Patient
+[06May2025 00:50:21.308] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:50:21.309] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 9662
+}
+[06May2025 00:50:21.309] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06May2025 00:50:21.309] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "^H]^ .=Pz_#[_320_|lE_"
+]
+[06May2025 00:50:47.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> wwwwwwwwwwwwwwwwww
+[06May2025 00:50:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:50:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:50:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:50:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:50:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:50:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:50:49.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> w
+[06May2025 00:51:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> wwwwwwwwwww
+[06May2025 00:51:08.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Dark Vortex
+[06May2025 00:51:20.987] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 00:51:20.988] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 35
+}
+[06May2025 00:51:20.988] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 00:51:20.988] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Tvdi~x^/*Y!320\\E ZIkKl"
+]
+[06May2025 00:51:27.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35103, l='ServerLevel[world]', x=-335.11, y=-256.00, z=1107.57] died, message: 'Unemployed was killed'
