@@ -2466,3 +2466,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "!dFE!p|:EZF336+Q}="
 ]
+[06May2025 22:02:34.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.54.116.65:44363] logged in with entity id 1007 at (204.85786093267606, 57.0, 529.2914368673637)
+[06May2025 22:02:34.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[06May2025 22:02:34.607] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[06May2025 22:02:35.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[06May2025 22:02:35.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[06May2025 22:02:42.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[06May2025 22:02:43.887] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[06May2025 22:02:43.887] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[06May2025 22:03:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> unite
+[06May2025 22:03:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[06May2025 22:07:09.935] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 22:07:09.935] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 123
+}
+[06May2025 22:07:09.935] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 22:07:09.936] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "S9*<\"8@g320a:AW"
+]
+[06May2025 22:08:42.344] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 22:08:42.345] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1751
+}
+[06May2025 22:08:42.345] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06May2025 22:08:42.345] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8TOB)V8336g.((tG"
+]
+[06May2025 22:11:44.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[06May2025 22:11:44.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[06May2025 22:11:44.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[06May2025 22:12:24.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[06May2025 22:12:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[06May2025 22:12:24.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[06May2025 22:12:24.978] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
