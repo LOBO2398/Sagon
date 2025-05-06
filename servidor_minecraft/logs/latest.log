@@ -3177,3 +3177,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [06May2025 20:48:11.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18952, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
 [06May2025 20:48:46.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19002, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[06May2025 20:51:28.152] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 20:51:28.152] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 116
+}
+[06May2025 20:51:28.152] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 20:51:28.153] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+1@Ne~yUXk}_jdccB320f)"
+]
+[06May2025 20:51:35.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.54.116.65:38629] logged in with entity id 19445 at (205.56280062372556, 57.0, 528.6780465146047)
+[06May2025 20:51:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[06May2025 20:51:35.709] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[06May2025 20:51:36.970] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[06May2025 20:51:36.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[06May2025 20:51:42.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[06May2025 20:51:43.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[06May2025 20:51:43.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[06May2025 20:52:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> HOLA
+[06May2025 20:52:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> buenas
+[06May2025 20:53:26.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! 1.0165275285914959,1.942198241555829,14.348502258814733
+[06May2025 20:54:49.665] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 20:54:49.666] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 893906
+}
+[06May2025 20:54:49.666] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06May2025 20:54:49.666] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CNhX;7OPh*Ty3368jCY6b_"
+]
+[06May2025 20:56:53.661] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06May2025 20:56:53.662] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 56
+}
+[06May2025 20:56:53.662] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06May2025 20:56:53.662] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#8_Op07%hkX7x`Q3205,}Zwv"
+]
+[06May2025 20:57:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> me voy chau
+[06May2025 20:57:48.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> oka
+[06May2025 20:57:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> no apages
+[06May2025 20:57:53.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ok
+[06May2025 20:57:54.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[06May2025 20:57:54.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[06May2025 20:57:54.537] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224

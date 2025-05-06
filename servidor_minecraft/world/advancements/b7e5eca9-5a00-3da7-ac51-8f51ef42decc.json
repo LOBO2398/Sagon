@@ -1622,6 +1622,7 @@
       "rotten_flesh": "2025-05-04 02:21:20 +0000",
       "melon_slice": "2025-05-04 03:26:05 +0000",
       "cooked_chicken": "2025-05-04 03:09:29 +0000",
+      "mushroom_stew": "2025-05-06 20:55:47 +0000",
       "carrot": "2025-05-03 05:15:21 +0000"
     },
     "done": false
@@ -6780,6 +6781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-05-06 20:46:29 +0000"
@@ -6801,6 +6808,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-06 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-05-06 20:53:45 +0000"
     },
     "done": true
   },
@@ -6828,9 +6841,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-06 20:30:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-06 20:55:47 +0000"
     },
     "done": true
   },
@@ -6942,6 +6967,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-06 20:46:29 +0000"
@@ -7002,6 +7033,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-06 20:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-06 20:22:15 +0000"
@@ -7056,6 +7093,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_cherry_planks": "2025-05-06 20:22:15 +0000"
@@ -7074,6 +7123,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-06 20:22:15 +0000"
@@ -7086,6 +7141,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-06 20:42:55 +0000"
@@ -7095,6 +7156,12 @@
   "refurbished_furniture:recipes/decorations/white_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-06 20:46:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-06 20:53:45 +0000"
     },
     "done": true
   },
@@ -7134,6 +7201,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-06 20:46:29 +0000"
@@ -7158,9 +7237,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-05-06 20:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 20:46:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-06 20:55:47 +0000"
     },
     "done": true
   },
@@ -7227,6 +7318,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-06 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-06 20:53:45 +0000"
     },
     "done": true
   },
