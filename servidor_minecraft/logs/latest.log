@@ -430,3 +430,18 @@
   "Tvdi~x^/*Y!320\\E ZIkKl"
 ]
 [06May2025 00:51:27.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35103, l='ServerLevel[world]', x=-335.11, y=-256.00, z=1107.57] died, message: 'Unemployed was killed'
+[06May2025 00:53:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Hollow Assassin
+[06May2025 00:53:34.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[06May2025 00:53:36.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> voy a comer
+[06May2025 00:53:47.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> XD
+[06May2025 00:53:54.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[06May2025 00:53:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[06May2025 00:53:54.070] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[06May2025 00:54:01.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:54:58.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[06May2025 00:54:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[06May2025 00:54:58.278] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[06May2025 00:55:21.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[06May2025 00:57:35.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[06May2025 00:58:57.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[06May2025 01:00:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall by Skeleton

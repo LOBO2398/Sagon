@@ -6279,6 +6279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:59:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
       "has_birch_planks": "2025-05-06 00:43:55 +0000"
@@ -6417,6 +6423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-06 00:05:32 +0000"
@@ -6477,6 +6489,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-06 00:59:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-06 00:43:55 +0000"
@@ -6492,6 +6510,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-06 00:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:59:04 +0000"
     },
     "done": true
   },
@@ -6513,6 +6537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:59:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-05-06 00:43:55 +0000"
@@ -6531,9 +6561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:59:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
       "has_planks": "2025-05-06 00:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-06 00:59:04 +0000"
     },
     "done": true
   },

@@ -1765,6 +1765,36 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-06 00:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-06 00:54:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-05-06 00:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 00:54:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-05-06 00:54:07 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2025-05-06 00:50:09 +0000"
@@ -1789,6 +1819,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-06 00:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-06 00:50:09 +0000"
@@ -1810,6 +1846,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-05-06 00:50:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-05-06 00:54:07 +0000"
     },
     "done": true
   },
