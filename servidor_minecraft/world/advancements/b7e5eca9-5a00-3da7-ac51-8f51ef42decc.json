@@ -76,6 +76,7 @@
       "minecraft:river": "2025-05-02 03:44:07 +0000",
       "minecraft:lukewarm_ocean": "2025-05-03 00:48:00 +0000",
       "minecraft:stony_shore": "2025-05-03 01:18:52 +0000",
+      "minecraft:dripstone_caves": "2025-05-06 20:26:48 +0000",
       "minecraft:grove": "2025-05-03 01:17:23 +0000",
       "minecraft:forest": "2025-04-30 02:40:37 +0000",
       "minecraft:ocean": "2025-05-03 01:19:49 +0000",
@@ -6651,6 +6652,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-06 20:30:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-05-06 20:22:15 +0000"
@@ -6684,6 +6691,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-05-06 20:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 20:30:48 +0000"
     },
     "done": true
   },
@@ -6723,6 +6736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 20:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-06 20:22:15 +0000"
@@ -6732,6 +6751,12 @@
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-05-06 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-06 20:33:13 +0000"
     },
     "done": true
   },
@@ -6765,6 +6790,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-06 20:30:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-06 20:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 20:30:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-05-06 20:22:15 +0000"
@@ -6774,6 +6817,12 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-06 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-06 20:30:48 +0000"
     },
     "done": true
   },
