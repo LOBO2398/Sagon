@@ -4489,6 +4489,7 @@
       "grindstone": "2025-05-04 05:32:43 +0000",
       "gardeningtable": "2025-05-03 05:03:37 +0000",
       "blastfurnace": "2025-05-06 00:02:43 +0000",
+      "lectern": "2025-05-07 22:07:32 +0000",
       "woodworkingtable": "2025-05-04 02:00:51 +0000",
       "cauldron": "2025-05-04 05:33:45 +0000",
       "composter": "2025-05-03 05:03:46 +0000"
@@ -7367,6 +7368,12 @@
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-05-07 21:55:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-05-07 22:01:46 +0000"
     },
     "done": true
   },

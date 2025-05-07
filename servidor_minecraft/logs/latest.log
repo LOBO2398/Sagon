@@ -2542,3 +2542,81 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "oO]$v=P.&KkRQl320y^wq-"
 ]
+[07May2025 22:04:57.726] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 22:04:57.727] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8317
+}
+[07May2025 22:04:57.727] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 22:04:57.727] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\]6EfO!!JJ320."
+]
+[07May2025 22:06:30.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> l
+[07May2025 22:06:34.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:34.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:36.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:37.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:38.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:38.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:39.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:40.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:40.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:41.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:42.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:42.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:43.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:43.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:44.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> tt
+[07May2025 22:06:45.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> t
+[07May2025 22:06:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> tt
+[07May2025 22:06:46.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Kicked for spamming
+[07May2025 22:06:46.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[07May2025 22:06:46.498] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[07May2025 22:06:57.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.135.49.103:45889] logged in with entity id 7533 at (194.38042233643574, 52.5, 516.7516439585698)
+[07May2025 22:06:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[07May2025 22:06:57.234] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[07May2025 22:06:58.199] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[07May2025 22:06:58.199] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[07May2025 22:07:06.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[07May2025 22:07:07.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[07May2025 22:07:07.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[07May2025 22:07:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> al final si lo hizo
+[07May2025 22:07:37.006] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 22:07:37.007] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 68
+}
+[07May2025 22:07:37.007] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 22:07:37.007] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "ItLSO+Le23GeX}u320EH.oL"
+]
+[07May2025 22:11:16.397] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 22:11:16.397] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[07May2025 22:11:16.397] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 22:11:16.398] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "LZ8f%9%}6w!|320o#n}K"
+]
+[07May2025 22:12:31.548] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 22:12:31.549] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8250
+}
+[07May2025 22:12:31.549] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 22:12:31.549] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8)0745QunQ0320i.ORe"
+]
+[07May2025 22:13:58.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[07May2025 22:13:58.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[07May2025 22:13:58.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
