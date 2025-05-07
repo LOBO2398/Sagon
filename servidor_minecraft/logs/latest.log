@@ -2949,3 +2949,86 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "_z{?1&6N_!Jc320S-al#d"
 ]
+[07May2025 23:05:56.916] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:05:56.917] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11236
+}
+[07May2025 23:05:56.917] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 23:05:56.917] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Z$-E,\\+r320*'"
+]
+[07May2025 23:06:03.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Gravedigger]
+[07May2025 23:06:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> F}
+[07May2025 23:06:31.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19456, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[07May2025 23:07:13.777] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:07:13.778] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1778
+}
+[07May2025 23:07:13.778] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 23:07:13.778] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "72\\m;kx6Y{C320JM+"
+]
+[07May2025 23:07:14.246] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[07May2025 23:07:14.246] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[07May2025 23:09:45.697] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:09:45.697] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5
+}
+[07May2025 23:09:45.698] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 23:09:45.698] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "v L`HB[Mp3208:6"
+]
+[07May2025 23:11:00.777] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:11:00.777] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3766
+}
+[07May2025 23:11:00.777] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 23:11:00.778] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "4Y7hzo:320]jm79"
+]
+[07May2025 23:13:32.831] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:13:32.832] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 65
+}
+[07May2025 23:13:32.832] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 23:13:32.832] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "s]>%4XJUw|320=|/_N"
+]
+[07May2025 23:13:40.726] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:13:40.726] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 99
+}
+[07May2025 23:13:40.727] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 23:13:40.727] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9&svy2320]qjcf"
+]
+[07May2025 23:14:32.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> 7kill kevedo909
+[07May2025 23:14:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> 7kill lobo3224
+[07May2025 23:14:49.014] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:14:49.015] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1127616
+}
+[07May2025 23:14:49.015] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[07May2025 23:14:49.015] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "b\"]E^320LhdR"
+]
+[07May2025 23:14:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> motivo: tu puta madre
+[07May2025 23:15:23.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.125.27.7:55513] logged in with entity id 22845 at (-337.89494307993624, 69.0, 1106.987995252982)
+[07May2025 23:15:23.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[07May2025 23:15:23.109] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[07May2025 23:15:26.206] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[07May2025 23:15:26.206] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
