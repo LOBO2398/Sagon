@@ -3295,3 +3295,138 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07May2025 23:45:49.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22867, l='ServerLevel[world]', x=-298.84, y=72.56, z=1065.46] died, message: 'Farmer was slain by Zombie'
 [07May2025 23:45:50.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22864, l='ServerLevel[world]', x=-297.73, y=72.56, z=1067.51] died, message: 'Farmer was slain by Zombie'
 [07May2025 23:45:54.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22868, l='ServerLevel[world]', x=-299.70, y=72.00, z=1067.70] died, message: 'Farmer was slain by Zombie Villager'
+[07May2025 23:46:47.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.125.27.7:51211] logged in with entity id 33233 at (-300.51249998807907, 64.0, 1157.4849699095353)
+[07May2025 23:46:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[07May2025 23:46:47.494] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[07May2025 23:46:48.113] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[07May2025 23:46:48.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[07May2025 23:46:54.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[07May2025 23:46:55.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[07May2025 23:46:55.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[07May2025 23:47:23.902] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:47:23.902] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11260
+}
+[07May2025 23:47:23.903] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[07May2025 23:47:23.903] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Xm6A`\"(0M&{0:320rKYe"
+]
+[07May2025 23:48:24.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.2876134572474882
+[07May2025 23:48:24.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.580945992615284
+[07May2025 23:48:24.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.882254890647971
+[07May2025 23:48:26.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5123600399756754
+[07May2025 23:48:26.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0229167281239597
+[07May2025 23:48:26.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.5250782373341565
+[07May2025 23:48:26.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.017150555099221
+[07May2025 23:48:26.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.5143715670345443
+[07May2025 23:48:26.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 3.019321083793926
+[07May2025 23:48:27.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 3.53097728348763
+[07May2025 23:48:27.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 4.050583964680271
+[07May2025 23:48:27.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5263612985096984
+[07May2025 23:48:27.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0568715873984615
+[07May2025 23:48:27.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.5915012705786182
+[07May2025 23:48:27.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.130221407006644
+[07May2025 23:48:27.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5338445486453338
+[07May2025 23:48:27.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0686810789258914
+[07May2025 23:48:27.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5348391844729861
+[07May2025 23:48:27.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0706651314381475
+[07May2025 23:48:27.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.6074762039887105
+[07May2025 23:48:27.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.145270765217873
+[07May2025 23:48:27.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5488081743215787
+[07May2025 23:48:27.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0986148146441224
+[07May2025 23:48:27.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5417337223054517
+[07May2025 23:48:27.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0844461896723487
+[07May2025 23:48:27.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.6281357621712402
+[07May2025 23:48:27.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.1728008584415193
+[07May2025 23:48:27.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5510526555566173
+[07May2025 23:48:27.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.1053409115532133
+[07May2025 23:48:28.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5466398212059289
+[07May2025 23:48:28.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.0622324929010176
+[07May2025 23:48:28.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.5457258941858072
+[07May2025 23:48:28.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.9964629244077798
+[07May2025 23:48:28.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.4141492865830116
+[07May2025 23:48:28.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.42918595339418175
+[07May2025 23:48:28.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.8322825027885585
+[07May2025 23:48:28.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.3777311076709964
+[07May2025 23:48:28.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.7284465438582117
+[07May2025 23:48:28.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.051676278184459
+[07May2025 23:48:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.2892066109243103
+[07May2025 23:48:28.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5594326655513839
+[07May2025 23:48:28.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.807071387456233
+[07May2025 23:48:28.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.25366584170240003
+[07May2025 23:48:28.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.2620607920312352
+[07May2025 23:48:28.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5317841202020759
+[07May2025 23:48:28.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.2699846833254469
+[07May2025 23:48:29.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5470881175891691
+[07May2025 23:48:29.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.8311552381885008
+[07May2025 23:48:29.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.122040789960323
+[07May2025 23:48:29.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.3048798995249342
+[07May2025 23:48:29.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.6164742144286777
+[07May2025 23:48:29.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.3188556052513434
+[07May2025 23:48:29.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.6127148942335623
+[07May2025 23:48:29.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.8815778669466567
+[07May2025 23:48:34.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> 7tp lobo3224
+[07May2025 23:48:38.743] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:48:38.743] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 93
+}
+[07May2025 23:48:38.744] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 23:48:38.744] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$D2Oyc[?/C320q4["
+]
+[07May2025 23:49:07.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.2804487448532882
+[07May2025 23:49:07.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.554686265957514
+[07May2025 23:49:07.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.8420256747823487
+[07May2025 23:49:07.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.1466359136070423
+[07May2025 23:49:07.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.4612159079270555
+[07May2025 23:49:07.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 1.7805452427001
+[07May2025 23:49:07.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.121610631645069
+[07May2025 23:49:07.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 2.4853504614064263
+[07May2025 23:49:07.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.3654885582356542
+[07May2025 23:49:07.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.6977316290637532
+[07May2025 23:49:07.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.2926669827169235
+[07May2025 23:49:07.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.564196238660486
+[07May2025 23:49:12.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[07May2025 23:49:12.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[07May2025 23:49:12.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[07May2025 23:49:45.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Timed out
+[07May2025 23:49:45.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[07May2025 23:49:45.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[07May2025 23:49:53.917] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:49:53.917] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 93
+}
+[07May2025 23:49:53.917] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 23:49:53.917] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "is@mUH_W*9T-320{4Q.aW"
+]
+[07May2025 23:50:11.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.125.27.7:43221] logged in with entity id 34588 at (-300.8823851669394, 68.0, 1153.925000011921)
+[07May2025 23:50:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[07May2025 23:50:11.998] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[07May2025 23:50:12.970] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[07May2025 23:50:12.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[07May2025 23:50:17.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[07May2025 23:50:18.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[07May2025 23:50:18.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[07May2025 23:50:29.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza
+[07May2025 23:50:32.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[07May2025 23:50:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque te desconects
+[07May2025 23:50:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> se me apago la compu
+[07May2025 23:50:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[07May2025 23:51:10.464] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[07May2025 23:51:10.465] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 73
+}
+[07May2025 23:51:10.465] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[07May2025 23:51:10.465] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~c[S+w/+Y320bjCo9n"
+]
+[07May2025 23:55:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Corpse Fly

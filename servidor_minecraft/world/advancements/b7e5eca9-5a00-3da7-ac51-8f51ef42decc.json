@@ -7390,27 +7390,27 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-05-07 23:04:49 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-05-07 23:04:13 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-07 23:04:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-07 23:04:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
     "criteria": {
-      "has_cornflower": "2025-05-07 23:04:13 +0000"
+      "has_planks": "2025-05-07 23:04:49 +0000"
     },
     "done": true
   },
@@ -7432,21 +7432,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-05-07 23:06:09 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_mangrove_chair": {
     "criteria": {
       "has_planks": "2025-05-07 23:04:49 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_04": "2025-05-07 23:06:03 +0000"
     },
     "done": true
   },
@@ -7465,12 +7453,6 @@
   "cfm:recipes/decorations/stripped_mangrove_desk": {
     "criteria": {
       "has_planks": "2025-05-07 23:04:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-05-07 23:06:09 +0000"
     },
     "done": true
   },
@@ -7495,6 +7477,24 @@
   "cfm:recipes/decorations/mangrove_blinds": {
     "criteria": {
       "has_log": "2025-05-07 23:04:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2025-05-07 23:06:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-07 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-07 23:06:09 +0000"
     },
     "done": true
   },
