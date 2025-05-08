@@ -1715,6 +1715,7 @@
       "minecraft:pillager": "2025-05-03 01:22:36 +0000",
       "minecraft:skeleton": "2025-05-04 04:34:47 +0000",
       "minecraft:spider": "2025-05-04 03:53:25 +0000",
+      "minecraft:phantom": "2025-05-08 00:51:53 +0000",
       "minecraft:zombie": "2025-05-03 00:10:33 +0000",
       "minecraft:drowned": "2025-05-03 01:04:49 +0000",
       "minecraft:zombie_villager": "2025-05-08 00:04:16 +0000"
@@ -6493,6 +6494,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-08 00:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-05-08 00:44:31 +0000"
@@ -6505,9 +6512,21 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_glider_framework": "2025-05-08 00:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-08 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-08 00:47:17 +0000"
     },
     "done": true
   },

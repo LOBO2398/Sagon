@@ -2571,3 +2571,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 00:50:57.425] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
 [08May2025 00:50:58.463] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
 [08May2025 00:50:58.464] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[08May2025 00:51:05.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[08May2025 00:51:05.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[08May2025 00:51:05.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[08May2025 00:57:27.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has reached the goal [Troll Hunter]
+[08May2025 00:58:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Deceived Hopes]
+[08May2025 00:58:06.283] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08May2025 00:58:06.286] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 96
+}
+[08May2025 00:58:06.287] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[08May2025 00:58:06.287] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "DLGW?NJ\"e]320'b7O"
+]
+[08May2025 01:00:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
+[08May2025 01:00:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza
+[08May2025 01:00:14.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[08May2025 01:00:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> por favor elimina el beast patient
+[08May2025 01:00:35.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> :(
+[08May2025 01:00:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> cual es eese
