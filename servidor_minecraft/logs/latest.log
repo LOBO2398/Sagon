@@ -2592,3 +2592,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 01:00:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> por favor elimina el beast patient
 [08May2025 01:00:35.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> :(
 [08May2025 01:00:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> cual es eese
+[08May2025 01:02:03.872] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08May2025 01:02:03.873] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 109
+}
+[08May2025 01:02:03.873] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[08May2025 01:02:03.873] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|RekTZx6)s480sUq{<,['wX"
+]
+[08May2025 01:02:13.294] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08May2025 01:03:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el esqueleto largo
+[08May2025 01:03:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> mutante?
+[08May2025 01:03:20.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> con boca y espada
+[08May2025 01:03:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose
+[08May2025 01:03:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> che
+[08May2025 01:03:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> y santi?
+[08May2025 01:03:45.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> vos mismo saabes que no lo boy a quitar
+[08May2025 01:05:48.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab timed out
+[08May2025 01:05:48.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player kevedo909
+[08May2025 01:05:48.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[08May2025 01:06:12.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Timed out
+[08May2025 01:06:12.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[08May2025 01:06:12.095] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[08May2025 01:06:24.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.135.49.103:52961] logged in with entity id 21086 at (196.6011905109837, 32.0, 503.75163677367794)
+[08May2025 01:06:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[08May2025 01:06:24.411] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[08May2025 01:06:25.299] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[08May2025 01:06:25.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[08May2025 01:06:32.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[08May2025 01:06:33.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[08May2025 01:06:33.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[08May2025 01:08:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> VAMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS
+[08May2025 01:08:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el agus juegaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[08May2025 01:08:49.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> oka
+[08May2025 01:10:18.640] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08May2025 01:10:21.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22751, l='ServerLevel[world]', x=211.53, y=-256.00, z=539.06] died, message: 'Unemployed was killed'
+[08May2025 01:11:12.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Vampire Slayer]
