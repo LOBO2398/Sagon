@@ -2424,3 +2424,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 00:16:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 moved too quickly! 0.32500774820610445,-10.03804990759602,2.562870703243675
 [08May2025 00:17:43.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
 [08May2025 00:18:02.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
+[08May2025 00:25:00.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[08May2025 00:25:05.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Made lobo3224 no longer a server operator]
+[08May2025 00:27:59.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> kevin
+[08May2025 00:30:20.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 lantern
